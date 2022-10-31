@@ -1,0 +1,2 @@
+- uses the open source [[Redis]] as a background image for this service
+- or its based off it so you can easily import and export the data

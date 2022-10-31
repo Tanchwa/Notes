@@ -1,0 +1,5 @@
+- unstructured storage
+- no worrying about FS protocols, no resizing
+- pay for what you store
+- similar to [[AWS S3]]
+-

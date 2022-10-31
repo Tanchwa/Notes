@@ -1,0 +1,4 @@
+- globaly distributed role and access platform
+- all the identities and resources that can be assigned to services or users
+-
+-

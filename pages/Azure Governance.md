@@ -1,0 +1,78 @@
+tags:: Azure, Insight, Cloud Security
+
+- [[Cloud Adoption Framework]]
+- [[Azure RBAC]]
+- [[Azure Cost Management]]
+- [[Azure Resource Graph]]
+- [[Azure Management Group]]
+- [[Azure Monitor]]
+- [[Azure Draas]]
+-
+-
+- governance is not a one and done, its constantly making sure things are aligned to needs
+-
+- Find the right balance between process/ control, agility, and compliance
+	- docs
+	- tools
+	- templates
+-
+- Microsofts Defnition
+	- Risk
+		- how much risk will the business tolerate
+		- 5 minutes of downtime a year?
+	- Compliance
+		- [[Azure Compliance Program]]
+	- Process
+		- monitor and adhere to corporate policies
+- 5 Disciplins of Cloud governance
+	- Cost management
+		- [[Azure Blueprints]]
+		- [[Azure Policy]]
+		- [[Azure Cost Management]]
+	- security baseline
+		- [[HashiCorp Vault]]
+		- [[Splunk]]
+		- [[Palo Alto]]
+	- resource consistancy
+		- [[Service Now]]
+		- [[HashiCorp Terraform]]
+	- identity baseline
+		- control how people auth to the system
+		- needs to be zero trust
+		- RSA
+		- [[HashiCorp Vault]]
+	- Deployment acceleration
+		- accelerate deployment through
+			- centralization
+			- consistency
+			- and standardization
+			- [[Nagios]]
+			- [[Ansible]], [[Chef]], [[Puppet]], [[Zabix]]
+-
+- Monitoring is important, you need to see in order to protect
+-
+- Every action in Azure is recording by default
+	- default logs are kept with 30 days
+	- security events are after 90
+	- *may have changed
+	- [[SIEM]]
+	- have to pay for longer logging
+-
+- Tagging
+	- tags are just key value pairs
+	- use to manage data
+	- Functional tagging
+		- prod
+		- data
+	- Classification tagging
+		- data tagging
+			- private
+			- classified
+			- critical
+	- Accounting
+		- track costs
+	- Azure also has some best practice tagging [examples](learn.microsoft.com/cloud-adoption-framework/ready/azure-best-practices/resource-tagging)
+		- department
+		- cost center
+		- owner
+-

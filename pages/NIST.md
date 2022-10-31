@@ -1,0 +1,2 @@
+- the national institute of standards and technology (NIST) cybersecurity framework
+- voluntary framework that consists of standards, guidelines, and best practices to manage cybersecurity related risks

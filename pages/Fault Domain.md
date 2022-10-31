@@ -1,0 +1,2 @@
+- a local grouping of hardware to avoid a single point of failure within an AZ
+- group of virtual machines that share a common power source and network switch

@@ -1,0 +1,5 @@
+- management for tokens, passwords, certs, api keys, and other secrets
+- certificate management for SSL
+- create and control encryption keys
+-
+- secrets and keys can be protected either by software or by [[FIPS 140-2]] Level 2 validated [[HSM]]s

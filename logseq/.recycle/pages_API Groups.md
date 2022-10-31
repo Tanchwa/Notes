@@ -1,0 +1,1 @@
+- api groups can be listed using the `kubectl`

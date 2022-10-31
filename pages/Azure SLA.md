@@ -1,0 +1,15 @@
+- Azure's commitment to uptime and connectivity
+- per azure service
+- uptime and connectivity is measured through performance targets:
+	- a percentage
+-
+- Some important ones to remember
+	- Virtual machines
+		- two or more machines across two or more AZ will have vm connectivity to at least one instance 99.99% of the time
+		- a two or more role instances in different [[Fault Domain]] and [[Update Domain]] will have a role instance connectivity at least 99.95% of the time
+		- two or more instances deployed in the same [[Availability Set]] will have virtual machine connectivity to at least one instance at least 99.95% of the time
+		- any single instance using premium storage for all disks, 99.9%
+		- single instance using standard SSD [[Azure Disk Storage]] , 99.5%
+		- single instance using standard HDD [[Azure Disk Storage]], 95%
+	-
+- a detailed list of grunted availability can be found [here](https://azure.microsoft.com/en-us/support/legal/sla/summary/)

@@ -1,0 +1,8 @@
+- azure offers two tiers
+- Basic
+	- free, already on on azure's global network
+- DDoS protection standard
+	- $2,994 a month starting price
+	- metrics, alerts, reporting
+	- DDoS Expert support
+	- Application and cost protection SLAs

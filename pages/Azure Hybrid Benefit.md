@@ -1,0 +1,3 @@
+- gives client the ability to use windows server licenses on VMs on azure
+- Windows Servers or SQL servers
+- Azure Hybrid Use Benefit is called HUB

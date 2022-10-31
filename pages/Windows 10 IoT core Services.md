@@ -1,0 +1,2 @@
+- services subscription that provides the essential services needed to commercialize a device on Windows 10 IoT core
+- long term OS support

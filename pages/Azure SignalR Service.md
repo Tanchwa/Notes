@@ -1,0 +1,3 @@
+- easily add real time web functionality (messaging) to applications
+- its like [[Pusher]] For Azure
+- originally designed for traders to make instantanious trading decisions

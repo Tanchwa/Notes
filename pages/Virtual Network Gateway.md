@@ -1,0 +1,1 @@
+- a site to site VPN between an [[Azure vNet]] and your local network

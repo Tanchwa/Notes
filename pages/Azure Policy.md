@@ -1,0 +1,41 @@
+- a service you can use to create assign and manage rulesets
+- policies allow you to control or enforce properties of a resource
+- azure evaluates resources in azure by comparing the properties of those resources to business rules
+- business rules are known as [[Azure Policy Definition]]
+-
+- for example, a client is denied in their subscription or [[Azure Management Group]] to create a public IP address
+-
+- its asynchronous
+	- not creating anything new
+	- not going to report or make changes until it goes through the env and checks all resources against all rules
+	- usually the checks happen hourly
+	- there is a way to force a check through powershell or CLI
+		- goes faster on smaller resource groups
+-
+- built in policies
+	- require SQL server version
+	- Allow storage account SKUs
+	- Allowed resource types
+	- Allowed locations
+	- Allowed Virtual Machine SKUs
+	- Apply tag and default value
+	- Enforce tag and its value
+	- Not allowed resource types
+-
+- can apply [[Azure Compliance Program]] standards through a standard group of policies
+-
+- Policy Structure
+	- Display name
+	- Description
+	- Mode
+	- Metadata
+	- Parameters
+	- Policy Rule
+		- Logical evaluation
+		- Effect
+			- Append
+			- Audit
+			- Deny
+			- DeployifNotExists - embedded ARM template for remediation (example, someone deploys a resource with TSL1.0, the [[Azure Resource Manager]] changes it to TLS 2.0 automatically)
+-
+-

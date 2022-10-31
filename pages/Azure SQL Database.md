@@ -1,0 +1,3 @@
+- its an MS SQL based
+- any time azure mentions SQL, its usually MSQL
+- otherwise, it will say Azure Database for MySQL, PostreSQL, MariaDB etc.

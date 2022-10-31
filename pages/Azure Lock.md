@@ -1,0 +1,3 @@
+- have three different lock levels
+	- CanNotDelete
+	- ReadOnly

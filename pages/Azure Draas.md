@@ -1,0 +1,7 @@
+- disaster recovery as a service
+- Includes [[Azure Site Recovery]]
+-
+- shift the workload from a data center to Azure
+-
+- Note: Easy to transfer to Azure, hard to pull back down
+-

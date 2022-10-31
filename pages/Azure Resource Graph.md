@@ -1,0 +1,1 @@
+- can query info about everything in azure

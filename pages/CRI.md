@@ -1,0 +1,2 @@
+- Container Runtime Interface
+- Definition for how an orchestration tool like [[Kubernetes]] or any other container orchestration tool communicates with a container runtime like [[Docker]]

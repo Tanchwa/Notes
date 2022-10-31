@@ -1,0 +1,6 @@
+tags:: Insight, Azure, Azure Policy
+
+- #+BEGIN_TIP
+  ASSIGN TEST POLICIES TO SMALLER GROUPS FOR QUICKER FEEDBACK
+  #+END_TIP
+-

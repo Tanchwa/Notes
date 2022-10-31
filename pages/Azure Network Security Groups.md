@@ -1,0 +1,3 @@
+- Similar to AWS security groups
+- a smart firewall that operates at subnet level, layer 3, that can block or allow traffic based on IP, ports
+- but can also utilize tags and groups to smart route traffic

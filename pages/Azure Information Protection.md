@@ -1,0 +1,2 @@
+- protects sensitive information such as emails, docs with encryption, restricted access and rights, and has integrated security in Office apps
+- can change the permissions of an application through "Protect" button in Office 365 apps

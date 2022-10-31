@@ -1,0 +1,106 @@
+tags:: Azure, Insight, Architecture, Cloud
+
+- Traditional on prem has been
+	- monolithic
+	- designed for predictable scaleability
+	- synchronized processing
+		- NTP?
+		- Kerberos?
+	- Designed to avoid failures (MTBF)
+	- Occasional large updates
+	- Manual management
+	- Snowflake servers
+- Modern Cloud
+	- Decomposed
+	- designed for elastic scale
+	- Polyglot persistence
+	- Asynchronous processing
+	- design for failure (MTTR)
+	- Frequent small updates
+	- Automated self-management
+	- Immutable infrastructure
+-
+- Architecting for the cloud
+	- design principles
+		- scalable
+		- resilient
+		- **manageable** - can't just go in and build the biggest badest [[Kubernetes]]
+		  and expect people to be able to handle it all the time
+	- ((635fe27c-1f3c-4d15-b867-58f25539ad24)) - what kind of arch are you building?
+	- Technology Choices
+		- What compute
+		- Storage
+		- or Messaging
+	- Architecture choices
+		- what does it need to do
+	- Well Architected Framework
+-
+- Architectural Style
+  id:: 635fe27c-1f3c-4d15-b867-58f25539ad24
+	- N-tier
+		- classic 3 tier architecture
+	- Microservices
+		- lots of microservices
+		- API gateway
+		- a messaging service
+	- Web-Queue-Worker
+		- single event that goes through a bunch of translations, factory line
+		- like a relay race, passing the baton from
+		- think Point of Sales architecture
+		- photo scanning
+	- Event Driven - "Oh look! a Kitty!"
+		- some event happens and then something else does stuff
+	- Big compute
+		- large scale computational algorithms processed
+		- Google maps computes the best route to go home
+		- lots of data
+		- lots of parallel tasks
+	- Big data
+		- end game is usually some sort of analysis on a large group of data
+-
+- #+BEGIN_TIP
+  AZURE PROVIDES MICROSOFT ARCHITECTURE CENTER, WHERE YOU CAN LOOK UP A BUNCH OF DIFFERENT COMMON DESIGN PATTERNS AND ARCHITECTURE DIAGRAMS
+  #+END_TIP
+- With the [[Well Architected]] frameworks, it is moving cloud to publicly known best practices, similar to auto checkers for code that you can use to make sure your CLOUD deployments are secure, reliable, affordable, available, and performs under load
+-
+- App Design principles
+	- self healing
+	- make EVERYTHING redundant
+	- Minimize coordination
+		- to achieve scalability
+	- Design to scale out
+		- add or remove resources as demand changes
+	- Partition around limits
+	- Design for operations
+		- ops teams has the tools they need
+	- used managed services as much as possible
+	- use identity service
+		- instead of building your own
+	- use the best data store for the job
+	- design for evolution
+		- applications change design for continuous inovation
+	- Build for needs of business
+		- justify designs
+-
+- Getting Started
+	- build a picture of the target architecture
+		- Mob designing with tools like Lucid
+		- Visio
+-
+- Tips
+	- use the backlog
+		- define component charactaristics
+		- rational - why this component?
+		- Which? sku, size, features, cost, etc
+		- how big, how many, how fast
+	- provide your team with links to relevant resources
+		- cause you may not be the one building it right now
+	- tie the design to implementation guidance
+	- how-to's, tutorials, configuration steps
+-
+- Questions -
+	- has the need for stuff that runs syncronously been completely fased out? or are they just so hard to implement on cloud that they are steered clear of
+	- yes, but not for the network time issues
+		- it is almost always better to just use an IDaaS for managing security so they can focus on modernizing security and keeping it up to date
+-
+-

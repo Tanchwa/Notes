@@ -1,0 +1,11 @@
+- helps run business logic
+- enable you to run a program or script in the same instance as a web app, api app, or mobile app
+- no additional cost to use web jobs
+- two types
+	- continuous
+	- triggered
+		- scheduled or manual
+		- started by a timer, or an external service like [[Azure Event Grid]]
+- another way to host background tasks
+- support fully automatic deployments
+- WebJobs are better for heavy lifting

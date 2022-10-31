@@ -1,0 +1,1 @@
+- all accounts have to be associated with a AAD tenant

@@ -1,0 +1,3 @@
+- iDA Singapore
+- operation Singapore security management standard for cloud providers
+-

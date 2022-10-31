@@ -1,0 +1,10 @@
+- Man7 page: https://man7.org/linux/man-pages/man7/capabilities.7.html
+-
+- can assign root privileges more granularly
+- example: ping needs root privileges to access sockets, how do we do this?
+	- in Ubuntu 18.xx it was given through setting the UID bit to root (the s in the user permissions), effectively forcing it to run as a specific user (root) no matter who ran it
+	- in Centos 7, the set user ID bit is not set, but standard users can still access the command
+- can see these with the `getcap` command
+- in the ping example, the standard user is given the cap_net_raw permission
+- can be set with the `setcap NAME_OF_CAP=p /bin/binary` p means program
+-

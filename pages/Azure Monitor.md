@@ -1,0 +1,20 @@
+- can use the metrics pulled to trigger stuff like scale groups
+- create a visual dashboard
+- create alerts
+- logs for monitoring
+- logs can be queried with a query language: Kusto Query Language - KQL
+-
+- its like [[AWS Cloudwatch]]
+-
+- [[Azure Action Groups]] can be used to send messages once an alert is triggered
+- [[Azure Application Insights]]
+	- a part of Azure Monitor that allows you to see how users use / interact with an application
+-
+- Types of Monitor alerts
+	- Metric alert - evaluates resource benchmarks at regular intervals
+	- Log alert - allow you to perform advanced logic operations on data with KQL
+	- Activity log alert - for auditing of actions that occurred on resources
+		- shutdown
+		- restart
+		- create or delete
+	- Prometheus alerts - for all your [[Kubernetes]] real time performance health

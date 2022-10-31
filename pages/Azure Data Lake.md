@@ -1,0 +1,2 @@
+- a centralized repo for storing structured or unstructured data at any scale
+- used for big data

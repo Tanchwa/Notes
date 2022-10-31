@@ -1,0 +1,3 @@
+- creating a vNet
+- need to assign it to an [[Azure Subscription]] and an [[Azure Resource Group]]
+-

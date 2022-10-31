@@ -1,0 +1,2 @@
+- a logical grouping you can use in Azure to ensure the VMs you place in the availability set are in different [[Fault Domain]] and [[Update Domain]] to avoid downtime
+- ![image.png](../assets/image_1666652055149_0.png)

@@ -1,0 +1,3 @@
+- Distributed systems platform
+- runs in Azure or on prem
+- easy to package, deploy, and manage scalable and reliable microservices

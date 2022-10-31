@@ -1,0 +1,3 @@
+- Total Cost of ownership
+- estimate total cost of savings by migrating a service from on prem to the cloud
+-

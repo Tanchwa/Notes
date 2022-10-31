@@ -1,0 +1,38 @@
+tags:: Kubernetes [[Kubernetes Object]]
+
+- ETCD is a distributed key: value store for all the [[Kubernetes]] components in the cluster
+- it can be backed up, and restored
+- even though it is distributed, it ensures that the data across all instances are identical
+	- Reading is easy
+	- Writes are a bit harder
+		- writes are not processed on every node
+		- leaders are elected amongst the cluster
+		- if the write request came in on the leader, it processes it and copies it to the other instances
+		  otherwise, the follower forwards the write to the leader and then distributes it
+		- leader election is done with RAFT protocol
+			- uses random timers for initiating requests. The first one that finishes the timers sends out requests to the others to become the leader, the other ones respond with their vote to confirm
+			- sends out notifications at regular intervals to maintain the role
+			- if the other nodes don't receive this notification, they will initiate a re-election amongst themselves
+		- the write is considered to be complete only when the write is complete copied
+			- in the case a follower node is down, a write can still be considered complete if the write is copied ON THE MAJORITY OF THE NODES, a more accurate term for this is called Quorum
+				- Quorum = N/2 + 1 (consider only the whole number, 2 in case of 2.5) #Quorum
+				- this is the minimum number of nodes needed for the cluster to function normally
+				- this means, in the case of 1 node, there is 1 manager and 1 quorum (0 fault tolerance) 2 nodes is 2 and 2 is required for quorum, so there is still 0 fault tolerance
+				- it is recommended to have a redundancy of at least 3 ETCD instances for this reason
+- etcd knows its part of a cluster when you pass in the peers under the `--initial-cluster peer-1= ` options in the [[etcd.yaml]] or [[unit file]]
+-
+-
+- ETCDCTL
+	- has two versions, V2 and V3. V2 is default, and the commands are different.
+	- to set the version, export the environment variable `export ETCDCTL_API=3`
+	- Commands:
+		- `etcdctl put KEY VALUE`
+			- stores the value under the key
+		- `etcdctl get KEY`
+			- returns key and value
+		- `etcdctl get / --prefix --keys-only`
+			- only returns keys
+-
+- How to Back up and Restore an ETCD
+-
+-

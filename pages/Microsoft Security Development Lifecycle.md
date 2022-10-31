@@ -1,0 +1,4 @@
+- software security and assurance process made by microsoft
+- basically, they bake security into every step of the process in making a new software
+- ![image.png](../assets/image_1666818654033_0.png)
+-

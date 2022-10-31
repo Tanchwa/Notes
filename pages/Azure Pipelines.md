@@ -1,0 +1,6 @@
+- CI/CD that works with any language
+- works with any git provider
+-
+- Questions
+	- what's the difference between this and [[Azure Logic Apps]]
+	-

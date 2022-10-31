@@ -1,0 +1,1 @@
+- In consulting, the process of figuring out what the client needs and collecting data for pricing

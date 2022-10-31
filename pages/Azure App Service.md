@@ -1,0 +1,3 @@
+- a service used for deploying and scaling web-applications within .NET, Node.js, Java, Python, and PHP
+- devs can focus on building apps and don't have to worry about infra
+- its Azure's flavor of [[Heroku]]

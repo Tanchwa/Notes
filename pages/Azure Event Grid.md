@@ -1,0 +1,4 @@
+- uses pub/sub messaging system to allow you to react to events and trigger other azure services, such as [[Azure Functions]]
+- Event Grid just watches for events and then routes them to the handles
+-
+- is push model, apps never have to make requests

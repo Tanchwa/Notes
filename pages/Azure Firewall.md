@@ -1,0 +1,7 @@
+- cloud based network security devices
+- create, enforce, and log app and network connectivity policies across [[Azure Subscription]]s and [[Azure vNet]]s
+- uses static public Ip address for your [[Azure vNet]] resources, allowing outside firewalls to identify traffic originating from your [[Azure vNet]]
+	- Does this just mean that its stateful?
+- HA is built in, no load balancers required
+- can span multiple AZs
+-

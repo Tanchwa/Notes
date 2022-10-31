@@ -1,0 +1,18 @@
+- cloud reliable messaging as a service
+- a common data bus for services in the cloud
+-
+- integrated into other services like [[Azure Event Grid]], [[Azure Logic Apps]], [[Azure Stream Analytics]]
+-
+- offers three types of communication mechanisms
+	- DONE rewatch intro to apps and data for types of communications mechanisms
+	- queues
+		- one directional - stored until consumed
+		- received by a single recipient
+	- topics
+		- one directional -stored until consumed
+		- can have multiple subscriptions for multiple receivers
+		- subscriptions can choose to receive messages based on parameters
+	- **queues and topics can both be accessed by service bus defined APIs, REST APIs and has some SDKs for some languages
+	- relays
+		- bidirectional messaging and does not store data
+	- stored messages will be stored in [[Azure Queue Storage]]

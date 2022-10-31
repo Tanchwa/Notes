@@ -1,0 +1,2 @@
+- A shared volume that you can access and manage like a file server
+- eg: SMB, NFS, etc.

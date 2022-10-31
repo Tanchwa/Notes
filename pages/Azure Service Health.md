@@ -1,0 +1,4 @@
+- info about current and upcoming issues such as
+	- Azure Status - outages at azure
+	- Azure service health - personalized view of health of Azure services in the regions you're using
+	- Azure Resource Health - info about the health of your individual cloud resources

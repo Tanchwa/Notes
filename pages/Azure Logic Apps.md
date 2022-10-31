@@ -1,0 +1,7 @@
+- schedule, automate, and orchestrate tasks, business processes and workflows
+- integration with enterprise SaaS and enterprise apps
+- Serverless workflows comprised of [[Azure Functions]]
+	- by extension you only have to pay for when they're run
+- can also build a state machine for serverless compute
+-
+-

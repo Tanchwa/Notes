@@ -1,0 +1,5 @@
+- Hardware Security Module
+- secrets are only stored in memory and not written to disk
+- to be [[FIPS 140-2]] compliant
+	- multi tenant is level 2 compliant, must still be virtually iscolated
+	- single tenant / device is level 3 compliant

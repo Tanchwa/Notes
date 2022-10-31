@@ -1,0 +1,3 @@
+- Also called Service Trust Portal
+- a public facing web portal that provides info about privacy, security, and regulatory compliance info
+- can find info about [[Azure Compliance Program]] here

@@ -1,0 +1,2 @@
+- like AWS auto scale groups
+- group identical VMs and automatically scale or de-scale VMs based on certain criteria

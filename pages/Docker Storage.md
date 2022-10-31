@@ -1,0 +1,54 @@
+tags:: Docker
+
+-
+-
+- Docker has two main drivers for storage:
+	- ((62f14f17-d494-472b-9d1e-c9cb84f97188))
+		- are responsible for the layered architecture of an image/ container
+	- ((62f152b4-c4a1-4f94-b748-808a53923693))
+		- are responsible for handling volumes
+-
+- How Docker stores data on the file system
+	- Docker install creates a folder structure at /var/llb/docker
+		- this is where docker stores files related to images and containers running locally
+		- any volumes created by the containers are created under the volumes folder
+	- to understand further about how docker stores its files and in what format, check out ((62efc6e3-e692-4753-865e-6f656c934a57))
+-
+- we can persist data implicitly by running the `docker volume create data_volume` command
+	- this will create it under /var/lib/docker/volumes/data_volume
+	- you can attach this at run time with the command `docker run -v data_volume:/var/lib/inside/the/container image_name`
+	- this is called Volume Mounting
+	- if you specify a nonexistent volume at run time, docker will create it for you
+	- you can also specify an existing file location by specifying the full path. `docker run -v /path/on/host:/path/on/container image_name`This is called Bind Mounting
+	- #+BEGIN_NOTE
+	  - V is actually depreciated. The new version is --mount, with all the options spelled out verbosely. I.E.: `--mount type=bind, source=/path/on/host, target=/path/on/container image_name`
+	  #+END_NOTE
+- Storage Drivers
+  id:: 62f14f17-d494-472b-9d1e-c9cb84f97188
+	- these maintain the layered architecture, move files, etc.
+	- common storage drivers include
+		- AUFS
+		- ZFS
+		- BTRFS
+		- Device Mapper
+		- Overlay
+		- Overlay2
+	- docker will choose the best option automatically, depending on the OS
+	- you may want to choose a specific one based on the application and/or organization
+-
+- Volume Driver Plugins
+  id:: 62f152b4-c4a1-4f94-b748-808a53923693
+	- volumes are handled by volume drive
+	- the default volume driver plugin is "local"
+		- it helps create a volume on the docker host, and creates a volume on the /var/lib/docker directory
+	- other volume driver plugins:
+		- Azure File Storage
+		- Conveoy
+		- DigitalOcean Block Storage
+		- Flocker
+		- gce-docker (Google)
+		- GlusterFS
+		- NetApp
+		- RexRay
+		- Portworx
+		- VMware vSphere Storage

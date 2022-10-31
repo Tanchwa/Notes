@@ -1,0 +1,2 @@
+- Previously known as SQL data warehouse,
+- data warehouse with integral security at every scale level at no extra cost

@@ -1,0 +1,3 @@
+- unifed infrastructure security management system
+- basically a dashboard for security services
+- provides advanced threat protection across hybrid workloads in the cloud

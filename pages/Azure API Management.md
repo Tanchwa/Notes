@@ -1,0 +1,6 @@
+- Hybrid, multi-cloud management platform for API's across all environments
+- put in front of existing APIs to add functionality
+- Can act like a proxy Infront of other API gateways
+-
+- Questions: What's the difference between this and [[Azure API Apps]]
+-

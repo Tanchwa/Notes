@@ -1,0 +1,3 @@
+- Its a scrum board
+- its like Kanban
+- it is EXACTLY github projects

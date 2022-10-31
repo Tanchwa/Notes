@@ -1,0 +1,2 @@
+- an on demand analytics job service that simplifies big data
+- integrates with [[Azure Data Lake]]

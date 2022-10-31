@@ -1,0 +1,4 @@
+- Only level 4 layer, ie only understands sockets, UDP, TCP
+- can create public facing load balancer
+- internal load balancer to private IPs
+-

@@ -1,0 +1,8 @@
+- a personalized cloud consultant that helps you follow best practices
+-
+- displays recommendations based on 5 categories
+	- HA
+	- Security
+	- Performance
+	- Cost
+	- Operational Excellence

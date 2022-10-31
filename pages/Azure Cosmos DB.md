@@ -1,0 +1,2 @@
+- fully managed NoSQL database
+- azure's most popular DB service

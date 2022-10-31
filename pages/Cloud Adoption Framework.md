@@ -1,0 +1,20 @@
+- More to do with the deployment of apps and how you use the cloud
+- The model that we use at insight is closer aligned to microsoft
+- describing dependencies, stacks
+- change management policies based on those
+-
+- [[Cloud Adoption Framework]]
+	- Microsoft Cloud Adoption Framework
+	- Define stratagy
+	- Plan
+		- What tech do we have or need
+		- what training do we need to do
+	- Ready
+		- prepare people process & env
+		- we have an idea of what we have and need and why
+		- start to build out the cloud
+	- Adopt
+		- migrate or innovate
+	- Manage
+		- Operate & optimize
+	- [[Governance]]

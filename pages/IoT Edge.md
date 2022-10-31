@@ -1,0 +1,3 @@
+- managed service built on [[IoT Hub]]
+- allows data processing and analysis nearest the IoT devices
+- [[Edge Computing]] Is when you offload compute from the cloud to local computing hardware such as IoT devices, phones, or home computers

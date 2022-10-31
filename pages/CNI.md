@@ -1,0 +1,16 @@
+- Container Networking Interface
+- vendor agnostic standard for different networking solutions within [[Kubernetes]] or any other container orchestration tool
+-
+- CNI Requirements
+	- The Container Runtime
+		- must create a network namespace
+		- identify the network the container must attach to
+		- invokes the Network Plugin (bridge) when container is ADDed
+		- invokes Network Plugin (bridge) when container is DELeted
+		- must use JASON format for the Network Configuration
+	- The plugin
+		- must support ADD/DEL/CHECK commands
+		- must support parameters container id, network ns, etc.
+		- must manage IP address assignment to [[Pod]]s
+		- must return results in a specific format
+	-

@@ -1,0 +1,2 @@
+- scalable and secure entry point for fast delivery of global apps,
+- a [[CDN]]

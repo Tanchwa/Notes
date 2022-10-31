@@ -1,0 +1,2 @@
+- a data store for queuing and reliably delivering messages between apps
+- cloud version of Unix Socks?

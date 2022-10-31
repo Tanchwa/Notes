@@ -1,0 +1,122 @@
+tags:: Agile, Insight, Onboarding, Scrum
+
+-
+- Scrum Vs Traditional Waterfall approach
+- Timeline for Traditional Waterfall
+	- Gather requirements
+		- usually BA's, rarely technical
+		- sign off
+	- Design
+		- design/ architecture team
+	- Develop
+		- developers
+	- Testing
+		- another team handoff
+	- Maintenance
+		- sometimes its Insight, sometime another company
+		- tech patches
+		- updating for new laws
+-
+- Scrum
+	- Product Backlog
+		- this is where the requirements exist
+		- here's everything we know, here's what we need to do
+	- Sprint Planning
+		- prioritizing
+		- time-lining
+		- stays focused, smaller chunks
+		- average 2 week sprint
+	- Everything Gets done at once
+		- Daily Stand ups
+		- everyone is involved, anyone with a stake in the creation of the app
+			- Design, dev, test, deployment
+		- make sure everyone is up to date on everything
+		- check for blockers
+	- Increment
+		- this is usually an item that can be handed off
+		- or demoed and reviewed
+		- at the end of the sprint
+	- Repeat
+-
+- When to use each
+	- Waterfall
+		- something that has been done lots of times before
+		- tools are known
+		- processes are the same
+		- interactions between each step are known
+	- Scrum
+		- new tech
+		- unfamiliar territory
+		- requirements unknown
+-
+- Scrum Team Composition
+	- Business Analysts
+		- facilitates backlogs and user stories
+	- Developer
+		- participant of requirements, creator of solutions
+	- Scrum master
+		- facilitator and coach
+	- Product owner
+		- decision maker
+	- Tester**
+		- anyone should be able to test
+	- Architect
+		- designs the solution
+-
+- Items come in as ideas
+	- Sometimes it goes
+	- Feature, Epic, Story
+	- or Epic, Feature, Story
+	- or Epic, Story
+	- library app example:
+	- "We need the data to populate the library"
+	- "We want children's books to be blue, adult to be red.."
+-
+- Epics/ Features go in [[Product Backlog]]
+	- These are usually too big to be completed in one sprint
+	- Create a shopping cart
+- Stories or Subtasks go in [[Sprint Backlog]]
+	- these can be completed during a sprint
+	- I want to be able to add things
+	- I want to be able to add more things
+	- I want to be able to remove things
+	- I want to be able to checkout
+-
+- Backlog Grooming
+	- Have Stories in the backlog already
+	- Start talking about dependencies
+	- Talking about Wholistic Approach, top down epic to story
+	- review and refine
+- Sprint Planning
+	- Right after last sprint ends
+	- sometimes in conjunction with sprint review
+	- estimates, assign a size to a story
+	- commit to completion of stories within sprint
+	- focus on product owner direction
+-
+- Standups
+	- Mythical 3 questions
+		- What did I do yesterday to help the team meet sprint goal
+		- what will I do today to help the dev team meet the goal
+		- do I see any blockers to me or the dev team?
+-
+- Sprint Review
+	- Frequent Delivery of the increment
+		- Not the finished product
+	- Collect Stakeholder feedback
+		- if its wrong, throw it back to the [[Sprint Backlog]]
+-
+- Sprint Retrospective
+	- Continuous Development
+	- Inspect the last Sprint
+		- People
+		- Tools
+		- Process
+		- Interactions
+	- Why Did it go well or poorly
+-
+-
+-
+- Questions
+	- ~~What is the difference between a user story and a backlog item? when does a US go into the backlog~~
+	- an item in the backlog could be a different kind of item, such as bug or user story

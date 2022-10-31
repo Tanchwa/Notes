@@ -1,0 +1,3 @@
+- Ways to set up tests, either manual or automated
+- other testing tools: [[Cyprus]]
+-

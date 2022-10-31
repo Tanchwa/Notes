@@ -1,0 +1,2 @@
+- appache spark based analytics platform optimized for Azure cloud
+- third party databricks cloud services supported within Azure

@@ -1,0 +1,1 @@
+- Extract information such as sentiment, key phrases, named entities, and language from text

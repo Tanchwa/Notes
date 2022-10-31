@@ -1,0 +1,13 @@
+- Insight Helped Starbucks save millions a month by stopping orphaned VMs
+-
+- Policies, Tags, [[Azure Management Group]], [[Azure Resource Manager]], can all be used to curb costs
+- [[Azure Cost Management]] has some nice graphs and a dashboard
+- has plugins for [[PowerBI]], as well as an API for custom solutions
+- Alerts, Spending Thresholds
+-
+- [[Azure Pricing Calculator]]
+	- start here
+	- estimate costs
+- [[Azure Migrate]]
+- [[Azure Advisor]]
+-

@@ -1,0 +1,1 @@
+- long term cold storage for when you need to hold on to files at the cheapest possible

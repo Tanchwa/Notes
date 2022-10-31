@@ -1,0 +1,35 @@
+- the following NEED to use the plan
+	- [[Azure Web Apps]]
+	- [[Azure API Apps]]
+	- [[Azure Mobile Apps]]
+	- While [[Azure Functions]] have the option of using it or not
+-
+- When you create an App Service plan in a certain region (for example, West Europe), a set of compute resources is created for that plan in that region. Whatever apps you put into this App Service plan run on these compute resources as defined by your App Service plan.
+- Each App Service plan defines:
+	- OS
+	- Region
+	- Number of VMs
+	- Size of VMs
+	- Pricing Tier
+-
+- The tiers of service plans break down as follows
+- Free
+	- Free
+	- Shared
+	- **allocate CPU quotas to each app and cannot be scaled out**
+- Dedicated Compute
+	- Basic 10GB
+	- Standard 50GB
+	- Premium 250GB
+	- Premium V2 250GB
+	- Premium V3 250GB
+	- **dedicated azure VMs, only apps in the same service plan share the same compute resources**
+- Isolated
+	- Isolated 1TB
+	- Isolated V2 1TB
+	- **run dedicated Azure VMs on dedicated [[Azure vNet]]s**
+	- **provides network isolation on top of compute isolation**
+	- **max scale out capabilities**
+-
+- See the [Azure App Service Pricing](https://azure.microsoft.com/en-us/pricing/details/app-service/windows/) website for further breakdown
+-

@@ -1,0 +1,2 @@
+- Cloud security alliance
+- independent 3rd party assessment of cloud providers security

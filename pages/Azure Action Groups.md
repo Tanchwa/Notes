@@ -1,0 +1,4 @@
+- collection of notification preferences defined by the owner of an Azure subscription that is used by used by
+	- [[Azure Advisor]]
+	- [[Azure Service Health]]
+	- and [[Azure Monitor]]

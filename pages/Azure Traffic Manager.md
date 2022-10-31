@@ -1,0 +1,3 @@
+- operates at the DNS layer to quickly and efficiently direct incoming DNS request based on routing method of your choice
+- ![image.png](../assets/image_1666720287655_0.png)
+-

@@ -1,0 +1,6 @@
+- allows encrypted traffic between on prem and [[Azure vNet]]
+- can also do individual access to a vNet
+- types of VPN gateway
+	- Site to Site
+	- Point to Site
+	- vNet to vNet

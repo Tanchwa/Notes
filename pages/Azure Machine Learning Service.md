@@ -1,0 +1,7 @@
+- service that simplifies running AI/ML related workloads allowing you to build flexible pipelines to automate workflow
+- use python and R, run DL workloads such as tensorflow
+-
+- Azure machine learning studio (classic)
+	- an older service that manages these workloads
+	- no pipelines
+	- not easily transferable from classic to the new service

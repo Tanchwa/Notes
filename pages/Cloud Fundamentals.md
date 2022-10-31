@@ -1,0 +1,84 @@
+tags:: Cloud, Azure, Insight
+
+- Why Cloud
+	- Speed
+	- Scale
+	- Economics
+		- only pay for what you use, easy to get rid of architecture
+		- CapEx vs OpEx: easier to convince a client that they can authorize expenses with semi-predictable installments rather than saving up to make large one time purchases
+		-
+- Cloud Computing Patterns
+	- on and off
+		- batch jobs or chron jobs
+	- Growing Fast
+		- for when you cannot provision hardware fast enough
+	- Unpredictable Bursting
+		- sudden spikes
+	- Predictable Bursting
+-
+- ~~Two~~ three Versions of Azure
+	- Gov
+	- Public
+	- China
+-
+- Edge
+	- if you have both end users in NY and California, you want to have things load quicker for each person
+	- like CDNs
+	- China/ US based end users would also need to be served different content
+		- also does localization
+-
+- Architectural Components
+	- management groups
+		- can be assigned policies through AD
+		- Tenant root
+			- business unit
+				- production
+					- region 1
+						- Subscription region East
+							- resource grouo
+								- az
+								- az
+					- region 2
+						- Subscription region West
+							- resource group
+								- AZ
+								- AZ
+-
+- Look up
+	- HDInsights
+	- hpc - high power compute
+	- service bus
+	- integration
+	- blobs
+	- queues
+	- IIS
+-
+- Storage
+	- Spinning Disk
+		- pay for what you use
+	- SSD
+		- pay for what you provision
+-
+- Role
+	- a config passed to azure to define how many machines of which size and config to build for you
+	- web role
+	- worker role
+-
+- Resources:
+	- Compute
+	- Storage
+	- Networking
+-
+- [[Cloud Adoption Framework]]
+	- Microsoft Cloud Adoption Framework
+	- Define stratagy
+	- Plan
+	- Ready
+		- prepare people process & env
+	- Adopt
+		- migrate or innovate
+	- Manage
+		- Operate & optimize
+	- [[Governance]]
+-
+-

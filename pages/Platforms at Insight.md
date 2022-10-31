@@ -1,0 +1,38 @@
+tags:: Insight, Onboarding
+
+- Cloud and DevOps
+	- Cloud
+		- Azure is king
+		- AWS
+		- GCP
+	- Help client see what they need in the cloud
+	- and migrate to it
+	- optimize existing clouds
+	- Build landing zones
+		- landing zone is a setup place where they can deploy their apps
+		- in cloud, its usually automated using tools like
+			- terraform
+			- ansible
+			- other IaC
+-
+- On prem to Cloud links with [[Azure Ark]]
+-
+- People usually don't for non-big cloud providers
+	- peeling back the onion sometimes not as secure or uptime isn't as good
+-
+- Colo (co-locations)
+	- a data center with multiple tenants
+-
+- Hybrid and Data Center Services
+- Legacy team
+	- helps migrate to cloud
+	- migrate/ modernize data centers
+	- strategy work
+		- assessments, what you have, where you want to go
+- Snapstart
+	- a tool that helps scan the env and build the dependencies
+- Kadam
+	- WHY are these two servers are talking to each other
+- Hybrid and Data Center Services also use landing zones
+  but they aren't usually automated
+-
