@@ -1,3 +1,5 @@
+tags:: Kubernetes
+
 - [[Linux Networking]] review
 	- `ip link` displays the eth physical devices
 	- `ip addr add 192.168.1.11/24 dev eth0`
