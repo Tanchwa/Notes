@@ -75,6 +75,7 @@ tags:: Azure, Cloud
 	- its a guarantee that data will not lave boundaries
 -
 - Paired Regions
+  id:: 63879517-20b9-42d6-af8f-a0b48fc47f42
 	- Each region is paired with one 300 miles away to ensure no outages
 	- [[Azure Geo-redundant Storage]] replicates data to a secondary region automatically, ensuring data is durable even when the primary region isn't recoverable
 	- For example: North America has East US paired with West US

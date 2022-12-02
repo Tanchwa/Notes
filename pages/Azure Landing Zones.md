@@ -48,7 +48,12 @@ tags:: Azure, Insight, Cloud Adoption Framework
 	- **Management Group and Subscriptions**
 	- **Platform Automation & DevOps**
 	- and others that we don't need to worry about yet
-		- LATER look through landing zone slides
+		- DONE look through landing zone slides
+	- **Enterprise Enrollment and Azure AD Tenants**
+	- **Identity and Access Management**
+	- **Management and Monitoring**
+	- **Business and Disaster Recovery**
+	- **Security, Governance, and Compliance**
 -
 - IN OUR CURRENT ROLE
 	- understand landing zone conceptually

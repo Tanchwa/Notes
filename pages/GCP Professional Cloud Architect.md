@@ -1,0 +1,44 @@
+tags:: Cloud, GCP
+deck:: GCP Pro Architect
+
+- Scenario set up
+	- Reliable stable connection between stores
+		- current VPN is slow and has too much bandwidth eaten up by database replication
+	- Fast and Cost Effective cloud backup
+	- Deploy into new regions quickly when required
+		- bowtie inc is a multinational company looking to expand
+	- base infra is scalable and low cost
+	- automated
+-
+- ((6387951c-793a-4180-8dda-31f508bda4b7)) #card #forward
+	- On demand self service
+	- Broad network access
+	- Resource pooling
+	- Rapid Elasticity
+	- Measured Service
+-
+- Regions and Geographies
+	- 24 [[Region]]s
+	- 73 ((638a41a2-9491-4f0a-95ef-492279f64cbd))
+	- uses [[GCP Edge POP]] / [[GCP Edge Node]] as ingress
+	- GCP is unique in how they handle front end coms
+	- ![Screen Shot 2022-12-02 at 1.23.32 PM.png](../assets/Screen_Shot_2022-12-02_at_1.23.32_PM_1670005426973_0.png)
+	- [[GCP Multi Region]]
+-
+- Compute Services
+	- [[GCP Compute Engine]] (GCP VMs)
+		- manage multiple instances with [[GCP Instance Group]]
+		- add or remove capacity using autoscaling
+	- [[GCP GKE]]
+	- [[GCP App Engine]]
+	- [[GCP Cloud Functions]]
+	- [[GCP Cloud Run]]
+-
+- Storage Services
+	- [[GCP Cloud Storage]]
+	- [[GCP Filestore]]
+	- [[GCP Persistent Disk]]
+-
+- Database Services
+	-
+-

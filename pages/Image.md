@@ -5,7 +5,7 @@ tags:: Kubernetes Object, Kubernetes, Docker
 -
 - docker.io/ is the dns name of the default [[Docker]] registry
 	- Google's is gcr.io/  This is usually where many [[Kubernetes]] related images are found
-- [[Amazon EKS]], [[Azure AKS]], or [[Google GKE]] all offer managed registries by default
+- [[Amazon EKS]], [[Azure AKS]], or [[GCP GKE]] all offer managed registries by default
 -
 - library/ is the name of the default account where [[Docker]] official images are kept
 -

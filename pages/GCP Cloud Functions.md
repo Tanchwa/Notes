@@ -1,0 +1,9 @@
+- serverless functions as a service
+- good for
+	- data processing or ETL operations (video transcoding)
+	- webhooks that respond to HTTP triggers
+	- APIs
+	- Mobile backend functions
+- JavaScript, Python3, Go, Java
+-
+- ![](https://seeklogo.com/images/G/google-cloud-functions-logo-AECD57BFA2-seeklogo.com.png)
