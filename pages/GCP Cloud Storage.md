@@ -1,0 +1,13 @@
+- object storage, similar to [[Azure Blob Storage]] or [[AWS S3]]
+- use for
+	- content delivery
+	- data lakes
+	- backup
+- separated into [[GCP Storage Class]]es
+-
+- Availability Choices
+	- Region
+	- Dual Region uses pairs of regions
+	- Multi Region [[GCP Multi Region]]
+-
+- ![](https://download.logo.wine/logo/Google_Storage/Google_Storage-Logo.wine.png)

@@ -18,6 +18,7 @@ tags:: Insight, Onboarding, Cloud
 	- SRE
 -
 - Essential Characteristics of the Cloud
+  id:: 6387951c-793a-4180-8dda-31f508bda4b7
 	- On demand self service
 	- Broad network access
 	- Resource pooling
