@@ -1,0 +1,3 @@
+- Google's "Point of Presence" locations
+- where the google network meets the internet
+- edge locations
