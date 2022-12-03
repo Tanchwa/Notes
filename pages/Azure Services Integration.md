@@ -1,0 +1,50 @@
+tags:: Azure, Cloud, Insight
+
+- overview
+	- Know your limits of resources
+	- know resource capabilities
+	- know your costs
+	- service integration
+-
+- A list of the different ((6357fec7-671e-4478-98ce-d8dd4ae52354)) can be found here
+-
+- Hard and soft limits
+	- adjustable limits = soft
+		- changing the service agreement
+		- ex: kubernetes node limits default to 1000, but can go up to 5000
+	- maximum limits = hard
+		- ex: walls of a data center
+		- can only have 4000 role assignments per subscription
+	- limits are outlined in Microsoft documentation
+	- FREE TRIALS CANNOT BE CHANGED
+-
+- Resource Capabilities
+	- different SKUs have different feature sets (at different costs)
+	- ex: API gateway  [[Azure API Management]] has 5 SKUs
+		- Premium: does everything
+		- Standard: no multiple custom domains
+		- Basic: no AD integration
+		- Developer: mix of basic/ standard
+		- Free: limited
+	- Ex: Load balancer
+		- Gateway: can use 3rd party network virtual applications
+		- Standard: has HTTPS, backend options: NIC or IP
+		- Basic: no HTTPS, Backend only NIC
+- Basically, need to be able to understand what the client's specific needs and uses are
+-
+- Resource integration
+	- [[Azure vNet]] integration
+		- allows you to deploy services directly into a vnet, makes these easier to connect to each other
+	- Private endpoints
+		- can network between vnets using endpoint IPs
+	- Service endpoints
+		- allows to you assign network stuff, IPs, whatever, to managed PaaS services
+		- keeps all traffic within Microsoft
+	- LATER take a look at how these work in the azure portal
+-
+- [[Azure Pricing Calculator]]
+	- insight value add is to reduce cost significantly to be able to convince them to bring our teams on board
+	- ALWAYS think cost when developing a solution
+- Costs: Up versus out
+-
+-

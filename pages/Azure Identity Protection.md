@@ -1,0 +1,4 @@
+- takes advantage of [[Azure AD]] anomaly detection capabilities
+	- ex: someone outside of the Geo-Fenced area is trying to sign in
+	- someone is using a credential set on the leaked credential list
+-

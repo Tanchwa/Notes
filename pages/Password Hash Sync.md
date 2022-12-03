@@ -1,0 +1,6 @@
+- PHS
+- need to run an [[Azure AD]] connect sync application agent on prem
+	- give it access to your windows domain controller
+	- syncs the password hashes to the [[Azure AD]]
+-
+- Only the non reversable hashes are stored

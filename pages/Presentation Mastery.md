@@ -1,0 +1,56 @@
+tags:: Soft Skills, Communication, Insight
+
+- Audiences
+	- Technical
+		- build with depth
+		- like the leadup, like to hear about the journey and then summarized at the end
+	- Business
+		- focus on value
+		- like punchline before the joke, start with detail and end with summary
+	- mix of both
+		- go more towards the business side, but be open ended for them to drill into you with detail
+		- start with summary
+		- fill in with high-level detail
+		- ask for specific depth questions
+-
+- Concision - Important to be clear and short
+	- get to the point
+	- set a time limit
+	- don't repeat
+	- avoid tangents
+	- **HAVE A MESSAGE**
+	- avoid jargon
+-
+- Delivery Matters
+	- Volume
+		- use volume to make points stick
+	- Variety
+		- avoid monotonous tone
+		- add pauses to emphasize points
+		- think of your speech as a performance
+	- Pace
+		- slow down when you want to emphasize
+		- speed up with you want to convey stress
+-
+- Slide Decks
+	- use them to augment
+	- they are not notes
+	- they guide the discussion
+	- help audience keep up
+	- DO NOT
+	- read verbatim
+	- Every
+-
+- Design Principle
+	- With font size GO BIG - 24 to 36 pt. font is a good starting spot
+	- use notes in the pptx, and let people know that they're there
+	- pictures should enhance the message, not replace it
+-
+- Overall Process
+	- produce the content, aka braindump
+	- Translate to PPT
+	- add levity
+		- look for story opportunities and interaction
+	- practice
+-
+-

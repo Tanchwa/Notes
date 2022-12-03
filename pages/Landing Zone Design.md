@@ -1,0 +1,24 @@
+tags:: Insight, Cloud, Azure
+
+-
+- design principles
+	- [[Azure Subscription]] Democratization
+	- [[Azure Policy]] driven governance
+	- single control and management plane
+	-
+	- app driven architecture
+-
+- General Requirements
+	- scaleable
+	- modular
+	- speed to market
+	- flexibility
+-
+- Different Diagrams
+	- deployment flow
+	- Environment diagram
+-
+- Need to know in-depth knowledge for
+	- [[Azure Resource Group]], [[Azure vNet]] , VMs, [[Azure App Service]], [[Azure Storage Account]]
+-
+-

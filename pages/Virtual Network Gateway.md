@@ -1,1 +1,3 @@
 - a site to site VPN between an [[Azure vNet]] and your local network
+- the name of the device on prem for this connection is called "Local Network Gateway," and can be represented in an architecture chart
+- you'll also need a dedicated subnet called Gateway Subnet in order for the Virtual network gateway to work

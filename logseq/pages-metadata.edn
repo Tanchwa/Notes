@@ -22,6 +22,9 @@
  {:block/name "amazon eks",
   :block/created-at 1659750268092,
   :block/updated-at 1659750268092}
+ {:block/name "angular",
+  :block/created-at 1667936403713,
+  :block/updated-at 1667936403713}
  {:block/name "ansible",
   :block/created-at 1666814924405,
   :block/updated-at 1666814924405}
@@ -90,7 +93,7 @@
   :block/updated-at 1666648158740}
  {:block/name "az-900 study",
   :block/created-at 1666642512303,
-  :block/updated-at 1667257730742}
+  :block/updated-at 1667315539723}
  {:block/name "azlinks",
   :block/created-at 1666983267323,
   :block/updated-at 1666983267323}
@@ -145,6 +148,9 @@
  {:block/name "azure ark",
   :block/created-at 1666275261530,
   :block/updated-at 1666275279669}
+ {:block/name "azure artifacts",
+  :block/created-at 1667835176971,
+  :block/updated-at 1667835176971}
  {:block/name "azure backup service",
   :block/created-at 1666886653797,
   :block/updated-at 1666886670564}
@@ -156,7 +162,7 @@
   :block/updated-at 1666653719974}
  {:block/name "azure blueprints",
   :block/created-at 1666811634084,
-  :block/updated-at 1666815088720}
+  :block/updated-at 1667314878081}
  {:block/name "azure boards",
   :block/created-at 1666713411452,
   :block/updated-at 1666713463895}
@@ -202,6 +208,9 @@
  {:block/name "azure dev test labs",
   :block/created-at 1667257560207,
   :block/updated-at 1667257604431}
+ {:block/name "azure devops",
+  :block/created-at 1667835176974,
+  :block/updated-at 1667835176974}
  {:block/name "azure disk storage",
   :block/created-at 1666653741691,
   :block/updated-at 1666653741691}
@@ -213,7 +222,10 @@
   :block/updated-at 1667259846412}
  {:block/name "azure event grid",
   :block/created-at 1666723048920,
-  :block/updated-at 1666884827790}
+  :block/updated-at 1667314686544}
+ {:block/name "azure event hub",
+  :block/created-at 1667314630339,
+  :block/updated-at 1667314820746}
  {:block/name "azure express route",
   :block/created-at 1666715254373,
   :block/updated-at 1666715281149}
@@ -223,6 +235,9 @@
  {:block/name "azure file storage",
   :block/created-at 1666653772945,
   :block/updated-at 1666653800137}
+ {:block/name "azure file sync",
+  :block/created-at 1667317400994,
+  :block/updated-at 1667317460641}
  {:block/name "azure firewall",
   :block/created-at 1666802482752,
   :block/updated-at 1666802758781}
@@ -234,7 +249,7 @@
   :block/updated-at 1666715233895}
  {:block/name "azure functions",
   :block/created-at 1666653358396,
-  :block/updated-at 1666722812778}
+  :block/updated-at 1667316666726}
  {:block/name "azure geo-redundant storage",
   :block/created-at 1666647133730,
   :block/updated-at 1666647133730}
@@ -244,6 +259,9 @@
  {:block/name "azure hybrid benefit",
   :block/created-at 1666825683596,
   :block/updated-at 1666825820632}
+ {:block/name "azure identity",
+  :block/created-at 1667835177221,
+  :block/updated-at 1667835177221}
  {:block/name "azure identity protection",
   :block/created-at 1667258081377,
   :block/updated-at 1667258081377}
@@ -267,7 +285,7 @@
   :block/updated-at 1666819282405}
  {:block/name "azure logic apps",
   :block/created-at 1666711998497,
-  :block/updated-at 1666885765974}
+  :block/updated-at 1667316655439}
  {:block/name "azure machine learning service",
   :block/created-at 1666721873408,
   :block/updated-at 1666721973830}
@@ -298,6 +316,9 @@
  {:block/name "azure pipelines",
   :block/created-at 1666713473573,
   :block/updated-at 1666713526821}
+ {:block/name "azure pipelines and artifacts",
+  :block/created-at 1667847674082,
+  :block/updated-at 1667936403714}
  {:block/name "azure policy",
   :block/created-at 1666811642624,
   :block/updated-at 1666983292452}
@@ -307,6 +328,12 @@
  {:block/name "azure pricing calculator",
   :block/created-at 1666813363747,
   :block/updated-at 1666813363747}
+ {:block/name "azure privileged identity management",
+  :block/created-at 1667835177381,
+  :block/updated-at 1667835177381}
+ {:block/name "azure provisioning",
+  :block/created-at 1667923444851,
+  :block/updated-at 1667925128493}
  {:block/name "azure qna maker",
   :block/created-at 1666722522218,
   :block/updated-at 1666722583712}
@@ -316,6 +343,9 @@
  {:block/name "azure rbac",
   :block/created-at 1666811234288,
   :block/updated-at 1666983267324}
+ {:block/name "azure repos",
+  :block/created-at 1667835176968,
+  :block/updated-at 1667835176968}
  {:block/name "azure resource",
   :block/created-at 1666629374156,
   :block/updated-at 1666629374156}
@@ -328,6 +358,9 @@
  {:block/name "azure resource manager",
   :block/created-at 1666812760502,
   :block/updated-at 1666884259792}
+ {:block/name "azure sdk",
+  :block/created-at 1667924235101,
+  :block/updated-at 1667924235101}
  {:block/name "azure security center",
   :block/created-at 1666802028014,
   :block/updated-at 1666802078553}
@@ -343,6 +376,9 @@
  {:block/name "azure service health",
   :block/created-at 1666819617009,
   :block/updated-at 1666819685850}
+ {:block/name "azure services integration",
+  :block/created-at 1667835225441,
+  :block/updated-at 1667837122792}
  {:block/name "azure signalr service",
   :block/created-at 1666712634692,
   :block/updated-at 1666712772341}
@@ -352,18 +388,24 @@
  {:block/name "azure sla",
   :block/created-at 1666824161173,
   :block/updated-at 1667257463617}
+ {:block/name "azure sphere",
+  :block/created-at 1667315539722,
+  :block/updated-at 1667315565957}
  {:block/name "azure sql database",
   :block/created-at 1666710964205,
   :block/updated-at 1666711025559}
  {:block/name "azure sql managed instance",
   :block/created-at 1667168526870,
   :block/updated-at 1667168526870}
+ {:block/name "azure storage account",
+  :block/created-at 1667314878080,
+  :block/updated-at 1667315096858}
  {:block/name "azure stream analytics",
   :block/created-at 1666711928051,
   :block/updated-at 1666711945094}
  {:block/name "azure subscription",
   :block/created-at 1666788186507,
-  :block/updated-at 1666825990031}
+  :block/updated-at 1667310363725}
  {:block/name "azure support plan",
   :block/created-at 1666825188767,
   :block/updated-at 1666825605402}
@@ -391,6 +433,9 @@
  {:block/name "azure trust center",
   :block/created-at 1666800328623,
   :block/updated-at 1667253032171}
+ {:block/name "azure virtual desktop",
+  :block/created-at 1667315606799,
+  :block/updated-at 1667315794116}
  {:block/name "azure vm scale set",
   :block/created-at 1666644785109,
   :block/updated-at 1666644785109}
@@ -409,6 +454,9 @@
  {:block/name "b",
   :block/created-at 1659662751339,
   :block/updated-at 1659662751339}
+ {:block/name "bicep",
+  :block/created-at 1667923756097,
+  :block/updated-at 1668010555351}
  {:block/name "bidirection",
   :block/created-at 1660310414811,
   :block/updated-at 1660310414811}
@@ -436,6 +484,9 @@
  {:block/name "cdn",
   :block/created-at 1666715233894,
   :block/updated-at 1666715233894}
+ {:block/name "cdo",
+  :block/created-at 1667923482227,
+  :block/updated-at 1667923482227}
  {:block/name "cdo and azure overview",
   :block/created-at 1666627382843,
   :block/updated-at 1666788336990}
@@ -475,12 +526,18 @@
  {:block/name "chinese self study sep 30th, 2022",
   :block/created-at 1664586183918,
   :block/updated-at 1665781427345}
+ {:block/name "chips to scavenge",
+  :block/created-at 1667268281715,
+  :block/updated-at 1667304532645}
  {:block/name "cjis",
   :block/created-at 1666801043348,
   :block/updated-at 1666801055912}
  {:block/name "class notes",
   :block/created-at 1659711111506,
   :block/updated-at 1659711111506}
+ {:block/name "clients",
+  :block/created-at 1667851448653,
+  :block/updated-at 1667851448653}
  {:block/name "cloud",
   :block/created-at 1666296202542,
   :block/updated-at 1666296202542}
@@ -496,6 +553,9 @@
  {:block/name "cni",
   :block/created-at 1660000487985,
   :block/updated-at 1660685911586}
+ {:block/name "communication",
+  :block/created-at 1667938666342,
+  :block/updated-at 1667938666342}
  {:block/name "config map",
   :block/created-at 1659744607689,
   :block/updated-at 1659744610342}
@@ -508,6 +568,9 @@
  {:block/name "contents",
   :block/created-at 1659662751339,
   :block/updated-at 1659662751339}
+ {:block/name "coolors.co",
+  :block/created-at 1667853223748,
+  :block/updated-at 1667853223748}
  {:block/name "cri",
   :block/created-at 1660000488007,
   :block/updated-at 1660000488007}
@@ -535,9 +598,15 @@
  {:block/name "delivery",
   :block/created-at 1666206856658,
   :block/updated-at 1666206963119}
+ {:block/name "dependency test",
+  :block/created-at 1667835177869,
+  :block/updated-at 1667835177869}
  {:block/name "deployment",
   :block/created-at 1659743394171,
   :block/updated-at 1659749548899}
+ {:block/name "designing visual documentation",
+  :block/created-at 1667851420758,
+  :block/updated-at 1667853223749}
  {:block/name "devops",
   :block/created-at 1666627392242,
   :block/updated-at 1666627392242}
@@ -595,6 +664,9 @@
  {:block/name "geography",
   :block/created-at 1666651541858,
   :block/updated-at 1666651541858}
+ {:block/name "git fundementals",
+  :block/created-at 1667835177421,
+  :block/updated-at 1667849263128}
  {:block/name "goals",
   :block/created-at 1666807430917,
   :block/updated-at 1666807430917}
@@ -616,6 +688,9 @@
  {:block/name "hashicorp vault",
   :block/created-at 1666811665724,
   :block/updated-at 1666811665724}
+ {:block/name "hcl",
+  :block/created-at 1667320543373,
+  :block/updated-at 1667320622257}
  {:block/name "hd insight",
   :block/created-at 1666721454516,
   :block/updated-at 1666721482470}
@@ -649,6 +724,9 @@
  {:block/name "https://en.wikipedia.org/wiki/jin_yong",
   :block/created-at 1659704460284,
   :block/updated-at 1659704460284}
+ {:block/name "identity",
+  :block/created-at 1667835177225,
+  :block/updated-at 1667835177225}
  {:block/name "image",
   :block/created-at 1659749470410,
   :block/updated-at 1659881143668}
@@ -673,18 +751,21 @@
  {:block/name "installing kubernetes",
   :block/created-at 1661347644130,
   :block/updated-at 1661354906269}
+ {:block/name "integration testing",
+  :block/created-at 1667835177870,
+  :block/updated-at 1667835177870}
  {:block/name "intro to azure policies",
   :block/created-at 1666979818274,
   :block/updated-at 1666982174145}
  {:block/name "iot central",
   :block/created-at 1666720868457,
-  :block/updated-at 1666720882999}
+  :block/updated-at 1667315501109}
  {:block/name "iot edge",
   :block/created-at 1666721060011,
   :block/updated-at 1666721130626}
  {:block/name "iot hub",
   :block/created-at 1666720890582,
-  :block/updated-at 1666721048851}
+  :block/updated-at 1667315435484}
  {:block/name "ip tables",
   :block/created-at 1660606551855,
   :block/updated-at 1660606551855}
@@ -745,6 +826,9 @@
  {:block/name "kubernetes storage",
   :block/created-at 1660000488336,
   :block/updated-at 1660267732110}
+ {:block/name "landing zone design",
+  :block/created-at 1667835177495,
+  :block/updated-at 1667835177495}
  {:block/name "later",
   :block/created-at 1659662751339,
   :block/updated-at 1659662751339}
@@ -807,6 +891,33 @@
  {:block/name "nist",
   :block/created-at 1666801405115,
   :block/updated-at 1666801483961}
+ {:block/name "node.js",
+  :block/created-at 1667935119828,
+  :block/updated-at 1667935119828}
+ {:block/name "nov 14th, 2022",
+  :block/created-at 1668441620693,
+  :block/updated-at 1668441620693}
+ {:block/name "nov 15th, 2022",
+  :block/created-at 1668528034427,
+  :block/updated-at 1668528034427}
+ {:block/name "nov 16th, 2022",
+  :block/created-at 1668614467338,
+  :block/updated-at 1668614467338}
+ {:block/name "nov 1st, 2022",
+  :block/created-at 1667303911349,
+  :block/updated-at 1667303911349}
+ {:block/name "nov 30th, 2022",
+  :block/created-at 1669831057567,
+  :block/updated-at 1669831078358}
+ {:block/name "nov 7th, 2022",
+  :block/created-at 1667835176632,
+  :block/updated-at 1667835176632}
+ {:block/name "nov 8th, 2022",
+  :block/created-at 1667923416281,
+  :block/updated-at 1667923416281}
+ {:block/name "nov 9th, 2022",
+  :block/created-at 1668009803398,
+  :block/updated-at 1668009803398}
  {:block/name "now",
   :block/created-at 1659662751339,
   :block/updated-at 1659662751339}
@@ -858,6 +969,12 @@
  {:block/name "palo alto",
   :block/created-at 1666811675659,
   :block/updated-at 1666811675659}
+ {:block/name "pass-through authentication",
+  :block/created-at 1667835177217,
+  :block/updated-at 1667835177217}
+ {:block/name "password hash sync",
+  :block/created-at 1667835177218,
+  :block/updated-at 1667835177218}
  {:block/name "pdf",
   :block/created-at 1659698457624,
   :block/updated-at 1659698457624}
@@ -873,6 +990,9 @@
  {:block/name "persistent volumes",
   :block/created-at 1660002974055,
   :block/updated-at 1660002974055}
+ {:block/name "pipelines",
+  :block/created-at 1667936365126,
+  :block/updated-at 1667936365126}
  {:block/name "platforms at insight",
   :block/created-at 1666274748943,
   :block/updated-at 1666275995048}
@@ -891,6 +1011,12 @@
  {:block/name "practice managers",
   :block/created-at 1666366639725,
   :block/updated-at 1666366669885}
+ {:block/name "presentation mastery",
+  :block/created-at 1668615062213,
+  :block/updated-at 1668617247131}
+ {:block/name "presenting",
+  :block/created-at 1667851448651,
+  :block/updated-at 1667851448651}
  {:block/name "product backlog",
   :block/created-at 1666294063527,
   :block/updated-at 1666294063527}
@@ -912,6 +1038,9 @@
  {:block/name "quorum",
   :block/created-at 1661275642925,
   :block/updated-at 1661275642925}
+ {:block/name "react",
+  :block/created-at 1667936394729,
+  :block/updated-at 1667936394729}
  {:block/name "redis",
   :block/created-at 1666711191395,
   :block/updated-at 1666711191395}
@@ -929,7 +1058,7 @@
   :block/updated-at 1666788445526}
  {:block/name "resource tag",
   :block/created-at 1666629655845,
-  :block/updated-at 1666788433203}
+  :block/updated-at 1667314280217}
  {:block/name "restapi",
   :block/created-at 1659730440885,
   :block/updated-at 1659730440885}
@@ -984,15 +1113,24 @@
  {:block/name "siem",
   :block/created-at 1666812209728,
   :block/updated-at 1666812220620}
+ {:block/name "smoke test",
+  :block/created-at 1667835177870,
+  :block/updated-at 1667835177870}
  {:block/name "soc",
   :block/created-at 1666801342797,
   :block/updated-at 1666801382901}
+ {:block/name "soft skills",
+  :block/created-at 1667938666342,
+  :block/updated-at 1667938666342}
  {:block/name "solutions engineer transperfect",
   :block/created-at 1660649186534,
   :block/updated-at 1660650493141}
  {:block/name "sow",
   :block/created-at 1666365124777,
   :block/updated-at 1666365143793}
+ {:block/name "specflow",
+  :block/created-at 1667835177872,
+  :block/updated-at 1667835177872}
  {:block/name "splunk",
   :block/created-at 1666811670370,
   :block/updated-at 1666811670370}
@@ -1017,6 +1155,18 @@
  {:block/name "team leads at insight",
   :block/created-at 1666366583642,
   :block/updated-at 1666366621829}
+ {:block/name "terraform",
+  :block/created-at 1667318172173,
+  :block/updated-at 1668447292567}
+ {:block/name "terraform state file",
+  :block/created-at 1667320995084,
+  :block/updated-at 1667320995084}
+ {:block/name "terraform topics tuesdays",
+  :block/created-at 1667318172174,
+  :block/updated-at 1667318172174}
+ {:block/name "terraform topics tuesdays nov 11, 2022",
+  :block/created-at 1667318158463,
+  :block/updated-at 1667321172597}
  {:block/name "tls",
   :block/created-at 1659728937268,
   :block/updated-at 1659732716770}
@@ -1026,18 +1176,33 @@
  {:block/name "type",
   :block/created-at 1659698415296,
   :block/updated-at 1659698415296}
+ {:block/name "types of software tests",
+  :block/created-at 1667835177873,
+  :block/updated-at 1667835177873}
  {:block/name "uk g-cloud",
   :block/created-at 1666801502065,
   :block/updated-at 1666801528479}
  {:block/name "unit file",
   :block/created-at 1659733656631,
   :block/updated-at 1659745017738}
+ {:block/name "unit test",
+  :block/created-at 1667835177868,
+  :block/updated-at 1667835177868}
  {:block/name "update domain",
   :block/created-at 1666651702953,
   :block/updated-at 1666651807318}
+ {:block/name "user acceptance testing",
+  :block/created-at 1667835177871,
+  :block/updated-at 1667835177871}
+ {:block/name "verbal communication",
+  :block/created-at 1667938648632,
+  :block/updated-at 1667940091153}
+ {:block/name "view",
+  :block/created-at 1667936389909,
+  :block/updated-at 1667936389909}
  {:block/name "virtual network gateway",
   :block/created-at 1666715427867,
-  :block/updated-at 1666715458923}
+  :block/updated-at 1667310301765}
  {:block/name "virtual wan",
   :block/created-at 1666715323037,
   :block/updated-at 1666715357632}
@@ -1059,6 +1224,9 @@
  {:block/name "windows 10 iot core services",
   :block/created-at 1666721303089,
   :block/updated-at 1666721345722}
+ {:block/name "written communication",
+  :block/created-at 1668441716718,
+  :block/updated-at 1668614532528}
  {:block/name "xamarin",
   :block/created-at 1666713361394,
   :block/updated-at 1666713379716}

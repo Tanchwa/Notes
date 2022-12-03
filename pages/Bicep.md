@@ -1,0 +1,25 @@
+- Azure specific infra as code tool
+- domain specific language (DSL) to declaratively deploy to Azure resources
+-
+- file types
+	- resource declaration - main.bicep
+		- (not required, but is done to mimic [[Terraform]] style)
+	- parameters - parameters.json
+	- modules - SOMETHING.json
+		- these are nested, callable files that can be called in main.bicep or other files
+		- can cross reference files across repos by calling a different registry
+	- bicepconfig.json
+		- allow to declare custom set of inter rules when writing bicep files. conflicts will override default settings
+		- can also use it to set up Bicep Repository?
+- Key words
+	- param - parameters, [[Terraform]] equivalent is var
+	- var - variables SPECIFIC TO THE FILE
+	- resource - start defining a resource, use the API call formatting to define the version of the resource
+-
+- can make symbolic references to things
+	- for example, if you wanted the name of a SQL server, you would need
+	- `sqlServer.name` but you can symbolically define that with
+	- `output sqlServerName string = sqlServer.name`
+-
+- can reference higher level items with `parent` option
+-
