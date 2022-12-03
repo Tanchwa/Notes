@@ -151,6 +151,7 @@ tags:: Azure, Cloud
 	- [[Azure Cache for Redis]]
 	- [[Azure Table Storage]]
 - Application Integration Services
+  id:: 6357fec7-671e-4478-98ce-d8dd4ae52354
 	- [[Azure Notifications Hub]]
 	- [[Azure API Apps]]
 	- [[Azure Service Bus]]
@@ -213,6 +214,7 @@ tags:: Azure, Cloud
 	- [[IoT Central]]
 	- [[IoT Hub]]
 	- [[IoT Edge]]
+	- [[Azure Sphere]]
 	- [[Windows 10 IoT core Services]]
 -
 - Big Data Services

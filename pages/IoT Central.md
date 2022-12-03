@@ -1,1 +1,1 @@
-- connect IoT devices to the cloud
+- fully managed SaaS for connecting, monitoring, and managing IoT devices at scale

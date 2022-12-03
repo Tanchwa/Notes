@@ -2,3 +2,10 @@
 - Event Grid just watches for events and then routes them to the handles
 -
 - is push model, apps never have to make requests
+-
+- event sources can be
+	- [[Azure Event Hub]]
+	- Resources and [[Azure Resource Group]]
+	- [[Azure Service Bus]]
+	- [[IoT Hub]]
+	- and other custom topics

@@ -1,0 +1,5 @@
+- an event hub is an intermediary endpoint for the event processing pipeline
+- collect events from multiple sources into a centralized repo
+	- can process huge amounts of events (millions per second) with low latency
+- can be used as a source for [[Azure Event Grid]]
+-

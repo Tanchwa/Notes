@@ -1,0 +1,4 @@
+- if you don't have well thought out terraform infrastructure for your team, the change failure rate might creep up
+	- dev teams don't understand how it works or what its doing
+	- constraints on what can be built are not well defined
+-

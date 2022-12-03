@@ -1,1 +1,2 @@
-- allow highly secure and reliable communication between your IoT app and the devices it manages
+- allow highly secure and reliable COMMUNICATION between your IoT app and the devices it manages
+-

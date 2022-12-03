@@ -1,0 +1,35 @@
+tags:: Azure, Insight, DevOps, Pipelines, Terraform
+
+- Important [[Azure DevOps]] keywords
+	- pools: which Pool to use for the job of a pipeline, it holds info about the job's strategy for running like what kind of OS you want the commands to run on
+	- trigger
+	- stages
+	- jobs
+	- steps
+-
+-
+- 3 most likely languages in CICD land
+	- node.js
+		- [[View]]
+		- [[React]]
+		- [[Angular]]
+	- .net
+	- java
+	- python
+-
+- Day two
+- build [[Node.js]] app, has some important
+	- package.json - dependency builder
+	- package-lock.json
+	- app.js - is the actual code
+	- routes
+		- index - main landing "page"
+	- views
+		- what to do where
+- build NodeJS container
+- pipeline for container
+	- big tip is to cache the npm packages in the pipeline
+- create variable group for
+-
+-
+-

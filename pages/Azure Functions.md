@@ -1,1 +1,2 @@
 - currently supports C#, Java, JavaScript, Python, and PowerShell
+- functions are always stateful

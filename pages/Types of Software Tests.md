@@ -1,0 +1,20 @@
+- [[Unit Test]]
+	- add more test for each portion of your code
+	- run during the build
+	- at dev level
+- [[Dependency Test]]
+- [[Integration Testing]]
+	- validate that schema is correct
+	- at QA level
+- [[Smoke Test]]
+	- makes sure third party endpoints for API calls exist
+	- checks for networking dependencies
+	- or, after it's built validate its running
+- [[User Acceptance Testing]]
+	- "production ready" by this point
+	- bring live users in
+	- last phase of testing
+-
+- [[Specflow]]
+	- is a good option for building automated tests
+-

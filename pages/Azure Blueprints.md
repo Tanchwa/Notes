@@ -1,6 +1,6 @@
 - SOME COMPANIES CAN'T DO BLUEPRINTS BEAUSE THEY HAVE NO SLA
 - A way to package up multiple different types of configuration items
-	- [[Azure RBAC]], Storage Account, [[Azure Resource Group]]
+	- [[Azure RBAC]], [[Azure Storage Account]], [[Azure Resource Group]]
 - work with [[Azure Resource Manager]] to deploy ANY object, with specific security assignments
 - can be versioned
 - scaling and automating security
