@@ -1,0 +1,14 @@
+- https load balancing
+	- Distributes traffic across regions
+	- handles closest instance routing across regions
+	- failover HA
+	- distributes traffic based on content type (layer 7)
+- Network Load balancing
+	- distribute traffic among server instances in the same region
+	- based on IP protocol data
+		- address
+		- port
+		- protocol
+	- layer 3/4
+- ![](https://miro.medium.com/max/614/1*u95QsM2JaE-wqYQkJ7Cs4w.png)
+-

@@ -1,0 +1,6 @@
+- fully managed, serverless,
+- NoSQL document database
+- for mobile, web, and IoT apps
+- multi-region replicaiton
+- ACID transactions
+- ![](https://happycoding.io/tutorials/google-cloud/images/datastore-2.png)

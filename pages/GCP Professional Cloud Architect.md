@@ -40,5 +40,63 @@ deck:: GCP Pro Architect
 	- [[GCP Persistent Disk]]
 -
 - Database Services
+	- SQL
+		- [[GCP Cloud SQL]]
+		- [[GCP Cloud Spanner]]
+	- NoSQL
+		- [[GCP Bigtable]]
+		- [[GCP Datastore]]
+		- [[GCP Firestore]]
+		- [[GCP Memorystore]]
+-
+- Make a question about differences between Firestore and Datastore #card #reversed
+	- some question here, which one does blank and then fill it in
+-
+- Networking Services
+	- [[GCP VPC]]
+	- [[GCP Firewall Rules]]
+	- [[GCP Cloud Router]]
+	- [[GCP Cloud Load Balancing]]
+	- [[GCP Cloud DNS]]
+	- Advanced connectivity:
+	- [[GCP Cloud VPN]]
+	- [[GCP Direct Interconnect]]
+	- [[GCP Direct Peering]]
+	- [[GCP Carrier Peering]]
+-
+- Resource Hierarchy
+  id:: 638b7b14-0709-448c-a97f-0ba4a44e5b5d
+	- Permissions to resources inherit permissions similar to the structure of [[Azure AD]]
+	- everything below the [[GCP Domain]] is considered a resource
+	- Service-Level Resources
+		- Compute Instances
+		- [[GCP Cloud Storage]] buckets
+		- [[GCP Cloud SQL]] databases
+	- Account-level Resources
+		- [[GCP Organization]]
+		- [[GCP Folder]]
+		- [[GCP Project]]
+	- Above the [[GCP Organization]] is the [[GCP Domain]] (cloud level)
+	- ![image](https://cloud.google.com/static/resource-manager/img/cloud-hierarchy.svg)
+	- Resources are organized with a parent-child relationship
+	- policies are controlled by [[GCP IAM]]
+	- access control policies and configuration settings on a parent resource are inherited by the child
+	- #+BEGIN_TIP
+	  EACH CHILD RESOURCE CAN ONLY HAVE ONE PARENT
+	  #+END_TIP
+	- like [[Azure]], tags can be added to any resource or logical structure in GCP
+-
+- Billing
+	- [[GCP Billing Account]] is at the cloud level
+	- [[GCP Payments Profile]] is Google-level
 	-
+- Cost Management
+	- [[GCP Committed Use Discounts]]
+	- [[GCP Sustained Use Discounts]]
+	- [[GCP Pricing Calculator]]
+	- [[GCP Cloud Billing Budgets]]
+	- [[GCP Capacity Reservations]]
+	- [[GCP Billing Export]]
+	-
+- [[GCP API]]
 -

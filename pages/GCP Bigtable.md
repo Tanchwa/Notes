@@ -1,0 +1,4 @@
+- fully managed scalable NoSQL database
+- high throughput with low latency
+- cluster resizing without downtime
+- ![](https://www.computerhope.com/jargon/b/bigtable.jpg)

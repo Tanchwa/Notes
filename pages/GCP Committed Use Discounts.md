@@ -1,0 +1,21 @@
+- discounted prices when you commit to using a minimum level of resources for a specified term
+- 1 or 3 year commitment
+- spend-based
+	- measured in $ per hour of on demand spend
+	- any [[GCP Billing Account]] and any [[GCP Project]] linked to that account
+	- up to 25% discount for 1 year
+	- up to 52% for 3 years
+	- available for
+		- [[GCP Cloud SQL]]
+		- [[GCP VMWare Engine]]
+		- [[GCP Cloud Spanner]]
+		- [[GCP GKE]] autopilot mode
+		- [[GCP Cloud Run]] fully managed
+- resource-based
+	- discount for a commitment to spend a minimum amount for [[GCP Compute Engine]] resources in a particular [[Region]]
+	- good for predictable workloads
+	- available for vCPU, Memory, GPU, and Local SSD
+	- 57% discount for most resources
+	- up to 70% for memory-optimized machines
+	- for access across all [[GCP Project]]s
+- billed monthly
