@@ -1,0 +1,11 @@
+- hard limits on how much of a particular [[GCP Resource]] you can use
+- Rate Quotas
+	- Resets after a specific time
+- allocation quotas
+	- must be explicitly released
+- why
+	- prevents unforeseen usage spikes
+	- resource management
+	- countable
+- can monitor using [[GCP Cloud Monitoring]]
+- returns error 429: resource exhausted

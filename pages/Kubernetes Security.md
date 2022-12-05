@@ -61,11 +61,11 @@ tags:: [[Kubernetes]]
 	- see ((62ed7bab-ae32-4833-8bbd-28ddd8e6898c))
 -
 - Viewing certificates in Kubernetes
-	- LATER rewatch and take notes on the "View Certificate Details" video
+	- DONE rewatch and take notes on the "View Certificate Details" video
 	- [kubernetes-certs-checker.xlsx](../assets/kubernetes-certs-checker_1659731044760_0.xlsx)
 	-
 - Creating certificates for user/ admin access
-	- LATER  rewatch and take notes on the "Certificates API" video
+	- DONE  rewatch and take notes on the "Certificates API" video
 	  :LOGBOOK:
 	  CLOCK: [2022-08-05 Fri 17:39:09]
 	  :END:

@@ -1,0 +1,21 @@
+tags:: Cloud, ACE, Insight
+
+- it all starts with the repo
+- its continuous deployment OR delivery
+	- you can deploy it into an artifact registry and then everyone else pulls when needed
+	- if you're deploying, PROBABLY doing gated deployments
+- Why?
+	- people want a repeatable, reference able definition of the state of the environment
+- everything is Idempotent
+-
+- layer cake (bloody marry)structure
+	- solid basic base
+	- bunch of bells and whistles on top as you go up
+- ![image](https://food.fnr.sndimg.com/content/dam/images/food/fullset/2018/11/1/0/FN_best-bloody-marys-america-party-fowl_s6x4.jpg.rend.hgtvcom.441.294.suffix/1541171974727.jpeg)
+	- may have different versions of each app on each skewer
+	- IT has chicken nugget 7 combine with avocado 6
+	- legal has chicken nugget 3 combined with avocado 9
+-
+- Postman can be used to check APIs
+-
+-
