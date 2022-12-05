@@ -1,0 +1,17 @@
+- processors
+	- earliest is going to be Intel 8086
+	- https://en.wikichip.org/wiki/x86/list_of_processor_families
+- memory
+	- bios
+		- needs to be flash ROM
+		- EEPROM is written byte by byte, and is very slow
+			- usually used in rapid device prototyping
+			- do not require power to retain info
+		- Flash can handle many more read write cycles than EEPROM
+-
+- Logic
+	- https://en.wikipedia.org/wiki/Programmable_logic_device
+- synth components
+	- https://en.wikipedia.org/wiki/CEM_and_SSM_chips
+-
+- Digital signal processors (DSP)

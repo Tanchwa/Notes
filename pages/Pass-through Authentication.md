@@ -1,0 +1,6 @@
+- need to run an [[Azure AD]] connect sync application agent on prem
+	- give it access to your windows domain controller
+	- DOES NOT sync password hashes to [[Azure AD]], sends requests back to local AD
+-
+- Offers self service password reset
+-

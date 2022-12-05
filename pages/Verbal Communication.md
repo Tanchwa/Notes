@@ -1,0 +1,59 @@
+tags:: Communication, Soft Skills, Insight
+
+- Be Curious
+	- go with no preconceptions
+	- look for surprise
+- be present
+	- don't think of what to say next, react to exactly what they're saying
+- be patient
+-
+- Fighting impulses
+	- from here -> change to here
+	- I need to get my point across -> I need to ask good questions to understand
+	- I need to think about what to say next -> I need to really listen to hear the other person
+	- talkers get all the attention -> people remember those who listened
+-
+- Empathy is really an important key
+-
+- listening - why it matters
+	- productivity
+		- gets to the bottom of things faster
+		- understand the REAL task
+		- avoid double or triple work
+	- red8ce stress
+		- avoid misunderstandings create connections
+		- avoid ambiguity and missed meaning
+-
+- Put the focus on the other person
+	- seek to understand
+	- be curious
+	- ask what/ how NOT why
+	- allow them to feel needed and valued
+	- bring them into the convo
+- give yourself room to absorb
+	- have the spotlight off you reduces stress
+	- reduce noise in the interaction
+-
+- Building question bank
+	- look for good questions
+	- keep a log/ write them down
+	- caragorize them
+	- practice practice practice
+	- repeat, build a framework of questions or interactions
+- Question bank primer
+	- I'm curious about...
+	- tell me more
+	- I'm wondering
+	- tell me specifically about what doesn't fit or work for you
+	- what **in particular** would you like to ensure we discuss?
+	- what does success look like for you?
+	- How can I best help?
+-
+- Speaking with impact
+	- The audience - empathize with your audience
+		- seek to understand where they are
+		- understand how they want to be informed
+-
+- Listen - seek to understand, build a question bank
+- Speaking - know the audience, be concise, avoid filler, be organized
+- Persuading - seek the win-win, start on common ground

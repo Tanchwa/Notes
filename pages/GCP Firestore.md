@@ -1,0 +1,6 @@
+- NoSQL Realitime database
+- optimized for offline use
+- cluster resizing without downtime
+- ![](https://www.gcppodcast.com/images/icons/firestore.png)
+-
+-

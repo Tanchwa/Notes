@@ -1,0 +1,47 @@
+tags:: Terraform, Terraform Topics Tuesdays, Insight
+
+- Session 3: Terraform CLI
+- developer.hashicorp.com/terraform/cli/commands
+-
+- if you're using multiple versions, you need to manage your path variables yourself
+- init
+	- inits working directory containing [[Terraform Configuration File]]s
+	- prepares a working directory for other plans
+	- `-upgrade` opt to upgrade modules and plugins as part of the init process
+	- `-input=false` for when you don't want to pass in variables
+	- `-from-module=MODULE_SOURCE` a type of initialization that copies a module source into an empty working directory, great for starting with an example config
+	-
+- validate
+	- check weather the config is valid
+- plan
+	- syncs state with external resources, checks and makes sure its the same
+	- notes differences between current state and desired state in the new edited file
+	- `-refresh=false` bad option, disables drift detection
+	- `-replace=ADDRESS` taints and destroys the specified resource
+	- `-var='key' = 'value'` `--var-file=FILENAME`
+	- creates a tfplan
+	- can increase amount of concurrent resource creating API calls with `parallelism=n`
+	- `-json` provides an output of the state file in json
+- apply
+	- `-refresh-only` only creates a new state file and root module output values
+	-
+- destroy
+	- need to make sure you have a valid state file
+-
+-
+-
+- console
+- format
+	- helps take your code into [[HCL]] by giving you suggestions
+	- can do `-dif` to see where its wrong
+	- `-recursive`
+	- most shops use this as a git hook before it even gets put into the repo see [here](https://github.com/antonbabenko/pre-commit-terraform)
+- show
+	- human readable output of the [[Terraform State File]]
+	-
+- state list
+	- only list the resource addresses in the state file
+- state show
+	- show command will show the attributes of a single resource managed within the state file
+-
+- When working with a remote state file, how do we pass that into the path?

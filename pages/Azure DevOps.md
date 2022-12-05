@@ -1,0 +1,24 @@
+tags:: Agile, Cloud, Azure, Insight
+
+- a suite of tools that help facilitate CI/CD
+- comes in two flavors:
+	- Services - on cloud SaaS offering
+	- Server - server is on prem but is usually a few versions behind server
+- [[Azure Boards]]
+	- rich tools with native support for agile, scrum, and Kanban processes
+	- also has a querying system
+		- can export them into other viewing platforms like powerBI
+- [[Azure Repos]]
+	- Version control with TFVC (team foundation version control) and Git
+	- when you do pull requests, you can set it up to trigger things
+	- can even notify specific people (like team leads) for validating specific changes
+	- can set locks on certain branches
+- [[Azure Pipelines]]
+	- can build through UI, but it is preferred to use YAML now
+	- uses ADO agents (linux or windows) self hosted or run by Microsoft
+- [[Azure Test Plans]]
+	- allows everyone on team to create, trigger, run, etc. tests against
+- [[Azure Artifacts]]
+	- Basically a package management system
+-
+-

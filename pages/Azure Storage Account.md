@@ -1,0 +1,9 @@
+- contains all of your azure storage data objects
+	- [[Blob Storage]]
+	- [[Azure Disk Storage]]
+	- [[Azure Table Storage]]
+	- [[Azure Queue Storage]]
+	- [[Azure File Storage]]
+	- [[Azure Data Lake]]
+- provides a unique namespace for your data that is accessible anywhere in the world over HTTP or HTTPS
+- minimum replication option is Locally Redundant Storage, with three replicated copies in a single primary region

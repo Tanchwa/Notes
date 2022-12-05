@@ -1,0 +1,59 @@
+tags:: Azure, Insight, Cloud Adoption Framework
+
+-
+- [[Cloud Adoption Framework]] and its relation to landing zones
+	- Microsoft designed strategy for not only technology, but also business models
+	- everyone is going to be in one of the stages when we come to them
+	- Define Strategy
+		- Insight does strategy workshops
+		- leverages Microsoft templates
+	- Plan
+		- Look at specifics, apps, data centers
+		- What pieces need to be upscaled
+		- also leverages Microsoft templates
+	- Ready
+		- This is where we start deploying sandbox env
+		- initial deployments for landing zone blueprints
+-
+- Azure Landing Zones
+	- help customers set up their Azure environment for scale, security, governance, networking
+	- Landing zones are like foundations of a building
+		- not all foundations are the same, (bridge, house, stadium)
+	- We need to
+		- Enable Migration
+		- Consider all platform sources
+		- Don't need to differentiate between IaaS or PaaS
+-
+- What's the value?
+	- Aligned to business properties
+	- cloud-design considerations
+	- adapted for cloud operating model
+		- cost consideration
+		- tagging
+		- different designs
+	- ready for cloud applications
+	- adaptable to grow to demand
+		- also cloud can be iterated, changed, made better, just like code
+-
+- Challenges
+	- Architecture complexity
+	- Operating Compatibility
+		- existing approaches to IT are sometimes not compatible with Azure platform
+	- Lack of trust and desire for control
+		- the lack of control, on the physical level for example, lead to miss-trust
+		- hard to define who owns what within the cloud
+	-
+- Enterprise scale Design Guidelines
+	- **Network Topology**
+	- **Management Group and Subscriptions**
+	- **Platform Automation & DevOps**
+	- and others that we don't need to worry about yet
+		- LATER look through landing zone slides
+-
+- IN OUR CURRENT ROLE
+	- understand landing zone conceptually
+	- look at an architecture, figure out how to deploy it
+	-
+-
+- Questions
+	- VWAN Hubs

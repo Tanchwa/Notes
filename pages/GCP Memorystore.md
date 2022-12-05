@@ -1,0 +1,4 @@
+- caching engine
+- highly available memory service for [[Redis]] and Memcached
+- Fully managed
+- ![](https://dbdb.io/media/logos/Cloud_Memorystore.png)

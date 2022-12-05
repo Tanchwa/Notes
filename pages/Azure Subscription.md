@@ -6,3 +6,8 @@
 	- Enterprise Agreement
 	- Student Subscription - No credit card needed, $100 USD credits for 12 months 
 	  need a student email
+-
+- resources can be moved between subscriptions, but
+- subscriptions cannot be merged
+- an [[Azure AD]] account is needed to managed Azure subscriptions
+- there can only be ONE account admin for each subscription (you can have more than one co-admin)

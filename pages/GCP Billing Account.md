@@ -1,0 +1,5 @@
+- Self-service (online) or
+- Invoiced (offline) options
+- [[GCP Sub-accounts]] can be used for resellers
+- Billing account can pay for [[GCP Project]] in other [[GCP Organization]]s
+- [[GCP Project]]s not linked to a billing account cannot use paid services
