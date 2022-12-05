@@ -1,0 +1,19 @@
+- SDK
+	- set of command line tools to manage resources through the terminal
+	- glcoud
+	- gsutil
+	- bq
+	- kubectl
+- gcloud init
+- gcloud auth login
+	- authorize access
+- gcloud config
+	- configure accounts and projects
+- gcloud components
+	- install, update, delete sdk components
+-
+- command format
+- ![Screen Shot 2022-12-05 at 10.57.33 AM.png](../assets/Screen_Shot_2022-12-05_at_10.57.33_AM_1670255897201_0.png)
+-
+- can run an interactive version of the cli with `gcloud beta interactive`
+-

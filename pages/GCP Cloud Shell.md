@@ -1,0 +1,3 @@
+- cloud shell has a persistent storage of 5gb
+- usage limit of 50 hours a week
+- if you don't access for 120 days, home disk will be deleted

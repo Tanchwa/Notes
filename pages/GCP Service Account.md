@@ -1,0 +1,26 @@
+- a non human user account
+- User-managed
+	- you can create 100 by default or request quota increase
+	- creates as service-account-name@project-id.iam.gserviceaccount.com
+- Default
+	- some gcp services create roles that allow itself to access other resources
+	- automatically granted the editor role
+	- creates as default project-id@appspot.gserviceaccount.com
+	- or project-number-compute@developer.gserviceaccount.com for compute engine
+	- do not use these for for production workloads
+- Google-managed
+	- some visible, some hidden
+	- name ends with "service agent" or "service account"
+-
+- Use RSA keys to authenticate
+-
+- Automated service accounts use [[GCP Access Scopes]]
+- User created use [[GCP IAM]]
+-
+- Best practices
+	- audit service account and keys using
+		- `serviceAccount.keys.list()` method
+		- or the Logs Viewer page in the console
+	- only grant minimal permissions
+	- one service account per service
+	- take advantage of the IAM service account API to implement key rotation

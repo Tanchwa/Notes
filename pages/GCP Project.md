@@ -1,10 +1,10 @@
 - a project is a logical, core organization component of the GCP ((638b7b14-0709-448c-a97f-0ba4a44e5b5d))
 - somewhere in between an [[Azure Subscription]] and an [[Azure Resource Group]]
-- [[GCP Resources]] can only exist in one project
+- [[GCP Resource]] can only exist in one project
 - billing accounts from other organizations can be used to pay for a project
 - projects not linked to a [[GCP Billing Account]] cannot use paid services
 - one level below [[GCP Folder]]
-- one level above [[GCP Resources]]
+- one level above [[GCP Resource]]
 -
 - ![](https://static-00.iconduck.com/assets.00/google-cloud-platform-icon-512x455-f8ws1zg7.png)
 -
