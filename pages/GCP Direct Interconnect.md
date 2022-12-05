@@ -1,0 +1,4 @@
+- connect an existing network to your VPC using a highly available, low latency, enterprise grade connection
+- This does not go on the public internet
+- ![](https://www.cloudbank.org/sites/default/files/styles/medium/public/file_fields/tool/google-interconnect.png?itok=nmco3JDC)
+-

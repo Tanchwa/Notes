@@ -1,0 +1,6 @@
+- the root node of GCP ((638b7b14-0709-448c-a97f-0ba4a44e5b5d))
+- [[GCP Payments Profile]] and the [[GCP Billing Account]] live here
+- One level below [[GCP Domain]]
+- One level above [[GCP Folder]]
+- ![](https://www.webagesolutions.com/wp-content/uploads/2021/05/cloudhier1.png)
+-

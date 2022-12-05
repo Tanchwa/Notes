@@ -1,0 +1,3 @@
+- every GCP resource has its only separate api that can be called
+- needs to be enabled first before you can even use it in the console
+-

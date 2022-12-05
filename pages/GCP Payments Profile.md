@@ -1,0 +1,5 @@
+- payments.google.com
+- for ALL google service, including adwords and google play store
+- single pane of glass for viewing invoices and payment history
+- controls who can view and receive invoices
+- two types: individual or business

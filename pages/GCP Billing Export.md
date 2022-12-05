@@ -1,0 +1,4 @@
+- billing export automatically exports to [[GCP BigQuery]] after enabled
+- can use other tools to analyze the data [[Google Data Studio]]
+- NOT RETROACTIVE
+-

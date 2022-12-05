@@ -1,0 +1,5 @@
+- scalable relational database
+- supports transactions, strong consistency, and **synchronous replication**
+- google's relational database flavor
+-
+- ![](https://www.zdnet.com/a/img/resize/eeccc07f9ecab1dab5029bf75a1c4868ebb36fb4/2018/02/21/06090e9d-c028-4d56-8d10-dce1474f8f8b/google-spanner-logo.png?auto=webp&fit=crop&height=1200&width=1200)

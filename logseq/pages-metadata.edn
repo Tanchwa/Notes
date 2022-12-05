@@ -10,6 +10,12 @@
  {:block/name "aad tenant",
   :block/created-at 1666788336989,
   :block/updated-at 1666788336989}
+ {:block/name "ace",
+  :block/created-at 1670078192187,
+  :block/updated-at 1670078192187}
+ {:block/name "ace capstone",
+  :block/created-at 1670078192185,
+  :block/updated-at 1670078192185}
  {:block/name "ace first interview",
   :block/created-at 1663943840715,
   :block/updated-at 1666297462586}
@@ -82,6 +88,9 @@
  {:block/name "availability set",
   :block/created-at 1666651861044,
   :block/updated-at 1666652055684}
+ {:block/name "aws",
+  :block/created-at 1670193657390,
+  :block/updated-at 1670193657390}
  {:block/name "aws cloudwatch",
   :block/created-at 1666819610343,
   :block/updated-at 1666819610343}
@@ -228,7 +237,7 @@
   :block/updated-at 1667314820746}
  {:block/name "azure express route",
   :block/created-at 1666715254373,
-  :block/updated-at 1666715281149}
+  :block/updated-at 1670084920298}
  {:block/name "azure face",
   :block/created-at 1666722656769,
   :block/updated-at 1666722656769}
@@ -304,6 +313,9 @@
  {:block/name "azure monitor",
   :block/created-at 1666813869362,
   :block/updated-at 1667252957548}
+ {:block/name "azure movere",
+  :block/created-at 1670078192974,
+  :block/updated-at 1670078192974}
  {:block/name "azure network security groups",
   :block/created-at 1666715027124,
   :block/updated-at 1666715146591}
@@ -589,6 +601,15 @@
  {:block/name "data lake analytics",
   :block/created-at 1666721588088,
   :block/updated-at 1666721611751}
+ {:block/name "dec 1st, 2022",
+  :block/created-at 1670078191988,
+  :block/updated-at 1670078191988}
+ {:block/name "dec 3rd, 2022",
+  :block/created-at 1670078191757,
+  :block/updated-at 1670078191757}
+ {:block/name "dec 4th, 2022",
+  :block/created-at 1670130052385,
+  :block/updated-at 1670130052385}
  {:block/name "deck",
   :block/created-at 1659713803659,
   :block/updated-at 1659713803659}
@@ -658,6 +679,168 @@
  {:block/name "fips 140-2",
   :block/created-at 1666801504963,
   :block/updated-at 1666801591856}
+ {:block/name "forward",
+  :block/created-at 1670078192742,
+  :block/updated-at 1670078192742}
+ {:block/name "gcp",
+  :block/created-at 1670078192607,
+  :block/updated-at 1670078192607}
+ {:block/name "gcp api",
+  :block/created-at 1670198871448,
+  :block/updated-at 1670198915029}
+ {:block/name "gcp app engine",
+  :block/created-at 1670078192385,
+  :block/updated-at 1670078192385}
+ {:block/name "gcp bigquery",
+  :block/created-at 1670198283063,
+  :block/updated-at 1670198283063}
+ {:block/name "gcp bigtable",
+  :block/created-at 1670079919899,
+  :block/updated-at 1670103387489}
+ {:block/name "gcp billing account",
+  :block/created-at 1670086737838,
+  :block/updated-at 1670109001675}
+ {:block/name "gcp billing export",
+  :block/created-at 1670198163068,
+  :block/updated-at 1670198402126}
+ {:block/name "gcp capacity reservations",
+  :block/created-at 1670193633553,
+  :block/updated-at 1670196394696}
+ {:block/name "gcp carrier peering",
+  :block/created-at 1670085139791,
+  :block/updated-at 1670085304120}
+ {:block/name "gcp cloud billing budgets",
+  :block/created-at 1670178620951,
+  :block/updated-at 1670178848727}
+ {:block/name "gcp cloud dns",
+  :block/created-at 1670082568123,
+  :block/updated-at 1670103721526}
+ {:block/name "gcp cloud functions",
+  :block/created-at 1670078192409,
+  :block/updated-at 1670078192409}
+ {:block/name "gcp cloud load balancing",
+  :block/created-at 1670080632552,
+  :block/updated-at 1670103699433}
+ {:block/name "gcp cloud monitoring",
+  :block/created-at 1670178730498,
+  :block/updated-at 1670178730498}
+ {:block/name "gcp cloud pub",
+  :block/created-at 1670178841479,
+  :block/updated-at 1670178841479}
+ {:block/name "gcp cloud pub/ sub",
+  :block/created-at 1670178841478,
+  :block/updated-at 1670178841478}
+ {:block/name "gcp cloud router",
+  :block/created-at 1670080398018,
+  :block/updated-at 1670103654839}
+ {:block/name "gcp cloud run",
+  :block/created-at 1670078192437,
+  :block/updated-at 1670078192437}
+ {:block/name "gcp cloud spanner",
+  :block/created-at 1670079743052,
+  :block/updated-at 1670103367170}
+ {:block/name "gcp cloud sql",
+  :block/created-at 1670079304200,
+  :block/updated-at 1670079726167}
+ {:block/name "gcp cloud storage",
+  :block/created-at 1670078192518,
+  :block/updated-at 1670078192518}
+ {:block/name "gcp cloud vpn",
+  :block/created-at 1670082619684,
+  :block/updated-at 1670103933375}
+ {:block/name "gcp committed use discounts",
+  :block/created-at 1670169678621,
+  :block/updated-at 1670196991838}
+ {:block/name "gcp compute engine",
+  :block/created-at 1670078192539,
+  :block/updated-at 1670078192539}
+ {:block/name "gcp dataflow",
+  :block/created-at 1670171094692,
+  :block/updated-at 1670171094692}
+ {:block/name "gcp datastore",
+  :block/created-at 1670079978029,
+  :block/updated-at 1670103409492}
+ {:block/name "gcp direct interconnect",
+  :block/created-at 1670082631087,
+  :block/updated-at 1670104020551}
+ {:block/name "gcp direct peering",
+  :block/created-at 1670085131958,
+  :block/updated-at 1670085359149}
+ {:block/name "gcp domain",
+  :block/created-at 1670086475265,
+  :block/updated-at 1670086475265}
+ {:block/name "gcp edge node",
+  :block/created-at 1670078192745,
+  :block/updated-at 1670078192745}
+ {:block/name "gcp edge pop",
+  :block/created-at 1670078192550,
+  :block/updated-at 1670078192550}
+ {:block/name "gcp filestore",
+  :block/created-at 1670078192575,
+  :block/updated-at 1670078192575}
+ {:block/name "gcp firestore",
+  :block/created-at 1670080087318,
+  :block/updated-at 1670103518399}
+ {:block/name "gcp firewall rules",
+  :block/created-at 1670080385555,
+  :block/updated-at 1670103616202}
+ {:block/name "gcp folder",
+  :block/created-at 1670085823967,
+  :block/updated-at 1670104076552}
+ {:block/name "gcp gke",
+  :block/created-at 1670078192590,
+  :block/updated-at 1670078408554}
+ {:block/name "gcp iam",
+  :block/created-at 1670086052691,
+  :block/updated-at 1670086052691}
+ {:block/name "gcp instance group",
+  :block/created-at 1670078192749,
+  :block/updated-at 1670078192749}
+ {:block/name "gcp memorystore",
+  :block/created-at 1670080210655,
+  :block/updated-at 1670103558178}
+ {:block/name "gcp multi region",
+  :block/created-at 1670078192517,
+  :block/updated-at 1670078192517}
+ {:block/name "gcp organization",
+  :block/created-at 1670085805865,
+  :block/updated-at 1670104180843}
+ {:block/name "gcp payments profile",
+  :block/created-at 1670086723192,
+  :block/updated-at 1670109300899}
+ {:block/name "gcp persistent disk",
+  :block/created-at 1670078192689,
+  :block/updated-at 1670078192689}
+ {:block/name "gcp pricing calculator",
+  :block/created-at 1670171223187,
+  :block/updated-at 1670178759739}
+ {:block/name "gcp professional cloud architect",
+  :block/created-at 1670078192756,
+  :block/updated-at 1670198871449}
+ {:block/name "gcp project",
+  :block/created-at 1670085844475,
+  :block/updated-at 1670109027950}
+ {:block/name "gcp resources",
+  :block/created-at 1670086595917,
+  :block/updated-at 1670086595917}
+ {:block/name "gcp storage class",
+  :block/created-at 1670078192516,
+  :block/updated-at 1670078192516}
+ {:block/name "gcp sub-accounts",
+  :block/created-at 1670108842849,
+  :block/updated-at 1670108842849}
+ {:block/name "gcp sustained use discounts",
+  :block/created-at 1670170948005,
+  :block/updated-at 1670171099808}
+ {:block/name "gcp vmware engine",
+  :block/created-at 1670199808303,
+  :block/updated-at 1670199808303}
+ {:block/name "gcp vpc",
+  :block/created-at 1670080326700,
+  :block/updated-at 1670103595427}
+ {:block/name "gcp web security scanner",
+  :block/created-at 1670078192384,
+  :block/updated-at 1670078192384}
  {:block/name "gdpr",
   :block/created-at 1666801121174,
   :block/updated-at 1666801157940}
@@ -670,6 +853,9 @@
  {:block/name "goals",
   :block/created-at 1666807430917,
   :block/updated-at 1666807430917}
+ {:block/name "google data studio",
+  :block/created-at 1670198400833,
+  :block/updated-at 1670198400833}
  {:block/name "google gke",
   :block/created-at 1659750322605,
   :block/updated-at 1659750322605}
@@ -781,6 +967,9 @@
  {:block/name "kevin gibson",
   :block/created-at 1666807430918,
   :block/updated-at 1666807430918}
+ {:block/name "knative",
+  :block/created-at 1670078192436,
+  :block/updated-at 1670078192436}
  {:block/name "kube-api",
   :block/created-at 1659729650960,
   :block/updated-at 1659745333253}
@@ -873,6 +1062,9 @@
  {:block/name "mtcs",
   :block/created-at 1666801282250,
   :block/updated-at 1666801324912}
+ {:block/name "mysql",
+  :block/created-at 1670079643629,
+  :block/updated-at 1670079643629}
  {:block/name "nagios",
   :block/created-at 1666814915813,
   :block/updated-at 1666814915813}
@@ -993,6 +1185,9 @@
  {:block/name "pipelines",
   :block/created-at 1667936365126,
   :block/updated-at 1667936365126}
+ {:block/name "planning app migration",
+  :block/created-at 1670078192975,
+  :block/updated-at 1670078192975}
  {:block/name "platforms at insight",
   :block/created-at 1666274748943,
   :block/updated-at 1666275995048}
@@ -1002,6 +1197,9 @@
  {:block/name "pod-definition.yaml",
   :block/created-at 1659737177120,
   :block/updated-at 1659923513624}
+ {:block/name "postgresql",
+  :block/created-at 1670079643630,
+  :block/updated-at 1670079643630}
  {:block/name "powerbi",
   :block/created-at 1666813257971,
   :block/updated-at 1666813257971}
@@ -1062,6 +1260,9 @@
  {:block/name "restapi",
   :block/created-at 1659730440885,
   :block/updated-at 1659730440885}
+ {:block/name "reversed",
+  :block/created-at 1670078192887,
+  :block/updated-at 1670078192887}
  {:block/name "sc-definition.yaml",
   :block/created-at 1660267732109,
   :block/updated-at 1660267834334}
@@ -1137,6 +1338,9 @@
  {:block/name "sprint backlog",
   :block/created-at 1666294072763,
   :block/updated-at 1666294072763}
+ {:block/name "sql",
+  :block/created-at 1670079643629,
+  :block/updated-at 1670079643629}
  {:block/name "sql server on vm",
   :block/created-at 1666711048620,
   :block/updated-at 1666711068035}
@@ -1167,6 +1371,9 @@
  {:block/name "terraform topics tuesdays nov 11, 2022",
   :block/created-at 1667318158463,
   :block/updated-at 1667321172597}
+ {:block/name "test page for git",
+  :block/created-at 1670078193238,
+  :block/updated-at 1670078193238}
  {:block/name "tls",
   :block/created-at 1659728937268,
   :block/updated-at 1659732716770}

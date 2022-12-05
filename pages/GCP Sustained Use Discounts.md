@@ -1,0 +1,4 @@
+- automatic discounts for running [[GCP Compute Engine]] resources a significant portion of the billing month
+- apply to vCPU and memory for most machine types
+- applies to machines created by [[GCP GKE]]
+- but does NOT apply to machines created by [[GCP App Engine]] flexible, [[GCP Dataflow]] and E2 machine types
