@@ -1,0 +1,1466 @@
+[{:block/name "../assets/宁要大城一张床",
+  :block/created-at 1661356690979,
+  :block/updated-at 1661356690979}
+ {:block/name "2022",
+  :block/created-at 1661389993400,
+  :block/updated-at 1661389993400}
+ {:block/name "a",
+  :block/created-at 1659662751339,
+  :block/updated-at 1659662751339}
+ {:block/name "aad tenant",
+  :block/created-at 1666788336989,
+  :block/updated-at 1666788336989}
+ {:block/name "ace",
+  :block/created-at 1670078192187,
+  :block/updated-at 1670078192187}
+ {:block/name "ace capstone",
+  :block/created-at 1670078192185,
+  :block/updated-at 1670078192185}
+ {:block/name "ace first interview",
+  :block/created-at 1663943840715,
+  :block/updated-at 1666297462586}
+ {:block/name "ace recruiting interview",
+  :block/created-at 1663706718214,
+  :block/updated-at 1666297474702}
+ {:block/name "agile",
+  :block/created-at 1666292600801,
+  :block/updated-at 1666292600801}
+ {:block/name "amazon eks",
+  :block/created-at 1659750268092,
+  :block/updated-at 1659750268092}
+ {:block/name "angular",
+  :block/created-at 1667936403713,
+  :block/updated-at 1667936403713}
+ {:block/name "ansible",
+  :block/created-at 1666814924405,
+  :block/updated-at 1666814924405}
+ {:block/name "architecting an app for cloud migration",
+  :block/created-at 1667225908955,
+  :block/updated-at 1667229337603}
+ {:block/name "architecture",
+  :block/created-at 1667225950226,
+  :block/updated-at 1667225950226}
+ {:block/name "aug 11th, 2022",
+  :block/created-at 1660222383222,
+  :block/updated-at 1660222383222}
+ {:block/name "aug 12th, 2022",
+  :block/created-at 1660301655593,
+  :block/updated-at 1660301655593}
+ {:block/name "aug 15th, 2022",
+  :block/created-at 1660601448081,
+  :block/updated-at 1660601448081}
+ {:block/name "aug 16th, 2022",
+  :block/created-at 1660649171791,
+  :block/updated-at 1660649171791}
+ {:block/name "aug 17th, 2022",
+  :block/created-at 1660748956206,
+  :block/updated-at 1660748956206}
+ {:block/name "aug 19th, 2022",
+  :block/created-at 1660941727678,
+  :block/updated-at 1660941727678}
+ {:block/name "aug 22nd, 2022",
+  :block/created-at 1661169601830,
+  :block/updated-at 1661169601830}
+ {:block/name "aug 23rd, 2022",
+  :block/created-at 1661253914087,
+  :block/updated-at 1661253914087}
+ {:block/name "aug 24th, 2022",
+  :block/created-at 1661342200133,
+  :block/updated-at 1661345928431}
+ {:block/name "aug 25th, 2022",
+  :block/created-at 1661429156597,
+  :block/updated-at 1661429156597}
+ {:block/name "aug 26th, 2022",
+  :block/created-at 1661512986452,
+  :block/updated-at 1661512986452}
+ {:block/name "aug 4th, 2022",
+  :block/created-at 1659698607766,
+  :block/updated-at 1659698680273}
+ {:block/name "aug 5th, 2022",
+  :block/created-at 1659700209701,
+  :block/updated-at 1659700209701}
+ {:block/name "aug 7th, 2022",
+  :block/created-at 1659876049274,
+  :block/updated-at 1659876589424}
+ {:block/name "aug 8th, 2022",
+  :block/created-at 1660000487802,
+  :block/updated-at 1660000487802}
+ {:block/name "availability set",
+  :block/created-at 1666651861044,
+  :block/updated-at 1666652055684}
+ {:block/name "aws",
+  :block/created-at 1670193657390,
+  :block/updated-at 1670193657390}
+ {:block/name "aws cloudwatch",
+  :block/created-at 1666819610343,
+  :block/updated-at 1666819610343}
+ {:block/name "aws s3",
+  :block/created-at 1666653719973,
+  :block/updated-at 1666653719973}
+ {:block/name "az",
+  :block/created-at 1666644421924,
+  :block/updated-at 1666648158740}
+ {:block/name "az-900 study",
+  :block/created-at 1666642512303,
+  :block/updated-at 1667315539723}
+ {:block/name "azlinks",
+  :block/created-at 1666983267323,
+  :block/updated-at 1666983267323}
+ {:block/name "azure",
+  :block/created-at 1666623601488,
+  :block/updated-at 1666623601488}
+ {:block/name "azure action groups",
+  :block/created-at 1667251068132,
+  :block/updated-at 1667251478889}
+ {:block/name "azure active directory",
+  :block/created-at 1666628914690,
+  :block/updated-at 1666629001693}
+ {:block/name "azure ad",
+  :block/created-at 1666801633680,
+  :block/updated-at 1667258119054}
+ {:block/name "azure advanced threat protection",
+  :block/created-at 1666803481272,
+  :block/updated-at 1666803641477}
+ {:block/name "azure advisor",
+  :block/created-at 1666813378536,
+  :block/updated-at 1666819762614}
+ {:block/name "azure aks",
+  :block/created-at 1659750302790,
+  :block/updated-at 1659750302790}
+ {:block/name "azure anomaly detector",
+  :block/created-at 1666722093511,
+  :block/updated-at 1666722093511}
+ {:block/name "azure api apps",
+  :block/created-at 1666711389498,
+  :block/updated-at 1666711397604}
+ {:block/name "azure api management",
+  :block/created-at 1666712065995,
+  :block/updated-at 1666712442896}
+ {:block/name "azure app service",
+  :block/created-at 1666712785334,
+  :block/updated-at 1666713302008}
+ {:block/name "azure app service plan",
+  :block/created-at 1667253942668,
+  :block/updated-at 1667255171532}
+ {:block/name "azure application gateway",
+  :block/created-at 1666714941952,
+  :block/updated-at 1666803427587}
+ {:block/name "azure application insights",
+  :block/created-at 1667252501448,
+  :block/updated-at 1667252501448}
+ {:block/name "azure apps and data",
+  :block/created-at 1666882806482,
+  :block/updated-at 1667169339610}
+ {:block/name "azure archive storage",
+  :block/created-at 1666654094494,
+  :block/updated-at 1666654112067}
+ {:block/name "azure ark",
+  :block/created-at 1666275261530,
+  :block/updated-at 1666275279669}
+ {:block/name "azure artifacts",
+  :block/created-at 1667835176971,
+  :block/updated-at 1667835176971}
+ {:block/name "azure backup service",
+  :block/created-at 1666886653797,
+  :block/updated-at 1666886670564}
+ {:block/name "azure batch",
+  :block/created-at 1666653382417,
+  :block/updated-at 1666653443012}
+ {:block/name "azure blob storage",
+  :block/created-at 1666653495338,
+  :block/updated-at 1666653719974}
+ {:block/name "azure blueprints",
+  :block/created-at 1666811634084,
+  :block/updated-at 1667314878081}
+ {:block/name "azure boards",
+  :block/created-at 1666713411452,
+  :block/updated-at 1666713463895}
+ {:block/name "azure bot service",
+  :block/created-at 1666722100785,
+  :block/updated-at 1666722100785}
+ {:block/name "azure cache for redis",
+  :block/created-at 1666711173412,
+  :block/updated-at 1666711214853}
+ {:block/name "azure compliance program",
+  :block/created-at 1666800922540,
+  :block/updated-at 1666801504964}
+ {:block/name "azure composite sla",
+  :block/created-at 1666824479145,
+  :block/updated-at 1666824615347}
+ {:block/name "azure computer vision",
+  :block/created-at 1666722120392,
+  :block/updated-at 1666722141438}
+ {:block/name "azure connection",
+  :block/created-at 1666715378304,
+  :block/updated-at 1666715400519}
+ {:block/name "azure content moderator",
+  :block/created-at 1666722643945,
+  :block/updated-at 1666722643945}
+ {:block/name "azure cosmos db",
+  :block/created-at 1666710932739,
+  :block/updated-at 1666720529709}
+ {:block/name "azure cost management",
+  :block/created-at 1666811253203,
+  :block/updated-at 1666815207640}
+ {:block/name "azure data box",
+  :block/created-at 1666654005056,
+  :block/updated-at 1666654084822}
+ {:block/name "azure data lake",
+  :block/created-at 1666654139462,
+  :block/updated-at 1666654166851}
+ {:block/name "azure databricks",
+  :block/created-at 1666721509616,
+  :block/updated-at 1666721555024}
+ {:block/name "azure ddos protection",
+  :block/created-at 1666802369249,
+  :block/updated-at 1666802453753}
+ {:block/name "azure dev test labs",
+  :block/created-at 1667257560207,
+  :block/updated-at 1667257604431}
+ {:block/name "azure devops",
+  :block/created-at 1667835176974,
+  :block/updated-at 1667835176974}
+ {:block/name "azure disk storage",
+  :block/created-at 1666653741691,
+  :block/updated-at 1666653741691}
+ {:block/name "azure dns",
+  :block/created-at 1666714770883,
+  :block/updated-at 1666720479059}
+ {:block/name "azure draas",
+  :block/created-at 1666814038192,
+  :block/updated-at 1667259846412}
+ {:block/name "azure event grid",
+  :block/created-at 1666723048920,
+  :block/updated-at 1667314686544}
+ {:block/name "azure event hub",
+  :block/created-at 1667314630339,
+  :block/updated-at 1667314820746}
+ {:block/name "azure express route",
+  :block/created-at 1666715254373,
+  :block/updated-at 1670084920298}
+ {:block/name "azure face",
+  :block/created-at 1666722656769,
+  :block/updated-at 1666722656769}
+ {:block/name "azure file storage",
+  :block/created-at 1666653772945,
+  :block/updated-at 1666653800137}
+ {:block/name "azure file sync",
+  :block/created-at 1667317400994,
+  :block/updated-at 1667317460641}
+ {:block/name "azure firewall",
+  :block/created-at 1666802482752,
+  :block/updated-at 1666802758781}
+ {:block/name "azure form recognizer",
+  :block/created-at 1666722110707,
+  :block/updated-at 1666722110707}
+ {:block/name "azure front door",
+  :block/created-at 1666628461827,
+  :block/updated-at 1666715233895}
+ {:block/name "azure functions",
+  :block/created-at 1666653358396,
+  :block/updated-at 1667316666726}
+ {:block/name "azure geo-redundant storage",
+  :block/created-at 1666647133730,
+  :block/updated-at 1666647133730}
+ {:block/name "azure governance",
+  :block/created-at 1666808698645,
+  :block/updated-at 1666815031605}
+ {:block/name "azure hybrid benefit",
+  :block/created-at 1666825683596,
+  :block/updated-at 1666825820632}
+ {:block/name "azure identity",
+  :block/created-at 1667835177221,
+  :block/updated-at 1667835177221}
+ {:block/name "azure identity protection",
+  :block/created-at 1667258081377,
+  :block/updated-at 1667258081377}
+ {:block/name "azure information protection",
+  :block/created-at 1666802881797,
+  :block/updated-at 1666803373524}
+ {:block/name "azure ink",
+  :block/created-at 1666722660241,
+  :block/updated-at 1666722660241}
+ {:block/name "azure key vault",
+  :block/created-at 1666802112764,
+  :block/updated-at 1666802228564}
+ {:block/name "azure landing zones",
+  :block/created-at 1666972991878,
+  :block/updated-at 1666975591585}
+ {:block/name "azure load balancer",
+  :block/created-at 1666644796686,
+  :block/updated-at 1666720599695}
+ {:block/name "azure lock",
+  :block/created-at 1666819263162,
+  :block/updated-at 1666819282405}
+ {:block/name "azure logic apps",
+  :block/created-at 1666711998497,
+  :block/updated-at 1667316655439}
+ {:block/name "azure machine learning service",
+  :block/created-at 1666721873408,
+  :block/updated-at 1666721973830}
+ {:block/name "azure management group",
+  :block/created-at 1666629073652,
+  :block/updated-at 1666983407368}
+ {:block/name "azure marketplace",
+  :block/created-at 1666824970900,
+  :block/updated-at 1666825011535}
+ {:block/name "azure migrate",
+  :block/created-at 1666813392213,
+  :block/updated-at 1666813424740}
+ {:block/name "azure mobile apps",
+  :block/created-at 1667254216767,
+  :block/updated-at 1667254216767}
+ {:block/name "azure monitor",
+  :block/created-at 1666813869362,
+  :block/updated-at 1667252957548}
+ {:block/name "azure movere",
+  :block/created-at 1670078192974,
+  :block/updated-at 1670078192974}
+ {:block/name "azure network security groups",
+  :block/created-at 1666715027124,
+  :block/updated-at 1666715146591}
+ {:block/name "azure notifications hub",
+  :block/created-at 1666711380331,
+  :block/updated-at 1666711440138}
+ {:block/name "azure personalizer",
+  :block/created-at 1666722025926,
+  :block/updated-at 1666722054414}
+ {:block/name "azure pipelines",
+  :block/created-at 1666713473573,
+  :block/updated-at 1666713526821}
+ {:block/name "azure pipelines and artifacts",
+  :block/created-at 1667847674082,
+  :block/updated-at 1667936403714}
+ {:block/name "azure policy",
+  :block/created-at 1666811642624,
+  :block/updated-at 1666983292452}
+ {:block/name "azure policy definition",
+  :block/created-at 1666818773621,
+  :block/updated-at 1666818789038}
+ {:block/name "azure pricing calculator",
+  :block/created-at 1666813363747,
+  :block/updated-at 1666813363747}
+ {:block/name "azure privileged identity management",
+  :block/created-at 1667835177381,
+  :block/updated-at 1667835177381}
+ {:block/name "azure provisioning",
+  :block/created-at 1667923444851,
+  :block/updated-at 1667925128493}
+ {:block/name "azure qna maker",
+  :block/created-at 1666722522218,
+  :block/updated-at 1666722583712}
+ {:block/name "azure queue storage",
+  :block/created-at 1666653825551,
+  :block/updated-at 1666653893941}
+ {:block/name "azure rbac",
+  :block/created-at 1666811234288,
+  :block/updated-at 1666983267324}
+ {:block/name "azure repos",
+  :block/created-at 1667835176968,
+  :block/updated-at 1667835176968}
+ {:block/name "azure resource",
+  :block/created-at 1666629374156,
+  :block/updated-at 1666629374156}
+ {:block/name "azure resource graph",
+  :block/created-at 1666813759852,
+  :block/updated-at 1666813776961}
+ {:block/name "azure resource group",
+  :block/created-at 1666786476269,
+  :block/updated-at 1666788296356}
+ {:block/name "azure resource manager",
+  :block/created-at 1666812760502,
+  :block/updated-at 1666884259792}
+ {:block/name "azure sdk",
+  :block/created-at 1667924235101,
+  :block/updated-at 1667924235101}
+ {:block/name "azure security center",
+  :block/created-at 1666802028014,
+  :block/updated-at 1666802078553}
+ {:block/name "azure service bus",
+  :block/created-at 1666711463079,
+  :block/updated-at 1667253418162}
+ {:block/name "azure service credits",
+  :block/created-at 1666824243292,
+  :block/updated-at 1666824456063}
+ {:block/name "azure service fabric",
+  :block/created-at 1666653286858,
+  :block/updated-at 1666653324843}
+ {:block/name "azure service health",
+  :block/created-at 1666819617009,
+  :block/updated-at 1666819685850}
+ {:block/name "azure services integration",
+  :block/created-at 1667835225441,
+  :block/updated-at 1667837122792}
+ {:block/name "azure signalr service",
+  :block/created-at 1666712634692,
+  :block/updated-at 1666712772341}
+ {:block/name "azure site recovery",
+  :block/created-at 1667259846412,
+  :block/updated-at 1667259846412}
+ {:block/name "azure sla",
+  :block/created-at 1666824161173,
+  :block/updated-at 1667257463617}
+ {:block/name "azure sphere",
+  :block/created-at 1667315539722,
+  :block/updated-at 1667315565957}
+ {:block/name "azure sql database",
+  :block/created-at 1666710964205,
+  :block/updated-at 1666711025559}
+ {:block/name "azure sql managed instance",
+  :block/created-at 1667168526870,
+  :block/updated-at 1667168526870}
+ {:block/name "azure storage account",
+  :block/created-at 1667314878080,
+  :block/updated-at 1667315096858}
+ {:block/name "azure stream analytics",
+  :block/created-at 1666711928051,
+  :block/updated-at 1666711945094}
+ {:block/name "azure subscription",
+  :block/created-at 1666788186507,
+  :block/updated-at 1667310363725}
+ {:block/name "azure support plan",
+  :block/created-at 1666825188767,
+  :block/updated-at 1666825605402}
+ {:block/name "azure synapse analytics",
+  :block/created-at 1666711109731,
+  :block/updated-at 1666711145245}
+ {:block/name "azure table storage",
+  :block/created-at 1666653945369,
+  :block/updated-at 1667252327765}
+ {:block/name "azure tco calculator",
+  :block/created-at 1666824635743,
+  :block/updated-at 1666824743028}
+ {:block/name "azure test plans",
+  :block/created-at 1666713699290,
+  :block/updated-at 1666713809844}
+ {:block/name "azure text analytics",
+  :block/created-at 1666722608609,
+  :block/updated-at 1666722634506}
+ {:block/name "azure traffic manager",
+  :block/created-at 1666720242518,
+  :block/updated-at 1666720288210}
+ {:block/name "azure translator",
+  :block/created-at 1666722078458,
+  :block/updated-at 1666722078458}
+ {:block/name "azure trust center",
+  :block/created-at 1666800328623,
+  :block/updated-at 1667253032171}
+ {:block/name "azure virtual desktop",
+  :block/created-at 1667315606799,
+  :block/updated-at 1667315794116}
+ {:block/name "azure vm scale set",
+  :block/created-at 1666644785109,
+  :block/updated-at 1666644785109}
+ {:block/name "azure vnet",
+  :block/created-at 1666714787362,
+  :block/updated-at 1666788196367}
+ {:block/name "azure vpn gateway",
+  :block/created-at 1667257730741,
+  :block/updated-at 1667257803348}
+ {:block/name "azure web apps",
+  :block/created-at 1667254163207,
+  :block/updated-at 1667254163207}
+ {:block/name "azure webjobs",
+  :block/created-at 1666885334692,
+  :block/updated-at 1666885672989}
+ {:block/name "b",
+  :block/created-at 1659662751339,
+  :block/updated-at 1659662751339}
+ {:block/name "bicep",
+  :block/created-at 1667923756097,
+  :block/updated-at 1668010555351}
+ {:block/name "bidirection",
+  :block/created-at 1660310414811,
+  :block/updated-at 1660310414811}
+ {:block/name "bidirectiona",
+  :block/created-at 1660311727245,
+  :block/updated-at 1660311727245}
+ {:block/name "bidirectional",
+  :block/created-at 1659713714507,
+  :block/updated-at 1659713714507}
+ {:block/name "blob storage",
+  :block/created-at 1666722821474,
+  :block/updated-at 1666722821474}
+ {:block/name "c",
+  :block/created-at 1659662751339,
+  :block/updated-at 1659662751339}
+ {:block/name "canceled",
+  :block/created-at 1659662751339,
+  :block/updated-at 1659662751339}
+ {:block/name "cancelled",
+  :block/created-at 1659662751339,
+  :block/updated-at 1659662751339}
+ {:block/name "card",
+  :block/created-at 1659662751339,
+  :block/updated-at 1659662751339}
+ {:block/name "cdn",
+  :block/created-at 1666715233894,
+  :block/updated-at 1666715233894}
+ {:block/name "cdo",
+  :block/created-at 1667923482227,
+  :block/updated-at 1667923482227}
+ {:block/name "cdo and azure overview",
+  :block/created-at 1666627382843,
+  :block/updated-at 1666788336990}
+ {:block/name "certificate authority",
+  :block/created-at 1659729101481,
+  :block/updated-at 1659729101481}
+ {:block/name "certificates",
+  :block/created-at 1666807430917,
+  :block/updated-at 1666807430917}
+ {:block/name "chef",
+  :block/created-at 1666814926262,
+  :block/updated-at 1666814926262}
+ {:block/name "chinese",
+  :block/created-at 1659700081119,
+  :block/updated-at 1659700081119}
+ {:block/name "chinese notes aug 12th, 2022",
+  :block/created-at 1660006136390,
+  :block/updated-at 1661392271741}
+ {:block/name "chinese notes aug 24, 2022",
+  :block/created-at 1661356194774,
+  :block/updated-at 1661356194774}
+ {:block/name "chinese notes aug 26th, 2022",
+  :block/created-at 1661356167792,
+  :block/updated-at 1661521731410}
+ {:block/name "chinese notes aug 5th, 2022",
+  :block/created-at 1659661244780,
+  :block/updated-at 1659713803666}
+ {:block/name "chinese notes july 1st",
+  :block/created-at 1661389993399,
+  :block/updated-at 1661389993399}
+ {:block/name "chinese notes july 1st, 2022",
+  :block/created-at 1661389942314,
+  :block/updated-at 1661391290545}
+ {:block/name "chinese self study sep 30th",
+  :block/created-at 1665781427340,
+  :block/updated-at 1665781427340}
+ {:block/name "chinese self study sep 30th, 2022",
+  :block/created-at 1664586183918,
+  :block/updated-at 1665781427345}
+ {:block/name "chips to scavenge",
+  :block/created-at 1667268281715,
+  :block/updated-at 1667304532645}
+ {:block/name "cjis",
+  :block/created-at 1666801043348,
+  :block/updated-at 1666801055912}
+ {:block/name "class notes",
+  :block/created-at 1659711111506,
+  :block/updated-at 1659711111506}
+ {:block/name "clients",
+  :block/created-at 1667851448653,
+  :block/updated-at 1667851448653}
+ {:block/name "cloud",
+  :block/created-at 1666296202542,
+  :block/updated-at 1666296202542}
+ {:block/name "cloud adoption framework",
+  :block/created-at 1666297794200,
+  :block/updated-at 1666973349322}
+ {:block/name "cloud fundamentals",
+  :block/created-at 1666623556816,
+  :block/updated-at 1666627340504}
+ {:block/name "cloud security",
+  :block/created-at 1666810429316,
+  :block/updated-at 1666810429316}
+ {:block/name "cni",
+  :block/created-at 1660000487985,
+  :block/updated-at 1660685911586}
+ {:block/name "communication",
+  :block/created-at 1667938666342,
+  :block/updated-at 1667938666342}
+ {:block/name "config map",
+  :block/created-at 1659744607689,
+  :block/updated-at 1659744610342}
+ {:block/name "consulting 101",
+  :block/created-at 1666364774671,
+  :block/updated-at 1666364774671}
+ {:block/name "consulting at insight",
+  :block/created-at 1666207927041,
+  :block/updated-at 1666364793069}
+ {:block/name "contents",
+  :block/created-at 1659662751339,
+  :block/updated-at 1659662751339}
+ {:block/name "coolors.co",
+  :block/created-at 1667853223748,
+  :block/updated-at 1667853223748}
+ {:block/name "cri",
+  :block/created-at 1660000488007,
+  :block/updated-at 1660000488007}
+ {:block/name "csa",
+  :block/created-at 1666801066942,
+  :block/updated-at 1666801114662}
+ {:block/name "csi",
+  :block/created-at 1660000488045,
+  :block/updated-at 1660000488045}
+ {:block/name "cyprus",
+  :block/created-at 1666713748882,
+  :block/updated-at 1666713748882}
+ {:block/name "data and ai at insight",
+  :block/created-at 1666206264840,
+  :block/updated-at 1666209255708}
+ {:block/name "data lake analytics",
+  :block/created-at 1666721588088,
+  :block/updated-at 1666721611751}
+ {:block/name "dec 1st, 2022",
+  :block/created-at 1670078191988,
+  :block/updated-at 1670078191988}
+ {:block/name "dec 3rd, 2022",
+  :block/created-at 1670078191757,
+  :block/updated-at 1670078191757}
+ {:block/name "dec 4th, 2022",
+  :block/created-at 1670130052385,
+  :block/updated-at 1670130052385}
+ {:block/name "deck",
+  :block/created-at 1659713803659,
+  :block/updated-at 1659713803659}
+ {:block/name "defender for cloud",
+  :block/created-at 1666629686988,
+  :block/updated-at 1666629686988}
+ {:block/name "delivery",
+  :block/created-at 1666206856658,
+  :block/updated-at 1666206963119}
+ {:block/name "dependency test",
+  :block/created-at 1667835177869,
+  :block/updated-at 1667835177869}
+ {:block/name "deployment",
+  :block/created-at 1659743394171,
+  :block/updated-at 1659749548899}
+ {:block/name "designing visual documentation",
+  :block/created-at 1667851420758,
+  :block/updated-at 1667853223749}
+ {:block/name "devops",
+  :block/created-at 1666627392242,
+  :block/updated-at 1666627392242}
+ {:block/name "discovery",
+  :block/created-at 1666206572462,
+  :block/updated-at 1666206603706}
+ {:block/name "docker",
+  :block/created-at 1659749691773,
+  :block/updated-at 1659881550311}
+ {:block/name "docker networking",
+  :block/created-at 1660000488566,
+  :block/updated-at 1660000488566}
+ {:block/name "docker storage",
+  :block/created-at 1660000488179,
+  :block/updated-at 1660000488179}
+ {:block/name "docker-compose.yaml",
+  :block/created-at 1660000488331,
+  :block/updated-at 1660000488331}
+ {:block/name "dockerfile",
+  :block/created-at 1660000488567,
+  :block/updated-at 1660000488567}
+ {:block/name "doing",
+  :block/created-at 1659662751339,
+  :block/updated-at 1659662751339}
+ {:block/name "done",
+  :block/created-at 1659662751339,
+  :block/updated-at 1659662751339}
+ {:block/name "edge computing",
+  :block/created-at 1666721111387,
+  :block/updated-at 1666721111387}
+ {:block/name "etcd",
+  :block/created-at 1659729700471,
+  :block/updated-at 1661275642926}
+ {:block/name "etcd.yaml",
+  :block/created-at 1659733705041,
+  :block/updated-at 1659733705041}
+ {:block/name "fault domain",
+  :block/created-at 1666651698254,
+  :block/updated-at 1666651756386}
+ {:block/name "favorites",
+  :block/created-at 1659662751339,
+  :block/updated-at 1659662751339}
+ {:block/name "file",
+  :block/created-at 1659700304370,
+  :block/updated-at 1659700304370}
+ {:block/name "file-path",
+  :block/created-at 1659700304371,
+  :block/updated-at 1659700304371}
+ {:block/name "fips 140-2",
+  :block/created-at 1666801504963,
+  :block/updated-at 1666801591856}
+ {:block/name "forward",
+  :block/created-at 1670078192742,
+  :block/updated-at 1670078192742}
+ {:block/name "gcp",
+  :block/created-at 1670078192607,
+  :block/updated-at 1670078192607}
+ {:block/name "gcp api",
+  :block/created-at 1670198871448,
+  :block/updated-at 1670198915029}
+ {:block/name "gcp app engine",
+  :block/created-at 1670078192385,
+  :block/updated-at 1670078192385}
+ {:block/name "gcp bigquery",
+  :block/created-at 1670198283063,
+  :block/updated-at 1670198283063}
+ {:block/name "gcp bigtable",
+  :block/created-at 1670079919899,
+  :block/updated-at 1670103387489}
+ {:block/name "gcp billing account",
+  :block/created-at 1670086737838,
+  :block/updated-at 1670109001675}
+ {:block/name "gcp billing export",
+  :block/created-at 1670198163068,
+  :block/updated-at 1670198402126}
+ {:block/name "gcp capacity reservations",
+  :block/created-at 1670193633553,
+  :block/updated-at 1670196394696}
+ {:block/name "gcp carrier peering",
+  :block/created-at 1670085139791,
+  :block/updated-at 1670085304120}
+ {:block/name "gcp cloud billing budgets",
+  :block/created-at 1670178620951,
+  :block/updated-at 1670178848727}
+ {:block/name "gcp cloud dns",
+  :block/created-at 1670082568123,
+  :block/updated-at 1670103721526}
+ {:block/name "gcp cloud functions",
+  :block/created-at 1670078192409,
+  :block/updated-at 1670078192409}
+ {:block/name "gcp cloud load balancing",
+  :block/created-at 1670080632552,
+  :block/updated-at 1670103699433}
+ {:block/name "gcp cloud monitoring",
+  :block/created-at 1670178730498,
+  :block/updated-at 1670178730498}
+ {:block/name "gcp cloud pub",
+  :block/created-at 1670178841479,
+  :block/updated-at 1670178841479}
+ {:block/name "gcp cloud pub/ sub",
+  :block/created-at 1670178841478,
+  :block/updated-at 1670178841478}
+ {:block/name "gcp cloud router",
+  :block/created-at 1670080398018,
+  :block/updated-at 1670103654839}
+ {:block/name "gcp cloud run",
+  :block/created-at 1670078192437,
+  :block/updated-at 1670078192437}
+ {:block/name "gcp cloud spanner",
+  :block/created-at 1670079743052,
+  :block/updated-at 1670103367170}
+ {:block/name "gcp cloud sql",
+  :block/created-at 1670079304200,
+  :block/updated-at 1670079726167}
+ {:block/name "gcp cloud storage",
+  :block/created-at 1670078192518,
+  :block/updated-at 1670078192518}
+ {:block/name "gcp cloud vpn",
+  :block/created-at 1670082619684,
+  :block/updated-at 1670103933375}
+ {:block/name "gcp committed use discounts",
+  :block/created-at 1670169678621,
+  :block/updated-at 1670196991838}
+ {:block/name "gcp compute engine",
+  :block/created-at 1670078192539,
+  :block/updated-at 1670078192539}
+ {:block/name "gcp dataflow",
+  :block/created-at 1670171094692,
+  :block/updated-at 1670171094692}
+ {:block/name "gcp datastore",
+  :block/created-at 1670079978029,
+  :block/updated-at 1670103409492}
+ {:block/name "gcp direct interconnect",
+  :block/created-at 1670082631087,
+  :block/updated-at 1670104020551}
+ {:block/name "gcp direct peering",
+  :block/created-at 1670085131958,
+  :block/updated-at 1670085359149}
+ {:block/name "gcp domain",
+  :block/created-at 1670086475265,
+  :block/updated-at 1670086475265}
+ {:block/name "gcp edge node",
+  :block/created-at 1670078192745,
+  :block/updated-at 1670078192745}
+ {:block/name "gcp edge pop",
+  :block/created-at 1670078192550,
+  :block/updated-at 1670078192550}
+ {:block/name "gcp filestore",
+  :block/created-at 1670078192575,
+  :block/updated-at 1670078192575}
+ {:block/name "gcp firestore",
+  :block/created-at 1670080087318,
+  :block/updated-at 1670103518399}
+ {:block/name "gcp firewall rules",
+  :block/created-at 1670080385555,
+  :block/updated-at 1670103616202}
+ {:block/name "gcp folder",
+  :block/created-at 1670085823967,
+  :block/updated-at 1670104076552}
+ {:block/name "gcp gke",
+  :block/created-at 1670078192590,
+  :block/updated-at 1670078408554}
+ {:block/name "gcp iam",
+  :block/created-at 1670086052691,
+  :block/updated-at 1670086052691}
+ {:block/name "gcp instance group",
+  :block/created-at 1670078192749,
+  :block/updated-at 1670078192749}
+ {:block/name "gcp memorystore",
+  :block/created-at 1670080210655,
+  :block/updated-at 1670103558178}
+ {:block/name "gcp multi region",
+  :block/created-at 1670078192517,
+  :block/updated-at 1670078192517}
+ {:block/name "gcp organization",
+  :block/created-at 1670085805865,
+  :block/updated-at 1670104180843}
+ {:block/name "gcp payments profile",
+  :block/created-at 1670086723192,
+  :block/updated-at 1670109300899}
+ {:block/name "gcp persistent disk",
+  :block/created-at 1670078192689,
+  :block/updated-at 1670078192689}
+ {:block/name "gcp pricing calculator",
+  :block/created-at 1670171223187,
+  :block/updated-at 1670178759739}
+ {:block/name "gcp professional cloud architect",
+  :block/created-at 1670078192756,
+  :block/updated-at 1670198871449}
+ {:block/name "gcp project",
+  :block/created-at 1670085844475,
+  :block/updated-at 1670109027950}
+ {:block/name "gcp resources",
+  :block/created-at 1670086595917,
+  :block/updated-at 1670086595917}
+ {:block/name "gcp storage class",
+  :block/created-at 1670078192516,
+  :block/updated-at 1670078192516}
+ {:block/name "gcp sub-accounts",
+  :block/created-at 1670108842849,
+  :block/updated-at 1670108842849}
+ {:block/name "gcp sustained use discounts",
+  :block/created-at 1670170948005,
+  :block/updated-at 1670171099808}
+ {:block/name "gcp vmware engine",
+  :block/created-at 1670199808303,
+  :block/updated-at 1670199808303}
+ {:block/name "gcp vpc",
+  :block/created-at 1670080326700,
+  :block/updated-at 1670103595427}
+ {:block/name "gcp web security scanner",
+  :block/created-at 1670078192384,
+  :block/updated-at 1670078192384}
+ {:block/name "gdpr",
+  :block/created-at 1666801121174,
+  :block/updated-at 1666801157940}
+ {:block/name "geography",
+  :block/created-at 1666651541858,
+  :block/updated-at 1666651541858}
+ {:block/name "git fundementals",
+  :block/created-at 1667835177421,
+  :block/updated-at 1667849263128}
+ {:block/name "goals",
+  :block/created-at 1666807430917,
+  :block/updated-at 1666807430917}
+ {:block/name "google data studio",
+  :block/created-at 1670198400833,
+  :block/updated-at 1670198400833}
+ {:block/name "google gke",
+  :block/created-at 1659750322605,
+  :block/updated-at 1659750322605}
+ {:block/name "governance",
+  :block/created-at 1666627323839,
+  :block/updated-at 1666627323839}
+ {:block/name "grammar",
+  :block/created-at 1659709524246,
+  :block/updated-at 1659709524246}
+ {:block/name "hadoop",
+  :block/created-at 1666721473050,
+  :block/updated-at 1666721473050}
+ {:block/name "hashicorp terraform",
+  :block/created-at 1666811691241,
+  :block/updated-at 1666811691241}
+ {:block/name "hashicorp vault",
+  :block/created-at 1666811665724,
+  :block/updated-at 1666811665724}
+ {:block/name "hcl",
+  :block/created-at 1667320543373,
+  :block/updated-at 1667320622257}
+ {:block/name "hd insight",
+  :block/created-at 1666721454516,
+  :block/updated-at 1666721482470}
+ {:block/name "heroku",
+  :block/created-at 1666713302008,
+  :block/updated-at 1666713302008}
+ {:block/name "hls__solutions_engineer_level_1_1660649206392_0",
+  :block/created-at 1660649260616,
+  :block/updated-at 1660649260616}
+ {:block/name "hls__宁要大城一张床，不要小城一套房_1661356213341_0",
+  :block/created-at 1661356690973,
+  :block/updated-at 1661356690973}
+ {:block/name "hls__高级班-_两个人相爱生命就活了_1660303288116_0",
+  :block/created-at 1660303382126,
+  :block/updated-at 1660303382126}
+ {:block/name "hls__魅力古城洛阳_1659699538603_0",
+  :block/created-at 1659700304366,
+  :block/updated-at 1659700304366}
+ {:block/name "hsm",
+  :block/created-at 1666802228562,
+  :block/updated-at 1666802313372}
+ {:block/name "https:",
+  :block/created-at 1659717625393,
+  :block/updated-at 1659717625393}
+ {:block/name "https://en.wikipedia.org",
+  :block/created-at 1659717625395,
+  :block/updated-at 1659717625395}
+ {:block/name "https://en.wikipedia.org/wiki",
+  :block/created-at 1659717625395,
+  :block/updated-at 1659717625395}
+ {:block/name "https://en.wikipedia.org/wiki/jin_yong",
+  :block/created-at 1659704460284,
+  :block/updated-at 1659704460284}
+ {:block/name "identity",
+  :block/created-at 1667835177225,
+  :block/updated-at 1667835177225}
+ {:block/name "image",
+  :block/created-at 1659749470410,
+  :block/updated-at 1659881143668}
+ {:block/name "in-progress",
+  :block/created-at 1659662751339,
+  :block/updated-at 1659662751339}
+ {:block/name "ingress",
+  :block/created-at 1661255169265,
+  :block/updated-at 1661255789790}
+ {:block/name "ingress controller",
+  :block/created-at 1661255473857,
+  :block/updated-at 1661347044184}
+ {:block/name "insight",
+  :block/created-at 1666206312185,
+  :block/updated-at 1666206312185}
+ {:block/name "insight agile",
+  :block/created-at 1666292588544,
+  :block/updated-at 1666294812585}
+ {:block/name "insight cloud",
+  :block/created-at 1666296179274,
+  :block/updated-at 1666297808191}
+ {:block/name "installing kubernetes",
+  :block/created-at 1661347644130,
+  :block/updated-at 1661354906269}
+ {:block/name "integration testing",
+  :block/created-at 1667835177870,
+  :block/updated-at 1667835177870}
+ {:block/name "intro to azure policies",
+  :block/created-at 1666979818274,
+  :block/updated-at 1666982174145}
+ {:block/name "iot central",
+  :block/created-at 1666720868457,
+  :block/updated-at 1667315501109}
+ {:block/name "iot edge",
+  :block/created-at 1666721060011,
+  :block/updated-at 1666721130626}
+ {:block/name "iot hub",
+  :block/created-at 1666720890582,
+  :block/updated-at 1667315435484}
+ {:block/name "ip tables",
+  :block/created-at 1660606551855,
+  :block/updated-at 1660606551855}
+ {:block/name "iso-27018",
+  :block/created-at 1666801214646,
+  :block/updated-at 1666801264020}
+ {:block/name "jeff mckenzie",
+  :block/created-at 1666970948421,
+  :block/updated-at 1666970948421}
+ {:block/name "jenkins",
+  :block/created-at 1659743670174,
+  :block/updated-at 1659743670174}
+ {:block/name "kevin gibson",
+  :block/created-at 1666807430918,
+  :block/updated-at 1666807430918}
+ {:block/name "knative",
+  :block/created-at 1670078192436,
+  :block/updated-at 1670078192436}
+ {:block/name "kube-api",
+  :block/created-at 1659729650960,
+  :block/updated-at 1659745333253}
+ {:block/name "kube-apiserver.yaml",
+  :block/created-at 1659736040993,
+  :block/updated-at 1659736040993}
+ {:block/name "kube-controller-manager",
+  :block/created-at 1659729811138,
+  :block/updated-at 1659745587938}
+ {:block/name "kube-proxy",
+  :block/created-at 1659729819229,
+  :block/updated-at 1660944164174}
+ {:block/name "kube-scheduler",
+  :block/created-at 1659729760355,
+  :block/updated-at 1659745617146}
+ {:block/name "kubeadm",
+  :block/created-at 1661351691164,
+  :block/updated-at 1661351691164}
+ {:block/name "kubeconfig",
+  :block/created-at 1659733238070,
+  :block/updated-at 1667168073040}
+ {:block/name "kubectl commands",
+  :block/created-at 1659730457291,
+  :block/updated-at 1661429210982}
+ {:block/name "kubelet",
+  :block/created-at 1659729786515,
+  :block/updated-at 1660942298954}
+ {:block/name "kubernetes",
+  :block/created-at 1659728816832,
+  :block/updated-at 1659728816832}
+ {:block/name "kubernetes networking",
+  :block/created-at 1660000488327,
+  :block/updated-at 1661353709175}
+ {:block/name "kubernetes object",
+  :block/created-at 1659743416751,
+  :block/updated-at 1659743416751}
+ {:block/name "kubernetes review",
+  :block/created-at 1661169611546,
+  :block/updated-at 1662729817914}
+ {:block/name "kubernetes security",
+  :block/created-at 1659728767714,
+  :block/updated-at 1659895856087}
+ {:block/name "kubernetes storage",
+  :block/created-at 1660000488336,
+  :block/updated-at 1660267732110}
+ {:block/name "landing zone design",
+  :block/created-at 1667835177495,
+  :block/updated-at 1667835177495}
+ {:block/name "later",
+  :block/created-at 1659662751339,
+  :block/updated-at 1659662751339}
+ {:block/name "ldap",
+  :block/created-at 1659730708125,
+  :block/updated-at 1659730708125}
+ {:block/name "learn.microsoft.com",
+  :block/created-at 1666813057285,
+  :block/updated-at 1666813057285}
+ {:block/name "learn.microsoft.com/cloud-adoption-framework",
+  :block/created-at 1666813057285,
+  :block/updated-at 1666813057285}
+ {:block/name "learn.microsoft.com/cloud-adoption-framework/ready",
+  :block/created-at 1666813057286,
+  :block/updated-at 1666813057286}
+ {:block/name
+  "learn.microsoft.com/cloud-adoption-framework/ready/azure-best-practices",
+  :block/created-at 1666813057286,
+  :block/updated-at 1666813057286}
+ {:block/name
+  "learn.microsoft.com/cloud-adoption-framework/ready/azure-best-practices/resource-tagging",
+  :block/created-at 1666813057284,
+  :block/updated-at 1666813057284}
+ {:block/name "linux",
+  :block/created-at 1659745017736,
+  :block/updated-at 1659745017736}
+ {:block/name "linux capabilities",
+  :block/created-at 1659880540303,
+  :block/updated-at 1659881414602}
+ {:block/name "linux networking",
+  :block/created-at 1660602602305,
+  :block/updated-at 1660602602305}
+ {:block/name "microsoft security development lifecycle",
+  :block/created-at 1666818554893,
+  :block/updated-at 1666818654687}
+ {:block/name "modern apps at insight",
+  :block/created-at 1666285380804,
+  :block/updated-at 1666285714379}
+ {:block/name "movies",
+  :block/created-at 1659706848678,
+  :block/updated-at 1659706848678}
+ {:block/name "mtcs",
+  :block/created-at 1666801282250,
+  :block/updated-at 1666801324912}
+ {:block/name "mysql",
+  :block/created-at 1670079643629,
+  :block/updated-at 1670079643629}
+ {:block/name "nagios",
+  :block/created-at 1666814915813,
+  :block/updated-at 1666814915813}
+ {:block/name "namespace",
+  :block/created-at 1659737003010,
+  :block/updated-at 1659745579217}
+ {:block/name "network policy",
+  :block/created-at 1659896407133,
+  :block/updated-at 1659923294521}
+ {:block/name "network-policy.yaml",
+  :block/created-at 1659896708261,
+  :block/updated-at 1659924987342}
+ {:block/name "nfs",
+  :block/created-at 1659744138705,
+  :block/updated-at 1659744138705}
+ {:block/name "nist",
+  :block/created-at 1666801405115,
+  :block/updated-at 1666801483961}
+ {:block/name "node.js",
+  :block/created-at 1667935119828,
+  :block/updated-at 1667935119828}
+ {:block/name "nov 14th, 2022",
+  :block/created-at 1668441620693,
+  :block/updated-at 1668441620693}
+ {:block/name "nov 15th, 2022",
+  :block/created-at 1668528034427,
+  :block/updated-at 1668528034427}
+ {:block/name "nov 16th, 2022",
+  :block/created-at 1668614467338,
+  :block/updated-at 1668614467338}
+ {:block/name "nov 1st, 2022",
+  :block/created-at 1667303911349,
+  :block/updated-at 1667303911349}
+ {:block/name "nov 30th, 2022",
+  :block/created-at 1669831057567,
+  :block/updated-at 1669831078358}
+ {:block/name "nov 7th, 2022",
+  :block/created-at 1667835176632,
+  :block/updated-at 1667835176632}
+ {:block/name "nov 8th, 2022",
+  :block/created-at 1667923416281,
+  :block/updated-at 1667923416281}
+ {:block/name "nov 9th, 2022",
+  :block/created-at 1668009803398,
+  :block/updated-at 1668009803398}
+ {:block/name "now",
+  :block/created-at 1659662751339,
+  :block/updated-at 1659662751339}
+ {:block/name "oct 14th, 2022",
+  :block/created-at 1665781366206,
+  :block/updated-at 1665781366206}
+ {:block/name "oct 19th, 2022",
+  :block/created-at 1666206248506,
+  :block/updated-at 1666206248506}
+ {:block/name "oct 20th, 2022",
+  :block/created-at 1666280988016,
+  :block/updated-at 1666280988016}
+ {:block/name "oct 21st, 2022",
+  :block/created-at 1666364588255,
+  :block/updated-at 1666364588255}
+ {:block/name "oct 24th, 2022",
+  :block/created-at 1666619478131,
+  :block/updated-at 1667168048346}
+ {:block/name "oct 25th, 2022",
+  :block/created-at 1666709848935,
+  :block/updated-at 1666709848935}
+ {:block/name "oct 26th, 2022",
+  :block/created-at 1666786150899,
+  :block/updated-at 1666786150899}
+ {:block/name "oct 27th, 2022",
+  :block/created-at 1666882697824,
+  :block/updated-at 1666882697824}
+ {:block/name "oct 28th, 2022",
+  :block/created-at 1666970875892,
+  :block/updated-at 1666970875892}
+ {:block/name "oct 30th, 2022",
+  :block/created-at 1667167908417,
+  :block/updated-at 1667167908417}
+ {:block/name "oct 31st, 2022",
+  :block/created-at 1667225765472,
+  :block/updated-at 1667225765472}
+ {:block/name "onboarding",
+  :block/created-at 1666206302078,
+  :block/updated-at 1666206302078}
+ {:block/name "open shift",
+  :block/created-at 1666643560143,
+  :block/updated-at 1666643560143}
+ {:block/name "open stack",
+  :block/created-at 1666643564765,
+  :block/updated-at 1666643564765}
+ {:block/name "openssl.cnf",
+  :block/created-at 1659733921034,
+  :block/updated-at 1659734203758}
+ {:block/name "palo alto",
+  :block/created-at 1666811675659,
+  :block/updated-at 1666811675659}
+ {:block/name "pass-through authentication",
+  :block/created-at 1667835177217,
+  :block/updated-at 1667835177217}
+ {:block/name "password hash sync",
+  :block/created-at 1667835177218,
+  :block/updated-at 1667835177218}
+ {:block/name "pdf",
+  :block/created-at 1659698457624,
+  :block/updated-at 1659698457624}
+ {:block/name "peipei class",
+  :block/created-at 1659700105355,
+  :block/updated-at 1659700737163}
+ {:block/name "persistent volume",
+  :block/created-at 1659743880749,
+  :block/updated-at 1659743880749}
+ {:block/name "persistent volume claim",
+  :block/created-at 1659743878475,
+  :block/updated-at 1659743878475}
+ {:block/name "persistent volumes",
+  :block/created-at 1660002974055,
+  :block/updated-at 1660002974055}
+ {:block/name "pipelines",
+  :block/created-at 1667936365126,
+  :block/updated-at 1667936365126}
+ {:block/name "planning app migration",
+  :block/created-at 1670078192975,
+  :block/updated-at 1670078192975}
+ {:block/name "platforms at insight",
+  :block/created-at 1666274748943,
+  :block/updated-at 1666275995048}
+ {:block/name "pod",
+  :block/created-at 1659743453294,
+  :block/updated-at 1659749566275}
+ {:block/name "pod-definition.yaml",
+  :block/created-at 1659737177120,
+  :block/updated-at 1659923513624}
+ {:block/name "postgresql",
+  :block/created-at 1670079643630,
+  :block/updated-at 1670079643630}
+ {:block/name "powerbi",
+  :block/created-at 1666813257971,
+  :block/updated-at 1666813257971}
+ {:block/name "practice manager meet up oct 28, 2022",
+  :block/created-at 1666970921623,
+  :block/updated-at 1666971877154}
+ {:block/name "practice managers",
+  :block/created-at 1666366639725,
+  :block/updated-at 1666366669885}
+ {:block/name "presentation mastery",
+  :block/created-at 1668615062213,
+  :block/updated-at 1668617247131}
+ {:block/name "presenting",
+  :block/created-at 1667851448651,
+  :block/updated-at 1667851448651}
+ {:block/name "product backlog",
+  :block/created-at 1666294063527,
+  :block/updated-at 1666294063527}
+ {:block/name "prometheus",
+  :block/created-at 1659743670174,
+  :block/updated-at 1659743670174}
+ {:block/name "puppet",
+  :block/created-at 1666814930206,
+  :block/updated-at 1666814930206}
+ {:block/name "pusher",
+  :block/created-at 1666712702553,
+  :block/updated-at 1666712702553}
+ {:block/name "pv-definition.yaml",
+  :block/created-at 1660000773181,
+  :block/updated-at 1660003508899}
+ {:block/name "pvc-definition.yaml",
+  :block/created-at 1660003008207,
+  :block/updated-at 1660601512413}
+ {:block/name "quorum",
+  :block/created-at 1661275642925,
+  :block/updated-at 1661275642925}
+ {:block/name "react",
+  :block/created-at 1667936394729,
+  :block/updated-at 1667936394729}
+ {:block/name "redis",
+  :block/created-at 1666711191395,
+  :block/updated-at 1666711191395}
+ {:block/name "region",
+  :block/created-at 1666647689910,
+  :block/updated-at 1666647689910}
+ {:block/name "replica set",
+  :block/created-at 1659743489938,
+  :block/updated-at 1659746354004}
+ {:block/name "replicaset.yaml",
+  :block/created-at 1659746121292,
+  :block/updated-at 1659923430045}
+ {:block/name "resource lock",
+  :block/created-at 1666629660021,
+  :block/updated-at 1666788445526}
+ {:block/name "resource tag",
+  :block/created-at 1666629655845,
+  :block/updated-at 1667314280217}
+ {:block/name "restapi",
+  :block/created-at 1659730440885,
+  :block/updated-at 1659730440885}
+ {:block/name "reversed",
+  :block/created-at 1670078192887,
+  :block/updated-at 1670078192887}
+ {:block/name "sc-definition.yaml",
+  :block/created-at 1660267732109,
+  :block/updated-at 1660267834334}
+ {:block/name "scale set",
+  :block/created-at 1666720671531,
+  :block/updated-at 1666720714706}
+ {:block/name "scrum",
+  :block/created-at 1666292600803,
+  :block/updated-at 1666292600803}
+ {:block/name "secret",
+  :block/created-at 1659743709532,
+  :block/updated-at 1659745398149}
+ {:block/name "sep 17th, 2022",
+  :block/created-at 1663454250380,
+  :block/updated-at 1663454250380}
+ {:block/name "sep 18th, 2022",
+  :block/created-at 1663513707007,
+  :block/updated-at 1663513707007}
+ {:block/name "sep 20th, 2022",
+  :block/created-at 1663706705101,
+  :block/updated-at 1663706705101}
+ {:block/name "sep 23rd, 2022",
+  :block/created-at 1663943832026,
+  :block/updated-at 1663943832026}
+ {:block/name "sep 24th, 2022",
+  :block/created-at 1664017793828,
+  :block/updated-at 1664017793828}
+ {:block/name "sep 25th, 2022",
+  :block/created-at 1664144263299,
+  :block/updated-at 1664144263299}
+ {:block/name "sep 28th, 2022",
+  :block/created-at 1664397482391,
+  :block/updated-at 1664397482391}
+ {:block/name "sep 29th, 2022",
+  :block/created-at 1664469303626,
+  :block/updated-at 1664469303626}
+ {:block/name "sep 30th, 2022",
+  :block/created-at 1664586183701,
+  :block/updated-at 1664586183701}
+ {:block/name "sep 9th, 2022",
+  :block/created-at 1662729809149,
+  :block/updated-at 1662729809149}
+ {:block/name "service",
+  :block/created-at 1659743518220,
+  :block/updated-at 1659749558997}
+ {:block/name "service now",
+  :block/created-at 1666811683990,
+  :block/updated-at 1666811683990}
+ {:block/name "siem",
+  :block/created-at 1666812209728,
+  :block/updated-at 1666812220620}
+ {:block/name "smoke test",
+  :block/created-at 1667835177870,
+  :block/updated-at 1667835177870}
+ {:block/name "soc",
+  :block/created-at 1666801342797,
+  :block/updated-at 1666801382901}
+ {:block/name "soft skills",
+  :block/created-at 1667938666342,
+  :block/updated-at 1667938666342}
+ {:block/name "solutions engineer transperfect",
+  :block/created-at 1660649186534,
+  :block/updated-at 1660650493141}
+ {:block/name "sow",
+  :block/created-at 1666365124777,
+  :block/updated-at 1666365143793}
+ {:block/name "specflow",
+  :block/created-at 1667835177872,
+  :block/updated-at 1667835177872}
+ {:block/name "splunk",
+  :block/created-at 1666811670370,
+  :block/updated-at 1666811670370}
+ {:block/name "sprint backlog",
+  :block/created-at 1666294072763,
+  :block/updated-at 1666294072763}
+ {:block/name "sql",
+  :block/created-at 1670079643629,
+  :block/updated-at 1670079643629}
+ {:block/name "sql server on vm",
+  :block/created-at 1666711048620,
+  :block/updated-at 1666711068035}
+ {:block/name "sql server stretch database",
+  :block/created-at 1666644829557,
+  :block/updated-at 1666644829557}
+ {:block/name "status",
+  :block/created-at 1659698491762,
+  :block/updated-at 1659698491762}
+ {:block/name "storage class",
+  :block/created-at 1660267014407,
+  :block/updated-at 1660267014407}
+ {:block/name "team lead meet up oct 26, 2022",
+  :block/created-at 1666807405501,
+  :block/updated-at 1666808655512}
+ {:block/name "team leads at insight",
+  :block/created-at 1666366583642,
+  :block/updated-at 1666366621829}
+ {:block/name "terraform",
+  :block/created-at 1667318172173,
+  :block/updated-at 1668447292567}
+ {:block/name "terraform state file",
+  :block/created-at 1667320995084,
+  :block/updated-at 1667320995084}
+ {:block/name "terraform topics tuesdays",
+  :block/created-at 1667318172174,
+  :block/updated-at 1667318172174}
+ {:block/name "terraform topics tuesdays nov 11, 2022",
+  :block/created-at 1667318158463,
+  :block/updated-at 1667321172597}
+ {:block/name "test page for git",
+  :block/created-at 1670078193238,
+  :block/updated-at 1670078193238}
+ {:block/name "tls",
+  :block/created-at 1659728937268,
+  :block/updated-at 1659732716770}
+ {:block/name "todo",
+  :block/created-at 1659662751339,
+  :block/updated-at 1659662751339}
+ {:block/name "type",
+  :block/created-at 1659698415296,
+  :block/updated-at 1659698415296}
+ {:block/name "types of software tests",
+  :block/created-at 1667835177873,
+  :block/updated-at 1667835177873}
+ {:block/name "uk g-cloud",
+  :block/created-at 1666801502065,
+  :block/updated-at 1666801528479}
+ {:block/name "unit file",
+  :block/created-at 1659733656631,
+  :block/updated-at 1659745017738}
+ {:block/name "unit test",
+  :block/created-at 1667835177868,
+  :block/updated-at 1667835177868}
+ {:block/name "update domain",
+  :block/created-at 1666651702953,
+  :block/updated-at 1666651807318}
+ {:block/name "user acceptance testing",
+  :block/created-at 1667835177871,
+  :block/updated-at 1667835177871}
+ {:block/name "verbal communication",
+  :block/created-at 1667938648632,
+  :block/updated-at 1667940091153}
+ {:block/name "view",
+  :block/created-at 1667936389909,
+  :block/updated-at 1667936389909}
+ {:block/name "virtual network gateway",
+  :block/created-at 1666715427867,
+  :block/updated-at 1667310301765}
+ {:block/name "virtual wan",
+  :block/created-at 1666715323037,
+  :block/updated-at 1666715357632}
+ {:block/name "volume",
+  :block/created-at 1659743818393,
+  :block/updated-at 1659749536915}
+ {:block/name "wait",
+  :block/created-at 1659662751339,
+  :block/updated-at 1659662751339}
+ {:block/name "waiting",
+  :block/created-at 1659662751339,
+  :block/updated-at 1659662751339}
+ {:block/name "website",
+  :block/created-at 1659707196276,
+  :block/updated-at 1659707196276}
+ {:block/name "well architected",
+  :block/created-at 1666297786521,
+  :block/updated-at 1666297823033}
+ {:block/name "windows 10 iot core services",
+  :block/created-at 1666721303089,
+  :block/updated-at 1666721345722}
+ {:block/name "written communication",
+  :block/created-at 1668441716718,
+  :block/updated-at 1668614532528}
+ {:block/name "xamarin",
+  :block/created-at 1666713361394,
+  :block/updated-at 1666713379716}
+ {:block/name "you (me) as a consultant",
+  :block/created-at 1666364605909,
+  :block/updated-at 1666367412080}
+ {:block/name "zabix",
+  :block/created-at 1666815031602,
+  :block/updated-at 1666815031602}
+ {:block/name "不要小城一套房_1661356213341_0.pdf",
+  :block/created-at 1661356690980,
+  :block/updated-at 1661356690980}
+ {:block/name "中國律法",
+  :block/created-at 1659704917669,
+  :block/updated-at 1659704917669}
+ {:block/name "以來",
+  :block/created-at 1659710633107,
+  :block/updated-at 1659710663797}
+ {:block/name "呂秀令",
+  :block/created-at 1660222383483,
+  :block/updated-at 1660222383483}
+ {:block/name "愛奇藝視",
+  :block/created-at 1659707229356,
+  :block/updated-at 1659707276393}
+ {:block/name "牡丹",
+  :block/created-at 1659703868068,
+  :block/updated-at 1659703894601}
+ {:block/name "金庸",
+  :block/created-at 1659704339880, 
+  :block/updated-at 1659704480909}]
