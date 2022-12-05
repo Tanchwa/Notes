@@ -1,0 +1,18 @@
+- cloud based identity and access management service
+- gives access to external resources
+	- Office 365
+	- Azure Portal
+	- Saas applications
+	- etc
+- internal resources
+	- applications within internal networking
+	- access to workstations
+- can use AAD to implement SSO
+- comes in four editions
+	- Free: MFA, SSO, Basic Security and Usage reports, User management
+	- Office 365 Apps: Company branding, SLA, Two-sync between on prem and cloud
+	- Premium 1: Hybrid Architecture, advanced group access, conditional access
+	- Premium 2: identity protection, Identity Governance
+-
+- [[Azure Identity Protection]] can be used to assign different sign in polices, such as requiring or suggesting users to change passwords when a certain event happens
+  see this [Link](https://learn.microsoft.com/en-us/azure/active-directory/identity-protection/howto-identity-protection-configure-risk-policies)
