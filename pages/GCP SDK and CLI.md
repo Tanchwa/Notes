@@ -17,3 +17,10 @@
 -
 - can run an interactive version of the cli with `gcloud beta interactive`
 -
+- gsutil is the utility for google storage
+	- Creating and deleting buckets.
+	- Uploading, downloading, and deleting objects.
+	- Listing buckets and objects.
+	- Moving, copying, and renaming objects.
+	- Editing object and bucket ACLs.
+	- gsutil uses the prefix `gs://` to indicate a resource in Cloud Storage:

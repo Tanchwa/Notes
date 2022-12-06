@@ -16,3 +16,7 @@
 -
 - [[Azure Identity Protection]] can be used to assign different sign in polices, such as requiring or suggesting users to change passwords when a certain event happens
   see this [Link](https://learn.microsoft.com/en-us/azure/active-directory/identity-protection/howto-identity-protection-configure-risk-policies)
+- globaly distributed role and access platform
+- all the identities and resources that can be assigned to services or users
+-
+-

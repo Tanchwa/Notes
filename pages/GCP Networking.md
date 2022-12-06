@@ -1,0 +1,35 @@
+- I HAD A BLOCK HERE BUT FORGOT WHAT IT WSA ABOUT
+- [[GCP VPC]]
+	- Custom Mode
+	- Auto Mode
+	- **CAN GO FROM AUTO TO CUSTOM BUT NOT BACK**
+- Subnets
+	- VPCs must have at least one subnet
+	- cannot change name or region of a subnet once it's created
+	- Reserved IPs
+		- Network address
+		- Default Gateway
+		- Second-to-last address - Google Cloud future use
+		- Broadcast
+- [[GCP VPC]] Routing
+	- routes are stored in the VPC routing table
+	- Routing types
+		- System Generated
+			- default
+				- default gateway
+				- path for [[Private Google Access]]
+				- priority of 1000
+			- subnet route
+				- each subnet has at least one subnet route that matches the IP range
+				- cannot delete subnet route unless you modify or delete the subnet
+				- sometimes when pairing using [[GCP Direct Peering]], it will associate a different subnet with the route, you will need to unpair before you delete the route
+				- priority of 0
+		- Custom Routes
+			- static route
+				- can use next hop features
+				- static routes for [[GCP Cloud VPN]] remote traffic selectors are created for you
+				- can use a load ballancer as a next hop
+			- dynamic routes
+				- managed by one or more [[GCP Cloud Router]]s
+				- next hops are always BGP peered routers
+	- special return paths are used by Google's internal network
