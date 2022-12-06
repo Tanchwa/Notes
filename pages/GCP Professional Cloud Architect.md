@@ -58,6 +58,7 @@ deck:: GCP Pro Architect
 	- [[GCP Cloud Router]]
 	- [[GCP Cloud Load Balancing]]
 	- [[GCP Cloud DNS]]
+	- [[GCP IP Addressing Options]]
 	- [[GCP Flow Logs]]
 	- Advanced connectivity:
 	- [[GCP Cloud VPN]]
