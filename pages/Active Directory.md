@@ -1,0 +1,1 @@
+- A forest is a combination of multiple Active Directory domains

@@ -1,0 +1,3 @@
+- Google Cloud Directory Sync
+- sync with Active Directory or other ID management service through [[Password Hash Sync]]
+-

@@ -1,0 +1,3 @@
+- usable only by internal private IP endpoints
+- a way for these private IPs to access Public IP Google resources over [[GCP Direct Interconnect]]
+-

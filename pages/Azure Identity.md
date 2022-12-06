@@ -38,6 +38,5 @@ tags:: Azure, Identity, Insight
 - look up azure AD connect sync and cloud connect sync differences. Slide 24
 	- larger directories are better for AD connect sync
 	-
-- A forest is a combination of multiple Active Directory domains
 -
 -

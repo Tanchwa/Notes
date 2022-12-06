@@ -1,0 +1,2 @@
+- ![Screen Shot 2022-12-06 at 4.58.33 PM.png](../assets/Screen_Shot_2022-12-06_at_4.58.33_PM_1670363935296_0.png)
+- can also reserve static addresses out of the pools
