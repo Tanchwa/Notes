@@ -29,6 +29,11 @@ deck:: GCP Pro Architect
 	- [[GCP Compute Engine]] (GCP VMs)
 		- manage multiple instances with [[GCP Instance Group]]
 		- add or remove capacity using autoscaling
+	- [[GCP Shielded VM]]
+	- GCP also offers [[GCP Live Migration]] for VM instances
+		- for regular maintenance, it moves the complete instance to a different zone
+		- can do this manually, but GCP does this
+		- GPU attached instances cannot use this feature
 	- [[GCP GKE]]
 	- [[GCP App Engine]]
 	- [[GCP Cloud Functions]]
