@@ -1,0 +1,3 @@
+- a declarative IaC tool for managing resources
+- can use YAML, JINJA, Python Code Templates
+-

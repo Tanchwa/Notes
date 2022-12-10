@@ -1,0 +1,7 @@
+- physically attached storage
+- data persists only until instance is stopped **PERIOD**
+- SCSI
+	- 1 queue for commands
+- NVME
+	- designed for flash memory, up to 64k queues with up to 64k commands per queue
+- only available for n1, n2 and compute optimized machine types

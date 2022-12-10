@@ -1,0 +1,4 @@
+- [[GCP Persistent Disk]] SNAPSHOTS ARE STORED IN CLOUD STORAGE,
+- SNAPSHOTS ACCESSED WITHIN THE SAME REGIONS DO NOT INCUR NETWORK COSTS
+- use incremental backup
+- Scheduled snapshots is best practice - must be in the same region as the [[GCP Persistent Disk]]

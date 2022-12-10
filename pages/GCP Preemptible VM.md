@@ -1,0 +1,10 @@
+- Preemptible VMs are like [[AWS Spot Instance]]
+- you can save a bunch on compute cost, but they may go down to serve someone else's workloads
+- 80% cheaper
+- always stopped after 24 hours
+- no charge for < 10 min
+- no live migration or auto restart
+- good for fault tolerant apps
+	- batch jobs
+	- containers
+-

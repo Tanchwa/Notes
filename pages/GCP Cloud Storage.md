@@ -10,4 +10,4 @@
 	- Dual Region uses pairs of regions
 	- Multi Region [[GCP Multi Region]]
 -
-- ![](https://download.logo.wine/logo/Google_Storage/Google_Storage-Logo.wine.png)
+- ![](https://download.logo.wine/logo/Google_Storage/Google_Storage-Logo.wine.png){:height 597, :width 883}

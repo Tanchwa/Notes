@@ -29,7 +29,6 @@ deck:: GCP Pro Architect
 	- [[GCP Compute Engine]] (GCP VMs)
 		- manage multiple instances with [[GCP Instance Group]]
 		- add or remove capacity using autoscaling
-	- [[GCP Shielded VM]]
 	- GCP also offers [[GCP Live Migration]] for VM instances
 		- for regular maintenance, it moves the complete instance to a different zone
 		- can do this manually, but GCP does this
@@ -40,9 +39,36 @@ deck:: GCP Pro Architect
 	- [[GCP Cloud Run]]
 -
 - Storage Services
+	- [[GCP Persistent Disk]] and [[GCP Local SSD]]
 	- [[GCP Cloud Storage]]
 	- [[GCP Filestore]]
-	- [[GCP Persistent Disk]]
+	- Storage types refreshers
+		- block storage
+			- fastest available
+			- files are split into evenly sized blocks of data with unique IDs
+			- given to OS as raw data
+			- OS structures it with a file system
+			- mountable, bootable
+		- file storage
+			- Network File system
+			- directory tree structure
+			- Mountable (not bootable)
+		- Object storage
+			- unstructured
+			- doesn't matter where it is
+			- can use an open source tool to mount it called [[Fuse]]
+			- but otherwise is unmountable and un-bootable
+		- Performance terms
+			- IO
+			  :LOGBOOK:
+			  CLOCK: [2022-12-09 Fri 19:32:37]
+			  :END:
+			- IO Queue depth
+			- IOPS
+			- Throughput (MBps)
+			- Latency (ms)
+			- Sequential access
+			- random access
 -
 - Database Services
 	- SQL
@@ -108,10 +134,16 @@ deck:: GCP Pro Architect
 	- [[GCP Cloud Billing Budgets]]
 	- [[GCP Capacity Reservations]]
 	- [[GCP Billing Export]]
+	- billing on [[GCP Compute Engine]]
+		- Resource based billing
+		- bills by vCPU, memory
+		- billed by second with min 1 minute
 -
 - Access
 	- [[GCP API]]
 	- [[GCP SDK and CLI]]
+	- [[GCP Deployment Manager]]
+	-
 -
 - Security
 	- [[GCP IAM]]
