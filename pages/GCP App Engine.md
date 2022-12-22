@@ -1,9 +1,55 @@
 - PaaS service
+-
+- #+BEGIN_TIP
+  Each Cloud project can contain only a single App Engine application, and once created you cannot change the location of your App Engine application.
+  #+END_TIP
 - serverless platform for web apps at scale
+	- code
+	- or containers
 - auto provisions and scales instances based on demand
-- connect with other GCP products seemlessly
+- connect with other GCP products seamlessly
+- connect with all storage options, including on prem
 - languages available
 	- Go, Java, .NET, Node.js, PHP, Python, Ruby
-- intregrates with [[GCP Web Security Scanner]]
+- integrates with [[GCP Web Security Scanner]]
+-
+- versioning
+	- run different versions at the same time
+	- can split or migrate trafic to different versions
+- trafic migration is used to route requests
+	- immediately migrates it in app engine flexible
+	- standard has the option for gradual migration
+- traffic splitting
+	- can be used to roll out to a certain percentage
+	- AB testing
+	- using HTTP cookie, IP, or random
+-
+- Standard Environment
+	- sandbox env, independant of hardware
+	- specific version of runtimes used
+	- run for free or at very low cost
+	- SUDDEN and EXTREME spikes
+	- based on instance hours
+- Flexible Environment
+	- apps run in docker containers
+	- any version of runtime is used
+	- no free quota available
+	- consistent traffic
+	- pricing based on VM resources
+	- managed VMs
+-
+- Scaling
+	- configure in the apps app.yaml file
+	- automatic scaling
+		- specify base numbers
+		- specify metrics to auto scale such as request rate and response latency
+	- basic scaling
+		- create instances when your app receives requests
+		- shuts down after
+	- manual scaling
+		- specify number of instances that continuously run
+		- constantly run regardless of load
+		- config scripts that take time
+-
 -
 - ![image](https://w7.pngwing.com/pngs/114/539/png-transparent-google-app-engine-google-cloud-platform-google-compute-engine-cloud-computing-engine-blue-trademark-logo.png)

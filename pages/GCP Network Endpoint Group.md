@@ -1,0 +1,3 @@
+- network endpoint group load balancing can also be used for pod native services in a [[GCP GKE]] cluster
+	- acts as a replacement for [[Service]]
+	-

@@ -1,0 +1,4 @@
+- Google's "secret sauce" algorithm for HA replication of databases at high speed
+- see [[ETCD]] and [[GCP Cloud Spanner]]
+- although, ETCD now uses RAFT protocol
+- https://www.alibabacloud.com/blog/paxos-raft-epaxos-how-has-distributed-consensus-technology-evolved_597127#:~:text=Unlike%20Paxos%2C%20which%20is%20derived,Multi%2DPaxos%20are%20highly%20related.

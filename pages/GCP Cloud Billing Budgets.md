@@ -3,4 +3,4 @@
 - define the scope of the budget
 	- entire billing account or more granular
 - can use [[GCP Cloud Monitoring]] to know when these thresholds are passed
-- can also use [[GCP Cloud Pub/ Sub]] to automate response measures
+- can also use [[GCP Cloud Pub/Sub]] to automate response measures

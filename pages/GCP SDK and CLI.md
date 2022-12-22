@@ -1,3 +1,4 @@
+- ![gcloud-cheat-sheet.pdf](../assets/gcloud-cheat-sheet_1671058729340_0.pdf)
 - SDK
 	- set of command line tools to manage resources through the terminal
 	- glcoud

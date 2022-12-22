@@ -1,0 +1,4 @@
+- also called "MIGs"
+- can use [[GCP Instance Template]]s to deploy instances or MIGs
+- GCP also has [[GCP Unmanaged Instance Group]]s
+	- do not offer the HA and automation of MIGs

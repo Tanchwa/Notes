@@ -1,0 +1,11 @@
+- fully managed processing service for executing [[Apache Beam]] pipelines
+- Serverless
+- for batch and realtime data streaming
+- when to use
+	- more portable across different execution environments
+- basics
+	- takes data from a source
+	- transforms it
+	- writes it back to a sink
+- ![Screen Shot 2022-12-13 at 2.31.04 PM.png](../assets/Screen_Shot_2022-12-13_at_2.31.04_PM_1670959876401_0.png)
+- ![](https://img.stackshare.io/service/5253/google-cloud-dataflow.png)

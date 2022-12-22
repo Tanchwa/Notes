@@ -1,14 +1,19 @@
 tags:: Cloud, GCP
 deck:: GCP Pro Architect
 
-- Scenario set up
-	- Reliable stable connection between stores
-		- current VPN is slow and has too much bandwidth eaten up by database replication
-	- Fast and Cost Effective cloud backup
-	- Deploy into new regions quickly when required
-		- bowtie inc is a multinational company looking to expand
-	- base infra is scalable and low cost
-	- automated
+- Scenerios:
+- ![master_case_study_ehr_healthcare.pdf](../assets/master_case_study_ehr_healthcare_1670786827147_0.pdf)
+- ![master_case_study_helicopter_racing_league.pdf](../assets/master_case_study_helicopter_racing_league_1670786837976_0.pdf)
+- ![master_case_study_mountkirk_games.pdf](../assets/master_case_study_mountkirk_games_1670786858110_0.pdf)
+- ![master_case_study_terramearth.pdf](../assets/master_case_study_terramearth_1670786868126_0.pdf)
+-
+- Exam Guide https://cloud.google.com/certification/guides/professional-cloud-architect/
+-
+- [[GCP Associate Engineer exam study]]
+-
+-
+- When considering the grand plan
+- ![Screen Shot 2022-12-11 at 3.06.30 PM.png](../assets/Screen_Shot_2022-12-11_at_3.06.30_PM_1670789205358_0.png)
 -
 - ((6387951c-793a-4180-8dda-31f508bda4b7)) #card #forward
 	- On demand self service
@@ -27,7 +32,7 @@ deck:: GCP Pro Architect
 -
 - Compute Services
 	- [[GCP Compute Engine]] (GCP VMs)
-		- manage multiple instances with [[GCP Instance Group]]
+		- manage multiple instances with [[GCP Managed Instance Group]]
 		- add or remove capacity using autoscaling
 	- GCP also offers [[GCP Live Migration]] for VM instances
 		- for regular maintenance, it moves the complete instance to a different zone
@@ -37,13 +42,14 @@ deck:: GCP Pro Architect
 	- [[GCP App Engine]]
 	- [[GCP Cloud Functions]]
 	- [[GCP Cloud Run]]
+	- [[GCP Batch]]
 -
 - Storage Services
 	- [[GCP Persistent Disk]] and [[GCP Local SSD]]
-	- [[GCP Cloud Storage]]
 	- [[GCP Filestore]]
+	- [[GCP Cloud Storage]]
 	- Storage types refreshers
-		- block storage
+		- block storage - persistent disk
 			- fastest available
 			- files are split into evenly sized blocks of data with unique IDs
 			- given to OS as raw data
@@ -53,7 +59,7 @@ deck:: GCP Pro Architect
 			- Network File system
 			- directory tree structure
 			- Mountable (not bootable)
-		- Object storage
+		- Object storage - cloud storage
 			- unstructured
 			- doesn't matter where it is
 			- can use an open source tool to mount it called [[Fuse]]
@@ -93,7 +99,7 @@ deck:: GCP Pro Architect
 	- [[GCP Flow Logs]]
 	- Advanced connectivity:
 	- [[GCP Cloud VPN]]
-	- [[GCP Direct Interconnect]]
+	- [[GCP Interconnect]]
 	- [[GCP Direct Peering]]
 	- [[GCP Carrier Peering]]
 -
@@ -151,5 +157,80 @@ deck:: GCP Pro Architect
 	- [[GCP Cloud Identity]]
 	- [[GCP Service Account]]
 	- [[GCP KMS]]
-	-
+- Enabling security in GCP
+	- Security products
+	- Security features
+	- Security mindset
+		- *also needs an availability mindset*
+		- least privilage
+		- defence in depth
+		- fail securely
+		- and more in [OWASPs Security by Design Principles](https://wiki.owasp.org/index.php/Security_by_Design_Principles)
+- To manage identity (AuthN)
+	- [[G Suite Domain]], [[GCP Cloud Identity]]
+	- [[GCP Service Account]]
+	- identity hierarchy with [[Google Groups]]
+	- [[GCDS]]
+- For authorization (AuthZ)
+	- [[Google Groups]]
+	- resource hierarchy [[GCP Organization]], [[GCP Folder]], [[GCP Project]]
+	- and [[GCP IAM]]
+	- consider Billing management as well
+- for accounting
+	- audit/ activity logs in [[GCP Cloud Monitoring]]
+	- [[GCP Billing Export]]
+		- to [[GCP BigQuery]]
+		- [[GCP Cloud Storage]] bucket
+		- GCS Object Lifecycle management
 -
+- Big Data and Data Flows
+	- [[GCP BigQuery]]
+	- [[GCP Dataflow]]
+	- [[GCP Cloud Dataproc]]
+	- [[GCP Cloud Pub/Sub]]
+	- [[GCP Composer]]
+	- [[GCP Genomics]]
+	- [[GCP Cloud Datalab]]
+	- [[GCP Cloud Dataprep]]
+	- important to identify and control data flows, not just memorize
+	- what is a data flow
+		- Moving data - network
+		- Processing data - compute
+		- Remembering data - storage
+		- and all the messy gooey combinations between them
+	- build mental models
+	- identify and think through data flows
+	- #+BEGIN_TIP
+	  requirements and options aren't always clear, especially in the real world
+	  #+END_TIP
+	- In data flows, they aren't always from point a to point b
+		- input is large and disparate like rainfall
+		- lots of aggregation like rivers
+		- lots of destinations and separation
+-
+- Machine Learning
+	- [[GCP Vision]]
+	- [[GCP Video Intelligence]]
+	- [[GCP Natural Language]]
+	- [[GCP Translation]]
+	- [[GCP Dialogue Flow]]
+	- [[GCP Speech to Text]]
+	- [[GCP Text to Speech]]
+	- [[GCP AutoML]]
+-
+- Monitoring
+	- everything is contained within [[GCP Operations Suite]]
+	- [[GCP Cloud Monitoring]]
+	- [[GCP Cloud Logging]]
+	- [[GCP Cloud Error Reporting]]
+	- Application Performance Management
+		- [[GCP Debugger]]
+		- [[GCP Trace]]
+		- [[GCP Profiler]]
+	- can also use these tools with [[AWS]]
+-
+- Zooming in and out
+	- start at the big picture
+	- only get more granular when it helps you solve the problem
+		- you don't need to know how packet headers are constructed to host a video streaming website
+	-

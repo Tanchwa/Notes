@@ -30,3 +30,9 @@ tags:: Ace, Insight, Cloud, Docker, DevOps, Azure Boards
 -
 - Should not really be show and tell
 - Don't need to go over everything that we did
+-
+-
+- Mod 4
+	- 3 different resource groups for 3 full [[LENS]] deployments
+	- each for a different region
+	-

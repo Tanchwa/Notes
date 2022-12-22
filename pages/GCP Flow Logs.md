@@ -9,5 +9,5 @@
 	- monitoring
 	- network forensics
 	- secuirity analysis
-		- stream to [[GCP Cloud Pub/ Sub]] and integrate with a SIEM
+		- stream to [[GCP Cloud Pub/Sub]] and integrate with a SIEM
 -
