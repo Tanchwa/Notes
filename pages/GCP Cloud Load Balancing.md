@@ -10,5 +10,22 @@
 		- port
 		- protocol
 	- layer 3/4
+- Three categories
+	- global/ regional
+		- | global | external HTTPS load balancing | SSL proxy load balancing | tcp proxy load balancing |
+		  | regional | internal https load balancing | internal TCP/UDP load balancing | TCP/UDP network load balancing |
+	- external/ internal
+		- | external | external https load balancing | ssl proxy load balancing |  TCP/UDP network load balancing | TCP proxy load balancing |
+		  | internal | internal HTTPS load balancing | | internal TCP/UDP load balancing | |
+	- Traffic type
+		- HTTPS
+		- TCP
+		- UDP
+- How trafic is distributed is defined by "backend services" - [[GCP Managed Instance Group]] or [[GCP Network Endpoint Group]]
+	- use health checks
+	- session affinity
+	- service timeout
+	- traffic distribution
+	- backends
 - ![](https://miro.medium.com/max/614/1*u95QsM2JaE-wqYQkJ7Cs4w.png)
 -

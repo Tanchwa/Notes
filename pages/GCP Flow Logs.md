@@ -1,0 +1,13 @@
+- VPC flow logs are an essential tool for monitoring traffic
+- record sample of network flows from vm compute instances
+- enabled on subnet by subnet basis
+- can export to [[GCP Cloud Logging]] for 30 day storage
+- or a [[GCP Cloud Storage]] for longer and read and queried by [[GCP Cloud Logging]]
+- captures 1 in every 10 packets, cannot be changed. Interpolates the missed packets
+- **REALTIME MONITORING**
+- use cases
+	- monitoring
+	- network forensics
+	- secuirity analysis
+		- stream to [[GCP Cloud Pub/Sub]] and integrate with a SIEM
+-

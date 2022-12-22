@@ -1,0 +1,3 @@
+- debugs a running app without slowing it down
+- snapshots the call stack in the app
+- can be hooked into remote git repo

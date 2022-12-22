@@ -1,0 +1,9 @@
+- a suite of products that helps AI noobs to train high quality models unique to their needs
+- available for
+	- [[GCP Vision]]
+	- [[GCP Video Intelligence]]
+	- [[GCP Natural Language]]
+	- [[GCP Translation]]
+	- Tables
+	- Inference
+	- Recomendation

@@ -1,0 +1,7 @@
+- fully managed [[Apache Spark]] and [[Hadoop]] service
+- fast to create the clusters
+- turn off when you don't need it
+- integrated with other nosnql storage
+- when to use
+	- dependencies on [[Apache Spark]] or [[Hadoop]]
+- ![dataproc](https://upload.wikimedia.org/wikipedia/commons/0/03/Dataproc-128px-Retina.png)

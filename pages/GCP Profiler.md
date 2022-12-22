@@ -1,0 +1,2 @@
+- gathers CPU usage and memory allocation info from apps
+- needs an agent to be installed on the node

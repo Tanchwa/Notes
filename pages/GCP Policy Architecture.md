@@ -31,7 +31,7 @@
 		- Owner
 		- Editor
 		- Viewer
-		- avoid these roles if possible
+		- **avoid these roles if possible**
 	- Predefined
 		- give more granular access
 		- created and maintained by Google

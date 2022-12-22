@@ -1,0 +1,5 @@
+- realtime error monitoring and reporting
+- aggregates all errors in GCP environment
+- integration for [[GCP Cloud Functions]] and [[GCP App Engine]]
+- in beta for [[GCP Compute Engine]] [[GCP GKE]] [[GCP App Engine]] flexible, and [[AWS EC2]]
+-

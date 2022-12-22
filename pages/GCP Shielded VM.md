@@ -1,0 +1,4 @@
+- secure booted vms signed by googles CA
+- both boot processes are hash signed and will rerun if they fail to match
+- ![Screen Shot 2022-12-08 at 1.12.29 PM.png](../assets/Screen_Shot_2022-12-08_at_1.12.29_PM_1670523156944_0.png)
+-

@@ -1,8 +1,19 @@
 - durable block storage for instances
 - raw storage
-- Two options
+- network attached disks
+	- backups
+		- zonal can be backed up within the zone, but should use [[GCP Disk Snapshots]] for HA stratagy
+		- regional does replication across different zones, designed to work with HA instances
+			- slower than zonal disks
+			- can't use with compute or memory optimized machine types
+- Types of persistent disk
 	- Standard
-	- Solid State
--
--
-- ![](https://www.47deg.com/assets/img/blog/logos/persistent-disk.png)
+		- lowest cost
+	- Balanced
+	- SSD
+		- Highest stats
+	- see [[GCP Local SSD]] for more
+- ![Screen Shot 2022-12-09 at 7.46.22 PM.png](../assets/Screen_Shot_2022-12-09_at_7.46.22_PM_1670633201495_0.png)
+- can use Disk Resize to scale
+- each disk can go up to 64TB each
+- ![](https://www.47deg.com/assets/img/blog/logos/persistent-disk.png){:height 264, :width 256}

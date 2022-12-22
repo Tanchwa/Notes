@@ -1,5 +1,30 @@
 - scalable relational database
-- supports transactions, strong consistency, and **synchronous replication**
+- supports ACID transactions, strong consistency, and **synchronous replication**
 - google's relational database flavor
+- horizontally scalable
+- globally distributed
+- uses [[True Time]] - a highly available atomic network clock
+- handles replicas and sharding
+- billing
+	- $0.90/ node / hour + $0.30 a month
+-
+- why is it special?
+	- The scalability
+		- data replication is difficult, spanner does it for you
+		- replicas, sharding, and transaction processing
+		- cross region
+	- The consistency
+		- consistency and performance is usually a trade off
+		- [[True Time]] is basically a Google Network global NTP
+	- 99.999% availablility
+		- no maintenance windows
+		- synchronous replication between replicas in independant zones
+		- [[Paxos]] based replication scheme, writes are only committed when
+-
+- 10,000 queries QPS of reads or 2,000 QPS of writes
+- 2TB of storage per node
+- add nodes to increase data throughput and QPS
+- ![Screen Shot 2022-12-13 at 3.57.47 AM.png](../assets/Screen_Shot_2022-12-13_at_3.57.47_AM_1670921886682_0.png)
+-
 -
 - ![](https://www.zdnet.com/a/img/resize/eeccc07f9ecab1dab5029bf75a1c4868ebb36fb4/2018/02/21/06090e9d-c028-4d56-8d10-dce1474f8f8b/google-spanner-logo.png?auto=webp&fit=crop&height=1200&width=1200)

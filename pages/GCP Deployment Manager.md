@@ -1,0 +1,11 @@
+- a declarative IaC tool for managing resources
+- can use YAML, JINJA, Python Code Templates
+- deployment manager files are called Configurations
+	- manifests are then created based on Configuration
+	- manifests cannot be altered after they are built
+- Templates can use Jinja2 or Python
+- best practices
+	- break into separate domains
+	- use references to enforce order of resource creation
+	- use the `--preview` flag before deploying
+	- automate the project

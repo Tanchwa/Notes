@@ -5,5 +5,36 @@
 	- APIs
 	- Mobile backend functions
 - JavaScript, Python3, Go, Java
+- Triggers
+	- http
+	- [[GCP Cloud Pub/Sub]]
+	- [[GCP Cloud Storage]]
+	- [[GCP Firestore]]
+	- [[GCP Firebase]]
+- pricing
+	- uptime
+	- resources provisioned
+	- egress trafic may incur additional costs
+	- no free tier
 -
+- HTTP Functions
+	- respond to common http requests
+	- automatically provision a TLS cert
+- Background functions
+	- handles events from GCP infrastructure
+-
+- Can only bind one trigger at a time
+- Code stored in a [[GCP Cloud Storage]] bucket
+-
+- dataflow
+	- requests go into Functions
+	- assign to instances of your function
+		- create new
+		- or assign to existing
+	- stateless
+	- then passed off to VPC or internet
+-
+- functions should be written in idempotent way
+	- https://cloud.google.com/blog/products/serverless/cloud-functions-pro-tips-building-idempotent-functions
+	- In computer science, this refers to the notion of [idempotence](https://en.wikipedia.org/wiki/Idempotence), meaning that operation results remain unchanged when an operation is applied more than once. Likewise, a function is considered idempotent if an event results in the desired outcome even if the function is invoked multiple times for a given event.
 - ![](https://seeklogo.com/images/G/google-cloud-functions-logo-AECD57BFA2-seeklogo.com.png)

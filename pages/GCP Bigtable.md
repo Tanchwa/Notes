@@ -1,4 +1,19 @@
 - fully managed scalable NoSQL database
 - high throughput with low latency
-- cluster resizing without downtime
-- ![](https://www.computerhope.com/jargon/b/bigtable.jpg)
+- replication
+	- cluster resizing up or down without downtime
+	- automated replication
+- designed for terabyte to petabyte scale workloads
+-
+- Why?
+	- real time app serving
+	- large scale analytical workloads
+	- ideal for MapReduce operations
+	- integrates well with all the existing big data tools
+		- [[Hadoop]]
+		- [[GCP Dataflow]]
+		- [[GCP Cloud Dataproc]]
+		- Apache HBASE
+- Price
+	- $0.65 per hour per node
+- ![](https://www.computerhope.com/jargon/b/bigtable.jpg){:height 265, :width 300}

@@ -22,7 +22,7 @@
 			- subnet route
 				- each subnet has at least one subnet route that matches the IP range
 				- cannot delete subnet route unless you modify or delete the subnet
-				- sometimes when pairing using [[GCP Direct Peering]], it will associate a different subnet with the route, you will need to unpair before you delete the route
+				- sometimes when pairing using VPC peering, it will associate a different subnet with the route, you will need to unpair before you delete the route
 				- priority of 0
 		- Custom Routes
 			- static route
@@ -33,3 +33,24 @@
 				- managed by one or more [[GCP Cloud Router]]s
 				- next hops are always BGP peered routers
 	- special return paths are used by Google's internal network
+- VPC Peering
+	- private connectivity across two VPC networks
+	- RFC 1918 standard
+	- peer accross same or different [[GCP Project]]s and [[GCP Organization]]s
+	- reduce latency
+	- increase security
+	- reduce egress costs
+	- Subnet CIDR range in One subnet cannot overlap with a static route or subnet in another peered network
+	- transitive peering is not supported
+	- ![Screen Shot 2022-12-07 at 9.32.41 AM.png](../assets/Screen_Shot_2022-12-07_at_9.32.41_AM_1670423577470_0.png)
+- Shared VPC
+	- want to share resources across projects, but separate billing across [[GCP Project]]s
+	- this is a logical separation over the [[GCP VPC]]
+		- resources are all in the same VPC and project, but they are separated into logical projects so that they can each have their own permissions
+	- resources are in the same VPC network
+	- projects are either
+		- host project
+		- service project
+			- attach a project to a host as a service project
+			- each service can only be attached to one host
+		- standalone project

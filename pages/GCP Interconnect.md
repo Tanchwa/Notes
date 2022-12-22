@@ -1,0 +1,31 @@
+- connect an existing network to your VPC using a highly available, low latency, enterprise grade connection
+- This does not go on the public internet
+	- but not encrypted
+	- can set up encryption yourself
+- Fast, low latency
+- pricier than [[GCP Cloud VPN]]
+-
+- Dedicated Interconnect
+	- direct physical connection from on prem to google's net
+	- could be more cost effective than buying more bandwidth from
+	- a direct connection is made in a co-lo from an on prem router and google's  [[GCP Edge POP]]
+	- when you create it, you create a [[GCP Cloud Router]] for it in your VPC
+	- 8 x 10 Gbps connections or
+	- 2 x 100 Gbps connections
+- Partner Interconnect
+	- same concept but you connect to your service provider, service provider connects to [[GCP Edge POP]]
+	- 50 Mbps to 50 Gbps VLAN attachments
+-
+- other peering options
+- Direct Peering
+	- allows you to connect google's edge network to your on prem business network
+	- 100 locations in 33 countries
+	- provides direct path to google services, inc google cloud products
+	- direct egress pricing is also available
+	- **OUTSIDE OF GCLOUD**
+	- establishing this connection is free
+- CDN interconnect
+	- enables select third party CDN providers to establish direct peering links with Google's edge network
+- ![](https://newrelic.com/instant-observability/static/5ec636aff410c75769ea8ee061d78cb4/logo.svg)
+- ![](https://www.cloudbank.org/sites/default/files/styles/medium/public/file_fields/tool/google-interconnect.png?itok=nmco3JDC){:height 201, :width 220}
+-

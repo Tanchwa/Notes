@@ -1,6 +1,12 @@
 - fully managed, serverless,
 - NoSQL document database
-- for mobile, web, and IoT apps
-- multi-region replicaiton
-- ACID transactions
+- but has a SQL like query language called [[GQL]]
+- replication
+	- multi-region replication
+	- built for auto scaling
+- Atomic transactions
+	- either it happens, or it doesn't. no half transactions
+- NOTE: will be changed to [[GCP Firestore]]
+- uses [[ACID]] transactions
+-
 - ![](https://happycoding.io/tutorials/google-cloud/images/datastore-2.png)
