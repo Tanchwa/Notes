@@ -541,6 +541,9 @@
  {:block/name "chips to scavenge",
   :block/created-at 1667268281715,
   :block/updated-at 1667304532645}
+ {:block/name "cicd",
+  :block/created-at 1670274671044,
+  :block/updated-at 1670274671044}
  {:block/name "cjis",
   :block/created-at 1666801043348,
   :block/updated-at 1666801055912}
@@ -610,6 +613,9 @@
  {:block/name "dec 4th, 2022",
   :block/created-at 1670130052385,
   :block/updated-at 1670130052385}
+ {:block/name "dec 5th, 2022",
+  :block/created-at 1670274670438,
+  :block/updated-at 1670274670438}
  {:block/name "deck",
   :block/created-at 1659713803659,
   :block/updated-at 1659713803659}
@@ -682,15 +688,24 @@
  {:block/name "forward",
   :block/created-at 1670078192742,
   :block/updated-at 1670078192742}
+ {:block/name "g suite domain",
+  :block/created-at 1670274672484,
+  :block/updated-at 1670274672484}
  {:block/name "gcp",
   :block/created-at 1670078192607,
   :block/updated-at 1670078192607}
+ {:block/name "gcp access scopes",
+  :block/created-at 1670274671188,
+  :block/updated-at 1670274671188}
  {:block/name "gcp api",
   :block/created-at 1670198871448,
   :block/updated-at 1670198915029}
  {:block/name "gcp app engine",
   :block/created-at 1670078192385,
   :block/updated-at 1670078192385}
+ {:block/name "gcp auditconfig",
+  :block/created-at 1670274671204,
+  :block/updated-at 1670274671204}
  {:block/name "gcp bigquery",
   :block/created-at 1670198283063,
   :block/updated-at 1670198283063}
@@ -718,6 +733,12 @@
  {:block/name "gcp cloud functions",
   :block/created-at 1670078192409,
   :block/updated-at 1670078192409}
+ {:block/name "gcp cloud identity domain",
+  :block/created-at 1670274672485,
+  :block/updated-at 1670274672485}
+ {:block/name "gcp cloud kms",
+  :block/created-at 1670274674357,
+  :block/updated-at 1670274674357}
  {:block/name "gcp cloud load balancing",
   :block/created-at 1670080632552,
   :block/updated-at 1670103699433}
@@ -736,6 +757,9 @@
  {:block/name "gcp cloud run",
   :block/created-at 1670078192437,
   :block/updated-at 1670078192437}
+ {:block/name "gcp cloud shell",
+  :block/created-at 1670274671222,
+  :block/updated-at 1670274671222}
  {:block/name "gcp cloud spanner",
   :block/created-at 1670079743052,
   :block/updated-at 1670103367170}
@@ -754,6 +778,9 @@
  {:block/name "gcp compute engine",
   :block/created-at 1670078192539,
   :block/updated-at 1670078192539}
+ {:block/name "gcp conditions",
+  :block/created-at 1670274672489,
+  :block/updated-at 1670274672489}
  {:block/name "gcp dataflow",
   :block/created-at 1670171094692,
   :block/updated-at 1670171094692}
@@ -811,18 +838,46 @@
  {:block/name "gcp persistent disk",
   :block/created-at 1670078192689,
   :block/updated-at 1670078192689}
+ {:block/name "gcp policies and conditions",
+  :block/created-at 1670274674354,
+  :block/updated-at 1670274674354}
+ {:block/name "gcp policy architecture",
+  :block/created-at 1670274672495,
+  :block/updated-at 1670274672495}
+ {:block/name "gcp policy statement",
+  :block/created-at 1670274672493,
+  :block/updated-at 1670274672493}
  {:block/name "gcp pricing calculator",
   :block/created-at 1670171223187,
   :block/updated-at 1670178759739}
  {:block/name "gcp professional cloud architect",
   :block/created-at 1670078192756,
+<<<<<<< Updated upstream
   :block/updated-at 1670198871449}
+=======
+  :block/updated-at 1670274713902}
+>>>>>>> Stashed changes
  {:block/name "gcp project",
   :block/created-at 1670085844475,
   :block/updated-at 1670109027950}
+ {:block/name "gcp quotas",
+  :block/created-at 1670274673084,
+  :block/updated-at 1670274673084}
+ {:block/name "gcp resource",
+  :block/created-at 1670274673081,
+  :block/updated-at 1670274673081}
  {:block/name "gcp resources",
   :block/created-at 1670086595917,
   :block/updated-at 1670086595917}
+ {:block/name "gcp roles",
+  :block/created-at 1670274672487,
+  :block/updated-at 1670274672487}
+ {:block/name "gcp sdk and cli",
+  :block/created-at 1670274673681,
+  :block/updated-at 1670274673681}
+ {:block/name "gcp service account",
+  :block/created-at 1670274672481,
+  :block/updated-at 1670274672481}
  {:block/name "gcp storage class",
   :block/created-at 1670078192516,
   :block/updated-at 1670078192516}
@@ -859,6 +914,9 @@
  {:block/name "google gke",
   :block/created-at 1659750322605,
   :block/updated-at 1659750322605}
+ {:block/name "google groups",
+  :block/created-at 1670274672482,
+  :block/updated-at 1670274672482}
  {:block/name "governance",
   :block/created-at 1666627323839,
   :block/updated-at 1666627323839}

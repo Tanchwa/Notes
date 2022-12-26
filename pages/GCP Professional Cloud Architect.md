@@ -16,6 +16,7 @@ deck:: GCP Pro Architect
 - ![Screen Shot 2022-12-11 at 3.06.30 PM.png](../assets/Screen_Shot_2022-12-11_at_3.06.30_PM_1670789205358_0.png)
 -
 - ((6387951c-793a-4180-8dda-31f508bda4b7)) #card #forward
+  id:: 63a9025d-48fc-4242-8649-2aa655227faf
 	- On demand self service
 	- Broad network access
 	- Resource pooling
@@ -87,6 +88,7 @@ deck:: GCP Pro Architect
 		- [[GCP Memorystore]]
 -
 - Make a question about differences between Firestore and Datastore #card #reversed
+  id:: 63a9025d-62f4-4bdd-adf7-651c928744f7
 	- some question here, which one does blank and then fill it in
 -
 - Networking Services
