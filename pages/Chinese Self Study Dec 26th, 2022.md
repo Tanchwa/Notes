@@ -28,4 +28,11 @@ deck:: Chinese Self Study Dec 26th, 2022
 - 備 by itself is like an extra, something on standby
 - 備選 is a backup option
 - also can use 後備 for computing backup
+- 模組 #card #bidirectional
+  id:: 63aa14b8-5d31-4514-b31b-e2ab047a1c09
+	- module (computing)
+- 擴充 #card #bidirectional
+  id:: 63aa308b-e1ce-44e9-9bfd-8cabeb635fe5
+	- to expand, to make bigger kuo4chong1
+	- "expand on the capabilities of traditional IT" 雲端服務也會擴充傳統的 IT 供應項目
 -

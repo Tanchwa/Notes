@@ -556,6 +556,12 @@
  {:block/name "chinese notes july 1st, 2022",
   :block/created-at 1661389942314,
   :block/updated-at 1661391290545}
+ {:block/name "chinese self study dec 26th",
+  :block/created-at 1672085175706,
+  :block/updated-at 1672085175706}
+ {:block/name "chinese self study dec 26th, 2022",
+  :block/created-at 1672085146855,
+  :block/updated-at 1672090808901}
  {:block/name "chinese self study sep 30th",
   :block/created-at 1665781427340,
   :block/updated-at 1665781427340}
@@ -634,6 +640,9 @@
  {:block/name "dec 25th, 2022",
   :block/created-at 1672020157968,
   :block/updated-at 1672020157968}
+ {:block/name "dec 26th, 2022",
+  :block/created-at 1672083722633,
+  :block/updated-at 1672083722633}
  {:block/name "dec 3rd, 2022",
   :block/created-at 1670078191757,
   :block/updated-at 1670078191757}
