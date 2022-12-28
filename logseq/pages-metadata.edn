@@ -487,6 +487,9 @@
  {:block/name "azure webjobs",
   :block/created-at 1666885334692,
   :block/updated-at 1666885672989}
+ {:block/name "azure 雲端術語 第一模組",
+  :block/created-at 1672095184439,
+  :block/updated-at 1672100097374}
  {:block/name "b",
   :block/created-at 1659662751339,
   :block/updated-at 1659662751339}
@@ -561,7 +564,7 @@
   :block/updated-at 1672085175706}
  {:block/name "chinese self study dec 26th, 2022",
   :block/created-at 1672085146855,
-  :block/updated-at 1672090808901}
+  :block/updated-at 1672097991094}
  {:block/name "chinese self study sep 30th",
   :block/created-at 1665781427340,
   :block/updated-at 1665781427340}
@@ -643,6 +646,9 @@
  {:block/name "dec 26th, 2022",
   :block/created-at 1672083722633,
   :block/updated-at 1672083722633}
+ {:block/name "dec 27th, 2022",
+  :block/created-at 1672146845011,
+  :block/updated-at 1672146845011}
  {:block/name "dec 3rd, 2022",
   :block/created-at 1670078191757,
   :block/updated-at 1670078191757}
@@ -1598,7 +1604,7 @@
   :block/updated-at 1660267014407}
  {:block/name "synth specs",
   :block/created-at 1672020658145,
-  :block/updated-at 1672020747879}
+  :block/updated-at 1672094038460}
  {:block/name "team lead meet up oct 26, 2022",
   :block/created-at 1666807405501,
   :block/updated-at 1666808655512}
