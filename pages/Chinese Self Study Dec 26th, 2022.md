@@ -3,7 +3,7 @@ deck:: Chinese Self Study Dec 26th, 2022
 
 - 紀律 #card #bidirectional
   id:: 63a9feb2-6879-4f8b-8d22-7e16355b319f
-	- discipline ji4lu4
+	- discipline ji4lv4
 - 緣故 #card #bidirectional
   id:: 63aa1160-7248-491c-93db-fd629ad1eabe
 	- reason, cause, motive yuan2gu4

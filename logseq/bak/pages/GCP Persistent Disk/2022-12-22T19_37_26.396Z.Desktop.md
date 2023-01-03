@@ -1,0 +1,8 @@
+- durable block storage for instances
+- raw storage
+- Two options
+	- Standard
+	- Solid State
+-
+-
+- ![](https://www.47deg.com/assets/img/blog/logos/persistent-disk.png)
