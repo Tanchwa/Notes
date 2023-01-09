@@ -243,7 +243,7 @@ tags:: Azure, Cloud
 	- abstraction of servers, code is running as functions
 	- micro-billing - functions could run in a fraction of a second
 	- [[Azure Functions]]
-	- [[Blob Storage]]
+	- [[Azure Blob Storage]]
 	- [[Azure Logic Apps]]
 	- [[Azure Event Grid]]
 -

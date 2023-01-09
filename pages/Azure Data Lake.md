@@ -1,2 +1,38 @@
 - a centralized repo for storing structured or unstructured data at any scale
-- used for big data
+- big data
+-
+- structured
+	- [[Parquet]]
+	- [[Avro]]
+- semi structured
+	- json
+	- xml
+- unstructured
+	- media
+-
+- used to have a dedicated data lake offering (gen1); now have gen 2
+-
+- Gen2 is now built on top of [[Azure Blob Storage]]
+	- you have a storage account associated
+		- general purpose v2
+		- premium block storage blob
+	- this now lets you use blob tools
+	- PLUS you now get a true directory structure
+		- helpful for intermediary processings
+			- in blob, "moving" from one blob to another would be a copy and paste action
+			- here, we basically just alter the metadata in place
+			- and get a true hierarchical namespace
+	- secuirty
+		- POSIX acls
+		- RBAC acles
+	- integrates with Purview
+		- auto tag / classify data
+		- can also use this to make auto ACLs
+	- you now have access to the data through the [[Azure Blob Storage]] api
+	- but also through other services
+		- you get a [[DFS]] - distributed file system
+		- can plug your [[DFS]] api into [[Apache Spark]], [[Hadoop]], [[Azure Databricks]]
+	- Storage Classes
+	- Lifecycle Management
+	- other features listed [here](https://learn.microsoft.com/en-us/azure/storage/blobs/storage-feature-support-in-storage-accounts)
+	-

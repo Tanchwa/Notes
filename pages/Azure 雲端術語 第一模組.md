@@ -84,4 +84,38 @@ title:: Azure 雲端術語 第一模組
 - 修補 #card #bidirectional
   id:: 63aa348d-c30c-4aaa-ac4a-586a163055a4
 	- patch
--
+- 冷卻 #card #bidirectional
+	- cooling, to cool off leng3que4
+- https://chinese.stackexchange.com/questions/35938/what-is-the-difference-between-%E9%9C%80-and-%E9%A0%88#:~:text=%E7%9B%AE%E5%89%8D%EF%BC%8C%E9%9C%80%E5%A4%9A%E7%94%A8%E4%BA%8E%E5%AE%A2%E8%A7%82,%E7%9A%84%E4%B8%BB%E7%AE%A1%E9%9C%80%E8%A6%81%E7%9A%84%E8%AF%AD%E6%B0%94%E3%80%82
+- 資訊 #card #bidirectional
+	- information zi1xun4
+- 歸屬 #card #bidirectional
+	- to belong to, to be affiliated with, to be attributed to gui1shu3
+- 擷取 #card #bidirectional
+	- to pick **/** to select **/** to take **/** to capture (data) **/** to acquire **/** to pick up (a signal)
+	- xie2qu3
+- 部署 #card #bidirectional
+	- to dispose, to deploy, deployment bu4shu3
+- 若 #card #bidirectional
+	- to seem, like, as, if ruo4
+- 基礎結構即服務 #card #bidirectional
+	- (IaaS)
+- 平台即服務 #card #bidirectional
+	- (PaaS)
+- 軟體即服務 #card #bidirectional
+	- (SaaS)
+- 設施 #card #bidirectional
+	- facilities, installation 4-1
+- 卻 VS 則
+	- https://yen03.blogspot.com/2018/12/learn-mandarin-grammar-difference.html
+	- que is stronger
+- 裝置 #card #bidirectional
+	- to install, installation, equipment, system zhuang1zhi4
+- 程式 #card #bidirectional
+	- form, pattern, formular, computing program (tw)
+- 身分識別 #card #bidirectional
+	- identity access management
+	- lit. identity identification shen1fen4 shi2bie2
+- https://learn.microsoft.com/zh-tw/training/modules/describe-cloud-compute/5-define-cloud-models
+- 程度 #card #bidirectional
+	- degree, level extent

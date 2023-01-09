@@ -1,5 +1,5 @@
 - contains all of your azure storage data objects
-	- [[Blob Storage]]
+	- [[Azure Blob Storage]]
 	- [[Azure Disk Storage]]
 	- [[Azure Table Storage]]
 	- [[Azure Queue Storage]]

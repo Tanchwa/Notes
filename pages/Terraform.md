@@ -2,3 +2,12 @@
 	- dev teams don't understand how it works or what its doing
 	- constraints on what can be built are not well defined
 -
+- Questions about [[LENS]] terraform
+	- what's the difference between merge and coalesce /IaC/modules/sqldb/main.tf
+	- key_vault_access_policy.current_user IaC/modules/resourcegroup/keyvault.tf
+	- what keys do we actually need? what meta data is being exported to data lake
+	- how are the data lake storage levels separated? is this done in databricks notebooks?
+	- is this using count to replace a value IaC/modules/sqldb/azuresqldb.tf
+	- also var.kv.id versus using the one that gets created? which is better? IaC/modules/sqldb/azuresqldb.tf
+	- where the heck is data lake
+	-
