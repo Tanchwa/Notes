@@ -10,13 +10,47 @@ deck:: GCP Pro Architect
 - Exam Guide https://cloud.google.com/certification/guides/professional-cloud-architect/
 -
 - [[GCP Associate Engineer exam study]]
--
+- What you need to be able to do
+	- design and plan a cloud architecture
+	- manage and provision the cloud solution infrastructure
+	- design for security and compliance
+	- analyze and optimize technical and business processes
+	- manage implementations of cloud architecture
+	- ensure solution and operations reliability
 -
 - When considering the grand plan
 - ![Screen Shot 2022-12-11 at 3.06.30 PM.png](../assets/Screen_Shot_2022-12-11_at_3.06.30_PM_1670789205358_0.png)
 -
+- Architecting systems in context
+	- It is ESSENTIAL to look for similarities based on existing on prem structure when designing a new plan, "form and function are one"
+	- follow business requirements
+		- optimize all resources inc cost and personnel
+		- improve quality and availability of service
+		- always maintain user experience
+		- handle evolving market demands
+	- uphold technology requirements
+		- automate to reduce toil
+		- increase time for feature developement
+		- use latest industry patterns and practices
+	- operations requirements
+		- automate to reduce frequency of failures
+		- reduce mean time to recovery
+		- minimize failure of any single component
+		-
+- Considering this with regards to the case studies
+	- where is the company coming from
+	- where are they going: GCP, hybrid, multi-cloud? national, regional, global?
+	- what's next?
+-
+- The two most important rules regardless of context
+	- scalability
+	- resilience
+		- always be architecting, you're setup WILL fail at some point
+-
+-
 - ((6387951c-793a-4180-8dda-31f508bda4b7)) #card #forward
   id:: 63a9025d-48fc-4242-8649-2aa655227faf
+  collapsed:: true
 	- On demand self service
 	- Broad network access
 	- Resource pooling
@@ -24,6 +58,7 @@ deck:: GCP Pro Architect
 	- Measured Service
 -
 - Regions and Geographies
+  collapsed:: true
 	- 24 [[Region]]s
 	- 73 ((638a41a2-9491-4f0a-95ef-492279f64cbd))
 	- uses [[GCP Edge POP]] / [[GCP Edge Node]] as ingress
@@ -32,6 +67,7 @@ deck:: GCP Pro Architect
 	- [[GCP Multi Region]]
 -
 - Compute Services
+  collapsed:: true
 	- [[GCP Compute Engine]] (GCP VMs)
 		- manage multiple instances with [[GCP Managed Instance Group]]
 		- add or remove capacity using autoscaling
@@ -46,6 +82,7 @@ deck:: GCP Pro Architect
 	- [[GCP Batch]]
 -
 - Storage Services
+  collapsed:: true
 	- [[GCP Persistent Disk]] and [[GCP Local SSD]]
 	- [[GCP Filestore]]
 	- [[GCP Cloud Storage]]
@@ -78,6 +115,7 @@ deck:: GCP Pro Architect
 			- random access
 -
 - Database Services
+  collapsed:: true
 	- SQL
 		- [[GCP Cloud SQL]]
 		- [[GCP Cloud Spanner]]
@@ -110,6 +148,7 @@ deck:: GCP Pro Architect
 -
 - Resource Hierarchy
   id:: 638b7b14-0709-448c-a97f-0ba4a44e5b5d
+  collapsed:: true
 	- Permissions to resources inherit permissions similar to the structure of [[Azure AD]]
 	- everything below the [[GCP Domain]] is considered a resource
 	- Service-Level Resources
@@ -132,10 +171,12 @@ deck:: GCP Pro Architect
 	- mirror your resource hierarchy to your organization structure
 -
 - Billing
+  collapsed:: true
 	- [[GCP Billing Account]] is at the cloud level
 	- [[GCP Payments Profile]] is Google-level
 	-
 - Cost Management
+  collapsed:: true
 	- [[GCP Committed Use Discounts]]
 	- [[GCP Sustained Use Discounts]]
 	- [[GCP Pricing Calculator]]
@@ -148,18 +189,21 @@ deck:: GCP Pro Architect
 		- billed by second with min 1 minute
 -
 - Access
+  collapsed:: true
 	- [[GCP API]]
 	- [[GCP SDK and CLI]]
 	- [[GCP Deployment Manager]]
 	-
 -
 - Security
+  collapsed:: true
 	- [[GCP IAM]]
 	- [[GCP Policy Architecture]]
 	- [[GCP Cloud Identity]]
 	- [[GCP Service Account]]
 	- [[GCP KMS]]
 - Enabling security in GCP
+  collapsed:: true
 	- Security products
 	- Security features
 	- Security mindset
@@ -169,16 +213,19 @@ deck:: GCP Pro Architect
 		- fail securely
 		- and more in [OWASPs Security by Design Principles](https://wiki.owasp.org/index.php/Security_by_Design_Principles)
 - To manage identity (AuthN)
+  collapsed:: true
 	- [[G Suite Domain]], [[GCP Cloud Identity]]
 	- [[GCP Service Account]]
 	- identity hierarchy with [[Google Groups]]
 	- [[GCDS]]
 - For authorization (AuthZ)
+  collapsed:: true
 	- [[Google Groups]]
 	- resource hierarchy [[GCP Organization]], [[GCP Folder]], [[GCP Project]]
 	- and [[GCP IAM]]
 	- consider Billing management as well
 - for accounting
+  collapsed:: true
 	- audit/ activity logs in [[GCP Cloud Monitoring]]
 	- [[GCP Billing Export]]
 		- to [[GCP BigQuery]]
@@ -186,6 +233,7 @@ deck:: GCP Pro Architect
 		- GCS Object Lifecycle management
 -
 - Big Data and Data Flows
+  collapsed:: true
 	- [[GCP BigQuery]]
 	- [[GCP Dataflow]]
 	- [[GCP Cloud Dataproc]]
@@ -211,6 +259,7 @@ deck:: GCP Pro Architect
 		- lots of destinations and separation
 -
 - Machine Learning
+  collapsed:: true
 	- [[GCP Vision]]
 	- [[GCP Video Intelligence]]
 	- [[GCP Natural Language]]
@@ -221,6 +270,7 @@ deck:: GCP Pro Architect
 	- [[GCP AutoML]]
 -
 - Monitoring
+  collapsed:: true
 	- everything is contained within [[GCP Operations Suite]]
 	- [[GCP Cloud Monitoring]]
 	- [[GCP Cloud Logging]]
